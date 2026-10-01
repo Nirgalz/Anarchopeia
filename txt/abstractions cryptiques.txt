@@ -1,0 +1,8 @@
+NEED = conditionnalité sémantique
+CAN = potentialité sémantique
+
+- pensée à court sens, pensée à long sens
+
+- Réponse combat-fuite : production d’histoires
+Dépasser les histoires primitives et en façonner de nouvelles qui s’appuient sur des fonctions de raisonnement plus évoluées. 
+
