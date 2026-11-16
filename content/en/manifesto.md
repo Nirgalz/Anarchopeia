@@ -19,6 +19,6 @@ Distinguish **values, factual claims, causal hypotheses, and institutional propo
 
 ## Current status
 
-No detailed political, monetary, property, or transition model has been adopted here. The [research index](research/README.md), [proposals](proposals/README.md), and [decision log](decisions/README.md) will inform subsequent revisions.
+An initial [discussion paper on aims, emancipation, and non-domination](foundations/aims-emancipation-and-non-domination.md) documents the initiator's current orientation and unresolved questions. No detailed political, monetary, property, or transition model has been adopted here. The [research index](research/README.md), [proposals](proposals/README.md), and [decision log](decisions/README.md) will inform subsequent revisions.
 
 See [governance](../../GOVERNANCE.md) and [how to contribute](../../CONTRIBUTING.md).

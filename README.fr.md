@@ -9,6 +9,7 @@ Anarchopeia explore des institutions politiques, économiques et sociales suscep
 ## Explorer le projet
 
 - [Manifeste vivant — plan de travail](content/fr/manifesto.md)
+- [Finalités, émancipation et non-domination — base de discussion](content/fr/foundations/aims-emancipation-and-non-domination.md)
 - [Finalités, principes et définitions](content/fr/foundations/README.md)
 - [Dossiers de recherche](content/fr/research/README.md)
 - [Articles](content/fr/articles/README.md)

@@ -22,6 +22,6 @@ Distinguer **valeurs, affirmations factuelles, hypothèses causales et propositi
 
 ## État actuel
 
-Aucun modèle politique, monétaire, foncier ou de transition détaillé n'est adopté ici. L'[index des recherches](research/README.md), les [propositions](proposals/README.md) et le [journal des décisions](decisions/README.md) nourriront les révisions futures.
+Une première [base de discussion sur les finalités, l'émancipation et la non-domination](foundations/aims-emancipation-and-non-domination.md) expose les orientations actuelles de l'initiateur et les questions non résolues. Aucun modèle politique, monétaire, foncier ou de transition détaillé n'est adopté ici. L'[index des recherches](research/README.md), les [propositions](proposals/README.md) et le [journal des décisions](decisions/README.md) nourriront les révisions futures.
 
 Voir la [gouvernance](../../GOVERNANCE.fr.md) et les [modalités de contribution](../../CONTRIBUTING.fr.md).
