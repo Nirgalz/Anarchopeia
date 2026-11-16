@@ -6,7 +6,7 @@
 |---|---|
 | ID | AP-0002 |
 | Statut | `in_progress` |
-| Version de travail | 0.1 |
+| Version de travail | 0.2 |
 | Version approuvée | Aucune |
 | Portée | Concept fondamental — émancipation |
 | Origine | Échanges avec l'initiateur, 16 novembre 2026 ; ancien [document de discussion](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/fr/foundations/aims-emancipation-and-non-domination.md) |
@@ -80,9 +80,13 @@ Questions possibles à examiner, sans indicateurs déjà adoptés :
 - De nouvelles dépendances ou pressions apparaissent-elles durant une transformation présentée comme émancipatrice ?
 - Peut-on analyser les changements matériels, sociaux et cognitifs sans présupposer un progrès linéaire ?
 
-## Synthèse
+## Texte proposé pour le manifeste
 
-**Synthèse provisoire :** l'émancipation est un **processus individuel et collectif**, jamais définitivement achevé. L'autonomie et les possibilités effectives en favorisent la réalisation. Il faut rendre possible la réflexion critique sans en imposer les conclusions. Les croyances et les normes ne sont pas automatiquement oppressives. Cette définition reste **non approuvée et révisable**.
+**L'émancipation** est un **processus individuel et collectif**, évolutif et non nécessairement linéaire, par lequel les personnes et les collectifs s'affranchissent des contraintes, des rapports de domination, des dépendances et des effets limitants des croyances et normes intériorisées qui restreignent leur liberté de penser, de construire leur existence, de définir leurs propres finalités ou de transformer leur organisation collective.
+
+L'autonomie et les possibilités effectives d'agir sont **des conditions de l'émancipation**, et non sa définition. Toute croyance, norme, dépendance ou influence sociale n'est pas nécessairement une entrave à l'émancipation. Anarchopoeia cherche à favoriser les conditions de la réflexion critique sans prescrire les croyances à abandonner, les conclusions à adopter ou les modes de vie à suivre.
+
+Émancipation individuelle et collective peuvent se renforcer, mais l'émancipation d'un collectif ne garantit pas automatiquement celle de chacun de ses membres.
 
 ## Recherche
 
@@ -101,3 +105,4 @@ Pistes de recherche à développer dans cette proposition :
 ## Historique des révisions
 
 - **2026-11-16 — v0.1, `in_progress` :** extraction des distinctions conceptuelles et précautions discutées dans le document commun. Aucune approbation consignée.
+- **2026-11-16 — v0.2, `in_progress` :** remplacement de la synthèse de recherche par un **texte proposé pour le manifeste**, directement publiable après approbation. Aucune approbation consignée.

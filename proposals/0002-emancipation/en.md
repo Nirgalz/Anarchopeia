@@ -6,7 +6,7 @@
 |---|---|
 | ID | AP-0002 |
 | Status | `in_progress` |
-| Working version | 0.1 |
+| Working version | 0.2 |
 | Approved version | None |
 | Scope | Foundational concept — emancipation |
 | Origin | Initiator discussion, 16 November 2026; earlier combined [discussion paper](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/en/foundations/aims-emancipation-and-non-domination.md) |
@@ -80,9 +80,13 @@ Possible questions to study, not pre-approved measurements:
 - Are new forms of dependence or pressure emerging during ostensibly emancipatory change?
 - Can shifts be identified across material, social and cognitive dimensions without assuming that progress is linear?
 
-## Summary
+## Proposed Manifesto Entry
 
-**Working synthesis:** Emancipation is an **individual and collective process**, never definitively complete. Autonomy and effective opportunities enable it. Critical reflection should be made possible, while conclusions remain each person's to determine. Beliefs and norms are not automatically oppressive. This definition remains **unapproved and open to revision**.
+**Emancipation** is an evolving, not necessarily linear **individual and collective process** through which people and collectives free themselves from constraints, relations of domination, dependencies, and the limiting effects of internalized beliefs and norms that restrict their freedom to think, shape their lives, define their own ends, or transform their collective organization.
+
+Autonomy and effective opportunities to act are **conditions of emancipation**, not its definition. Not every belief, norm, dependence or social influence is an obstacle to emancipation. Anarchopoeia seeks to foster the conditions for critical reflection without prescribing which beliefs people must abandon, which conclusions they must reach, or how they must live.
+
+Individual and collective emancipation may reinforce one another, but the emancipation of a collective does not automatically guarantee the emancipation of each of its members.
 
 ## Research
 
@@ -101,3 +105,4 @@ Research directions to develop within this proposal:
 ## Revision history
 
 - **2026-11-16 — v0.1, `in_progress`:** Extracted the agreed conceptual distinctions and safeguards from the earlier combined discussion paper. No approval recorded.
+- **2026-11-16 — v0.2, `in_progress`:** Replaced the research summary with a publication-ready **Proposed Manifesto Entry**. No approval recorded.

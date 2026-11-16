@@ -6,7 +6,7 @@ Ce document formalise le workflow discuté avec l'initiateur le 16 novembre 2026
 
 ## Rôle des documents
 
-- **Proposition :** argumentaire complet, recherches, références, critiques, évaluation, synthèse et historique réunis **dans un même document**.
+- **Proposition :** argumentaire complet, recherches, références, critiques, évaluation, texte proposé pour le manifeste et historique réunis **dans un même document**.
 - **Manifeste :** synthèse concise des versions de propositions **approuvées**, avec liens vers leurs dossiers. Il reste lisible sans reproduire toutes les recherches.
 - **Issues / pull requests GitHub :** discussions et modifications proposées ; l'historique Git conserve les versions antérieures.
 - **`txt/` :** notes historiques préservées pour plus tard, sans adoption automatique.
@@ -17,7 +17,7 @@ Ce document formalise le workflow discuté avec l'initiateur le 16 novembre 2026
 | --- | --- | --- |
 | `in_progress` | Rédaction, recherche ou révision d'une version candidate | Aucun |
 | `awaiting_approval` | Version candidate soumise à une décision éditoriale | Aucun |
-| `approved` | **Version précise** acceptée par une décision consignée | Publication ou actualisation de sa synthèse dans le manifeste |
+| `approved` | **Version précise** acceptée par une décision consignée | Publication ou actualisation du texte proposé dans le manifeste |
 
 ### Première approbation
 
@@ -27,7 +27,7 @@ Chaque proposition indique son identifiant, sa version de travail, son statut, s
 
 ### Révision d'une proposition approuvée
 
-**La dernière version approuvée et sa synthèse restent en vigueur** pendant qu'une version candidate est `in_progress` ou `awaiting_approval`. Les révisions se préparent dans une branche/PR pour préserver la version approuvée sur `main`. Une fois approuvée, la révision remplace la synthèse précédente et met à jour ensemble la version et l'historique de la proposition. **« Révision approuvée » est un événement, et non un statut supplémentaire.** Les modifications refusées ne remplacent pas le texte approuvé.
+**La dernière version approuvée et son entrée dans le manifeste restent en vigueur** pendant qu'une version candidate est `in_progress` ou `awaiting_approval`. Les révisions se préparent dans une branche/PR pour préserver la version approuvée sur `main`. Une fois approuvée, la révision remplace l'entrée précédente dans le manifeste et met à jour ensemble la version et l'historique de la proposition. **« Révision approuvée » est un événement, et non un statut supplémentaire.** Les modifications refusées ne remplacent pas le texte approuvé.
 
 Une proposition peut aussi être retirée, remplacée ou rejetée ; documenter la décision et son effet sur le manifeste. Il s'agit d'issues possibles, **pas de statuts supplémentaires du cycle courant**.
 
@@ -43,12 +43,12 @@ Une proposition peut aussi être retirée, remplacée ou rejetée ; documenter l
 4. **Alternatives**
 5. **Criticism and limitations — Critiques et limites**
 6. **Evaluation — Évaluation**
-7. **Summary — Synthèse** — juste après l'évaluation
+7. **Proposed Manifesto Entry — Texte proposé pour le manifeste** — texte directement publiable si approuvé, placé juste après l'évaluation
 8. **Research — Recherche** — développement des recherches, éléments étayés et questions ouvertes
 9. **References — Références** — sources complètes et limites, après vérification
 10. **Revision history — Historique des révisions**
 
-La section **Research** se situe après **Evaluation** et avant **References**, la **synthèse immédiatement après Evaluation**. Ces dix sections figurent dans toute proposition, y compris les définitions fondamentales. Citer les sources là où les affirmations sont formulées, puis réunir les références complètes. Signaler les simples pistes de lecture non vérifiées.
+La section **Research** se situe après **Evaluation** et avant **References**, le **texte proposé pour le manifeste immédiatement après Evaluation**. Ces dix sections figurent dans toute proposition, y compris les définitions fondamentales. Ce texte présente directement ce qui serait publié, **sans résumer le raisonnement**, et n'est intégré qu'après une approbation explicite. Citer les sources là où les affirmations sont formulées, puis réunir les références complètes. Signaler les simples pistes de lecture non vérifiées.
 
 Voir le [modèle](PROPOSAL_TEMPLATE.fr.md) et le [catalogue des propositions](proposals/README.fr.md).
 
@@ -63,4 +63,4 @@ Voir le [modèle](PROPOSAL_TEMPLATE.fr.md) et le [catalogue des propositions](pr
 
 ## Vérifications avant approbation
 
-Le problème et l'objet de la proposition sont-ils clairs ? Les alternatives et objections sont-elles correctement exposées ? Les jugements normatifs et les constats empiriques sont-ils distingués ? Les sources et limites sont-elles indiquées ? Les personnes concernées, risques et possibilités effectives de contestation sont-ils examinés lorsque c'est pertinent ? La synthèse correspond-elle au document ? Décision et traductions sont-elles traçables ?
+Le problème et l'objet de la proposition sont-ils clairs ? Les alternatives et objections sont-elles correctement exposées ? Les jugements normatifs et les constats empiriques sont-ils distingués ? Les sources et limites sont-elles indiquées ? Les personnes concernées, risques et possibilités effectives de contestation sont-ils examinés lorsque c'est pertinent ? Le texte proposé pour le manifeste est-il autonome, directement publiable et cohérent avec les arguments du document ? Décision et traductions sont-elles traçables ?

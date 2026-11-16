@@ -6,7 +6,7 @@
 |---|---|
 | ID | AP-0003 |
 | Statut | `in_progress` |
-| Version de travail | 0.1 |
+| Version de travail | 0.2 |
 | Version approuvée | Aucune |
 | Portée | Concept fondamental — domination |
 | Origine | Échanges avec l'initiateur, 16 novembre 2026 ; ancien [document de discussion](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/fr/foundations/aims-emancipation-and-non-domination.md) |
@@ -72,9 +72,13 @@ Questions d'évaluation possibles :
 - Quelles garanties protègent contre les représailles et les concentrations informelles de pouvoir ?
 - Quelles alternatives institutionnelles réduisent cette exposition sans empêcher la coordination collective nécessaire ?
 
-## Synthèse
+## Texte proposé pour le manifeste
 
-**Synthèse provisoire :** la domination inclut le **pouvoir arbitraire potentiel aussi bien qu'exercé**, y compris sous des formes systémiques. L'enjeu est l'exposition réelle à une interférence arbitraire sans moyen effectif de contrôle, de contestation ou de transformation, et non l'inégalité ou la contrainte en tant que telles. Cette définition **n'est pas encore approuvée** et doit être éprouvée conceptuellement.
+**La domination** existe lorsqu'un individu ou un groupe est exposé, directement ou indirectement, à un **pouvoir arbitraire**, effectivement exercé ou susceptible de l'être de manière réelle, sans disposer de moyens effectifs pour contrôler, contester, limiter ou transformer ce pouvoir. Elle peut être interpersonnelle, institutionnelle ou systémique ; elle ne suppose ni abus effectivement commis ni intention consciente de dominer.
+
+Toute asymétrie d'autorité, contrainte collective légitime ou limitation matérielle ne constitue pas nécessairement une domination. L'enjeu est l'exposition réelle à un pouvoir arbitraire, et non une possibilité abstraite de nuire.
+
+Les mécanismes de contestation et de contrôle doivent être effectifs en pratique : accessibles, suffisamment indépendants, susceptibles de produire des recours significatifs et utilisables sans représailles.
 
 ## Recherche
 
@@ -93,3 +97,4 @@ Recherches à approfondir dans cette proposition :
 ## Historique des révisions
 
 - **2026-11-16 — v0.1, `in_progress` :** extraction de la définition de travail de la domination interpersonnelle, institutionnelle et systémique à partir du document commun. Aucune approbation consignée.
+- **2026-11-16 — v0.2, `in_progress` :** remplacement de la synthèse de recherche par un **texte proposé pour le manifeste**, directement publiable après approbation. Aucune approbation consignée.

@@ -1,6 +1,6 @@
 # Catalogue des propositions
 
-Une **proposition** rassemble son énoncé ou mécanisme institutionnel, son argumentaire, son évaluation, sa synthèse, ses recherches, ses pistes de sources et son historique **dans un même document par langue**. Les dossiers séparés `research/` et `sources/` ne sont pas nécessaires.
+Une **proposition** rassemble son énoncé ou mécanisme institutionnel, son argumentaire, son évaluation, son texte proposé pour le manifeste, ses recherches, ses pistes de sources et son historique **dans un même document par langue**. Les dossiers séparés `research/` et `sources/` ne sont pas nécessaires.
 
 | ID | Proposition | Statut | Version approuvée |
 | --- | --- | --- | --- |

@@ -8,7 +8,7 @@ Anarchopeia is a project exploring emancipation of individuals and collectives a
 
 ## The editorial workflow
 
-One **proposal** is the unit of research, debate and decision. Its own document contains the proposal, limitations, evaluation, summary, research, references, and revision history. Every substantive change to the manifesto—including its aims, principles and definitions—must pass through a proposal.
+One **proposal** is the unit of research, debate and decision. Its own document contains the proposal, limitations, evaluation, proposed manifesto entry, research, references, and revision history. Every substantive change to the manifesto—including its aims, principles and definitions—must pass through a proposal.
 
 **[Read the editorial workflow](WORKFLOW.md) · [How to contribute](CONTRIBUTING.md) · [Provisional governance](GOVERNANCE.md)**
 

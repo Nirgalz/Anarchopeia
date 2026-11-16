@@ -6,7 +6,7 @@
 |---|---|
 | ID | AP-0001 |
 | Statut | `in_progress` |
-| Version de travail | 0.1 |
+| Version de travail | 0.2 |
 | Version approuvée | Aucune |
 | Portée | Finalités fondamentales et démarche |
 | Origine | Échanges avec l'initiateur, 16 novembre 2026 ; ancien [document de discussion](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/fr/foundations/aims-emancipation-and-non-domination.md) |
@@ -69,9 +69,13 @@ Questions possibles pour évaluer le projet et les propositions futures :
 
 Aucun score universel ni progrès nécessairement linéaire n'est présupposé.
 
-## Synthèse
+## Texte proposé pour le manifeste
 
-**Synthèse provisoire :** Anarchopoeia cherche l'émancipation individuelle et collective et la disparition de la domination grâce à une recherche institutionnelle révisable en permanence. L'anarchie constitue un horizon régulateur dont la stabilisation définitive ne peut être garantie. Ces orientations **ne sont pas encore une partie approuvée du manifeste**.
+Anarchopoeia poursuit deux finalités fondamentales : **l'émancipation des individus et des collectifs** et **la disparition des rapports de domination**. Ces finalités sont liées mais distinctes ; aucune ne prime automatiquement sur l'autre.
+
+L'anarchie constitue un horizon théorique, non un modèle institutionnel définitif. Sa réalisation à un instant donné n'est pas exclue, mais sa stabilisation permanente ne peut être garantie à mesure que les personnes, les sociétés, les connaissances, les technologies et les environnements évoluent.
+
+Anarchopoeia étudie les systèmes économiques, politiques et organisationnels, élabore et examine des alternatives, puis évalue leurs effets sur l'émancipation et la domination. Son manifeste, ses méthodes et sa gouvernance demeurent ouverts à la critique et à la révision.
 
 ## Recherche
 
@@ -92,3 +96,4 @@ Distinguer engagements normatifs et affirmations empiriques ; sourcer les géné
 ## Historique des révisions
 
 - **2026-11-16 — v0.1, `in_progress` :** extraction des finalités du projet, de l'idéal anarchique et de la démarche itérative à partir du document commun. Aucune approbation consignée.
+- **2026-11-16 — v0.2, `in_progress` :** remplacement de la synthèse de recherche par un **texte proposé pour le manifeste**, directement publiable après approbation. Aucune approbation consignée.

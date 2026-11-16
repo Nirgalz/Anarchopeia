@@ -6,7 +6,7 @@ This document records the workflow discussed with the initiator on 16 November 2
 
 ## Roles of documents
 
-- **Proposal:** complete argument and evidence record, including research, references, criticism, evaluation, summary and history in a **single document**.
+- **Proposal:** complete argument and evidence record, including research, references, criticism, evaluation, a proposed manifesto entry and history in a **single document**.
 - **Manifesto:** concise synthesis of **approved** proposal versions with links to the full records. It should remain readable without duplicating all research.
 - **GitHub Issues / PRs:** discussion and proposed changes; Git history retains prior versions.
 - **`txt/`:** historical notes kept intact for later consideration; not automatically adopted.
@@ -17,7 +17,7 @@ This document records the workflow discussed with the initiator on 16 November 2
 | --- | --- | --- |
 | `in_progress` | Drafting, researching or revising a candidate | None |
 | `awaiting_approval` | Candidate submitted for an editorial decision | None |
-| `approved` | A **specific version** accepted in a recorded decision | Publish/update its summary in the manifesto |
+| `approved` | A **specific version** accepted in a recorded decision | Publish/update its proposed entry in the manifesto |
 
 ### First approval
 
@@ -27,7 +27,7 @@ A proposal should state its ID, working version, status, approval record and rel
 
 ### Revision of an approved proposal
 
-**The last approved version and its manifesto summary stay in force** while a candidate revision is `in_progress` or `awaiting_approval`. Work on revisions in a branch/PR so that the approved main-branch version remains stable. After review, an approved revision replaces the previous summary and updates the proposal version and revision history together. **“Revision approved” is an event, not a separate status.** Unaccepted changes do not replace the approved text.
+**The last approved version and its manifesto entry stay in force** while a candidate revision is `in_progress` or `awaiting_approval`. Work on revisions in a branch/PR so that the approved main-branch version remains stable. After review, an approved revision replaces the previous manifesto entry and updates the proposal version and revision history together. **“Revision approved” is an event, not a separate status.** Unaccepted changes do not replace the approved text.
 
 A proposal may also be withdrawn, superseded or rejected; document the decision and affected manifesto entry. These are decision outcomes, **not additional routine lifecycle statuses**.
 
@@ -43,12 +43,12 @@ A proposal may also be withdrawn, superseded or rejected; document the decision 
 4. **Alternatives**
 5. **Criticism and limitations**
 6. **Evaluation**
-7. **Summary** — concise synthesis immediately after evaluation
+7. **Proposed Manifesto Entry** — publication-ready text proposed for the manifesto if approved; placed immediately after evaluation
 8. **Research** — extended reasoning, evidence and outstanding questions
 9. **References** — complete sources and their limitations, when verified
 10. **Revision history**
 
-**Research belongs after Evaluation and before References**, with Summary directly after Evaluation. Keep all ten within each proposal, including those about foundational definitions. Cite sources where claims occur; the references section collects their details. Clearly label unverified reading leads.
+**Research belongs after Evaluation and before References**, with Proposed Manifesto Entry directly after Evaluation. Keep all ten within each proposal, including those about foundational definitions. The candidate entry states the proposed manifesto content directly; it is **not a summary of the reasoning**, and is incorporated only after explicit approval. Cite sources where claims occur; the references section collects their details. Clearly label unverified reading leads.
 
 See the [template](PROPOSAL_TEMPLATE.md) and [proposal catalogue](proposals/README.md).
 
@@ -63,4 +63,4 @@ See the [template](PROPOSAL_TEMPLATE.md) and [proposal catalogue](proposals/READ
 
 ## Quality checks before approval
 
-Can readers identify a clear claim and purpose? Are alternative mechanisms and counterarguments fairly considered? Are normative claims distinguished from empirical assertions? Are the relevant sources and limitations visible? Are affected persons, possible harms, and practical contestation addressed where relevant? Does the summary match the proposal? Can the decision and translations be traced?
+Can readers identify a clear claim and purpose? Are alternative mechanisms and counterarguments fairly considered? Are normative claims distinguished from empirical assertions? Are the relevant sources and limitations visible? Are affected persons, possible harms, and practical contestation addressed where relevant? Is the proposed manifesto entry self-contained, directly publishable, and consistent with the supporting proposal? Can the decision and translations be traced?
