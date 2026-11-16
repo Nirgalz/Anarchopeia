@@ -27,7 +27,7 @@ La **proposition** est l'unité de recherche, de débat et de décision. Son doc
 
 Chaque proposition figure dans une seule catégorie principale ; les pages thématiques listent également les propositions associées par catégorie secondaire. Le [catalogue complet](proposals/README.fr.md) présente aussi les statuts.
 
-Parmi les 25 propositions, **AP-0001 v0.4 est `approved`** et publiée dans le manifeste, **AP-0003 v0.5 est `awaiting_approval`**, et 23 restent `in_progress`. La soumission d'AP-0003 ne vaut pas approbation. L'approbation d'AP-0001 émane de l'initiateur du projet et non d'une ratification collective.
+Parmi les 25 propositions, **AP-0001 v0.4 et AP-0003 v0.5 sont `approved`** et publiées dans le manifeste ; les 23 autres restent `in_progress`. Ces décisions éditoriales explicites émanent de l'initiateur et non d'une ratification collective.
 
 Utiliser les [Issues](https://github.com/Nirgalz/Anarchopeia/issues) pour les questions, critiques et alternatives, et les pull requests pour modifier les textes.
 

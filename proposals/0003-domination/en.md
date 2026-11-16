@@ -7,14 +7,16 @@
 | ID | AP-0003 |
 | Primary category | [Anarchopeia](../categories/anarchopeia/en.md) (`anarchopeia`) |
 | Secondary categories | [Governance](../categories/governance/en.md) (`governance`) |
-| Status | `awaiting_approval` |
+| Status | `approved` |
 | Working version | 0.5 |
-| Approved version | None |
+| Approved version | 0.5 |
+| Decision | Explicit approval, 16 November 2026 ([PR to link]) |
+| Submitted-version archive | [AP-0003 v0.5](https://github.com/Nirgalz/Anarchopeia/blob/3a9f82eabce1074f5a7aa6d9fc8da4d9a7199b1a/proposals/0003-domination/en.md) |
 | Scope | Foundational concept — domination |
 | Origin | Initiator discussion, 16 November 2026; earlier combined [discussion paper](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/en/foundations/aims-emancipation-and-non-domination.md) |
 | Translation | [Français](fr.md) |
 
-**Editorial status:** working version **0.5** incorporates the three orientations explicitly validated by the initiator concerning dependency, complementary anti-arbitrariness requirements and participation. It remains submitted for formal editorial approval (`awaiting_approval`): **no approval has been recorded, and its candidate entry has not been incorporated into the manifesto**.
+**Editorial status:** **AP-0003 v0.5 was explicitly approved by the initiator on 16 November 2026** and its candidate text is included in the [manifesto](../../manifesto/en.md). This is an editorial decision, not collective ratification or empirical validation.
 
 ## Problem
 
@@ -235,3 +237,15 @@ The [older founding principles](https://github.com/Nirgalz/Anarchopeia/blob/0d89
 - **2026-11-16 — v0.4, `awaiting_approval`:** Submitted unchanged v0.4 for formal editorial approval after confirming that the criteria for arbitrary power and the distinction between classification and intensity are explicit; the threshold for sufficient safeguards remains an acknowledged open question. No approval or manifesto integration.
 - **2026-11-16 — v0.4, `awaiting_approval` :** added a sourced comparative literature review in Alternatives, Criticism, Evaluation, Research and References; recorded agreements, differences (Pettit, Lovett, Young, Foucault, Forst, Weber) and source-review limits. Definition, candidate entry, version and status unchanged.
 - **2026-11-16 — v0.5, `awaiting_approval`:** incorporated three explicitly validated orientations: dependency as contextual rather than necessary; justification, limits and effective control as complementary requirements; direct or indirect participation as a dimension of oversight. Revised definition and candidate manifesto entry; no formal approval or published manifesto change.
+
+- **2026-11-16 — v0.5, `approved`:** explicit approval by the initiator and unchanged publication of the candidate text in both manifestos. Criticism remains documented.
+
+### Approval decision — 16 November 2026
+
+- **Authority and scope:** the initiator, the sole editorial decision-maker under provisional governance, explicitly approves **AP-0003 v0.5**, previously `awaiting_approval`. This is **not** collective ratification and no other proposal is approved.
+- **Rationale:** credible exposure to actual or possible arbitrary power; three complementary criteria of justification, limitation and effective oversight; dependency relevant but not required; direct or indirect participation in rules as a dimension of control; systemic domination.
+- **Alternatives considered:** restricting domination to observed abuse, universal dependency or conscious intention; equating any asymmetry with domination; assuming legality, majority rule, consent or nominal appeals automatically prevent arbitrary power. Pettit, Lovett, Young, Foucault, Forst and Weber are compared without adopting their full theories.
+- **Outstanding objections:** adequacy of safeguards, thresholds for classification, episodic interference, credibility and intensity, identifying systemic mechanisms, remedies creating new power, limits of evidence.
+- **Epistemic scope:** normative and editorial adoption, not empirical proof or scientific consensus.
+- **Revision:** any replacement requires a further explicit approval; the current decision remains revisable and contestable.
+- **Traceability:** [AP-0003 v0.5 before approval](https://github.com/Nirgalz/Anarchopeia/blob/3a9f82eabce1074f5a7aa6d9fc8da4d9a7199b1a/proposals/0003-domination/en.md); PR linked in metadata.

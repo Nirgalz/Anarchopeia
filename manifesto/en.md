@@ -1,6 +1,6 @@
 # Anarchopoeia — Living Manifesto
 
-**Publication status:** AP-0001 v0.4 was approved by the project initiator on 16 November 2026 under provisional editorial governance.
+**Publication status:** AP-0001 v0.4 and AP-0003 v0.5 were approved by the project initiator on 16 November 2026 under provisional editorial governance.
 
 This manifesto contains **only entries from approved proposals**, with links to their research, criticism, references and decisions. Unapproved proposals are not incorporated.
 
@@ -19,6 +19,20 @@ To pursue these aims, Anarchopoeia examines political, economic, social, and inf
 **No institution, method, or proposal is regarded as definitive.** Anarchopoeia's manifesto and governance remain open to criticism, challenge, and revision.
 
 **Source:** [Approved AP-0001 v0.4](../proposals/0001-aims/en.md) · **Decision:** 16 November 2026, project initiator ([PR #13](https://github.com/Nirgalz/Anarchopeia/pull/13)).
+
+### AP-0003 — Domination
+
+**Domination** is a relationship or systemic configuration in which an individual or group is genuinely and credibly exposed to arbitrary power, whether exercised or credibly exercisable, over their opportunities to act or conditions of existence.
+
+Whether power is arbitrary is assessed using **three complementary requirements**: justification of rules and decisions to affected people, effective limits on the exercise of power, and genuine opportunities for oversight and challenge. No single requirement necessarily rules out arbitrariness on its own; their adequacy depends on context. Legality, majority approval or the existence of formal remedies do not, by themselves, guarantee non-arbitrariness.
+
+Domination can be interpersonal, institutional or systemic. It requires neither an actual abuse nor a conscious intention to dominate. It may arise through interacting mechanisms without any single actor controlling the whole arrangement.
+
+**Dependency is not a necessary condition of every relation of domination**, but it may increase exposure to arbitrary power, intensify its effects and restrict opportunities to escape it. Not every power asymmetry, difference in expertise or collective constraint necessarily constitutes domination. Analysis must examine the relationships, the conditions for exercising power and affected people's effective options. **Participation in shaping or changing rules is one dimension of effective control**: it can take direct or indirect forms and does not require personal participation in every decision.
+
+The disappearance of relations of domination requires identifying and transforming mechanisms that allow arbitrary power to be exercised. Proposed changes must be evaluated for their effects on affected people and groups, including the creation of new dependencies or concentrations of power.
+
+**Source:** [Approved AP-0003 v0.5](../proposals/0003-domination/en.md) · **Decision:** 16 November 2026, project initiator ([PR to link]).
 
 ## Working proposals
 

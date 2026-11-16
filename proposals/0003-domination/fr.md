@@ -7,14 +7,16 @@
 | ID | AP-0003 |
 | Catégorie principale | [Anarchopeia](../categories/anarchopeia/fr.md) (`anarchopeia`) |
 | Catégories secondaires | [Gouvernance](../categories/governance/fr.md) (`governance`) |
-| Statut | `awaiting_approval` |
+| Statut | `approved` |
 | Version de travail | 0.5 |
-| Version approuvée | Aucune |
+| Version approuvée | 0.5 |
+| Décision | Approbation explicite, 16 novembre 2026 ([PR à lier]) |
+| Archive de la version soumise | [AP-0003 v0.5](https://github.com/Nirgalz/Anarchopeia/blob/3a9f82eabce1074f5a7aa6d9fc8da4d9a7199b1a/proposals/0003-domination/fr.md) |
 | Portée | Concept fondamental — domination |
 | Origine | Échanges avec l'initiateur, 16 novembre 2026 ; ancien [document de discussion](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/fr/foundations/aims-emancipation-and-non-domination.md) |
 | Traduction | [English](en.md) |
 
-**Statut éditorial :** la version de travail **0.5** intègre les trois orientations explicitement validées par l'initiateur sur la dépendance, les exigences complémentaires de non-arbitraire et la participation. Elle demeure soumise à l'approbation éditoriale formelle (`awaiting_approval`) : **aucune approbation n'est consignée et son texte candidat n'est pas intégré au manifeste**.
+**Statut éditorial :** **AP-0003 v0.5 a été explicitement approuvée par l'initiateur le 16 novembre 2026** et son texte candidat est intégré au [manifeste](../../manifesto/fr.md). Il s'agit d'une décision éditoriale, non d'une ratification collective ou d'une validation empirique.
 
 ## Problème
 
@@ -235,3 +237,15 @@ Les [anciens principes fondateurs](https://github.com/Nirgalz/Anarchopeia/blob/0
 - **2026-11-16 — v0.4, `awaiting_approval` :** soumission de la version 0.4 inchangée à l'approbation éditoriale après vérification des critères d'arbitraire et de la distinction entre qualification et intensité ; le seuil de suffisance des garanties reste une question ouverte reconnue. Aucune approbation ni intégration au manifeste.
 - **2026-11-16 — v0.4, `awaiting_approval` :** ajout d'une recherche bibliographique comparative sourcée dans Alternatives, Critiques, Évaluation, Recherche et Références ; distinction des apports et divergences (Pettit, Lovett, Young, Foucault, Forst, Weber) et des limites de vérification. Définition, texte candidat, version et statut inchangés.
 - **2026-11-16 — v0.5, `awaiting_approval` :** intégration des trois orientations explicitement validées : dépendance non nécessaire mais contextuelle ; justification, limitation et contrôle comme exigences complémentaires ; participation directe ou indirecte comme dimension du contrôle. Révision de la définition et du texte candidat ; aucune approbation formelle ni modification du manifeste.
+
+- **2026-11-16 — v0.5, `approved` :** approbation explicite par l'initiateur et intégration du texte candidat inchangé aux deux versions du manifeste. Les critiques restent documentées.
+
+### Décision d'approbation — 16 novembre 2026
+
+- **Autorité et portée :** l'initiateur, seul responsable éditorial selon la gouvernance provisoire, approuve explicitement **AP-0003 v0.5**, précédemment `awaiting_approval`. Ce n'est **pas** une ratification collective et aucune autre proposition n'est approuvée.
+- **Motifs :** reconnaissance de l'exposition crédible à un pouvoir arbitraire exercé ou potentiel ; trois exigences complémentaires de justification, limitation et contrôle effectif ; dépendance non nécessaire mais pertinente ; participation directe ou indirecte aux règles comme dimension du contrôle ; analyse des dominations systémiques.
+- **Alternatives examinées :** limiter la domination aux abus observés, à une dépendance systématiquement nécessaire ou à l'intention de dominer ; assimiler toute asymétrie à une domination ; supposer que légalité, majorité, consentement ou recours formel suffisent à rendre un pouvoir non arbitraire. Les comparaisons avec Pettit, Lovett, Young, Foucault, Forst et Weber restent disponibles sans adoption complète de leurs théories.
+- **Objections ouvertes :** critères de suffisance des garanties, seuil de qualification, cas d'interférence ponctuelle, mesure de la crédibilité et de l'intensité, identification de mécanismes systémiques, risques de nouveaux pouvoirs créés par les remèdes et limites des preuves.
+- **Portée épistémique :** décision normative et éditoriale, sans prétention à une preuve empirique ni à un consensus scientifique.
+- **Révision :** une nouvelle approbation explicite sera nécessaire pour remplacer ce texte ; l'état présent demeure révisable et contestable.
+- **Traçabilité :** [AP-0003 v0.5 avant approbation](https://github.com/Nirgalz/Anarchopeia/blob/3a9f82eabce1074f5a7aa6d9fc8da4d9a7199b1a/proposals/0003-domination/fr.md) ; PR liée dans les métadonnées.

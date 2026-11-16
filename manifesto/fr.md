@@ -2,7 +2,7 @@
 
 # Anarchopoeia — Manifeste vivant
 
-**État de publication :** AP-0001 v0.4 a été approuvée le 16 novembre 2026 par l'initiateur du projet selon la gouvernance éditoriale provisoire.
+**État de publication :** AP-0001 v0.4 et AP-0003 v0.5 ont été approuvées le 16 novembre 2026 par l'initiateur du projet selon la gouvernance éditoriale provisoire.
 
 Ce manifeste présente **uniquement les textes des propositions approuvées**, accompagnés de liens vers leurs recherches, critiques, références et décisions. Les propositions non approuvées n'y figurent pas.
 
@@ -21,6 +21,20 @@ Pour poursuivre ces finalités, Anarchopoeia examine les systèmes politiques, �
 **Aucune institution, méthode ou proposition n'est considérée comme définitive.** Le manifeste et la gouvernance d'Anarchopoeia restent ouverts à la critique, à la contestation et à la révision.
 
 **Source :** [AP-0001 — v0.4 approuvée](../proposals/0001-aims/fr.md) · **Décision :** 16 novembre 2026, initiateur du projet ([PR #13](https://github.com/Nirgalz/Anarchopeia/pull/13)).
+
+### AP-0003 — Domination
+
+**La domination** est une relation ou une configuration systémique dans laquelle un individu ou un groupe est exposé de manière réelle et crédible à un pouvoir arbitraire, effectivement exercé ou susceptible de l'être, sur ses possibilités d'action ou ses conditions d'existence.
+
+Le caractère arbitraire d'un pouvoir s'apprécie à partir de **trois exigences complémentaires** : la justification des règles et des décisions auprès des personnes concernées, les limites effectives de son exercice et les possibilités réelles de contrôle et de contestation. Aucune ne suffit nécessairement, à elle seule, à exclure l'arbitraire ; leur portée s'apprécie selon les situations. La légalité, l'approbation majoritaire et l'existence de recours formels ne garantissent pas, à elles seules, l'absence d'arbitraire.
+
+La domination peut être interpersonnelle, institutionnelle ou systémique. Elle ne nécessite ni abus effectivement commis ni intention consciente de dominer. Elle peut résulter de l'interaction entre plusieurs mécanismes, sans qu'un acteur unique en contrôle l'ensemble.
+
+**La dépendance n'est pas une condition nécessaire à toute domination**, mais elle peut renforcer l'exposition à un pouvoir arbitraire, en aggraver les effets et réduire les possibilités de s'en soustraire. Toute asymétrie de pouvoir, différence de compétences ou contrainte collective ne constitue pas nécessairement une domination. L'analyse doit examiner les relations, les conditions d'exercice du pouvoir et les possibilités effectives des personnes concernées. **La participation à l'élaboration ou à la transformation des règles est une dimension du contrôle effectif** ; elle peut prendre des formes directes ou indirectes et n'impose pas une participation personnelle à chaque décision.
+
+La disparition des rapports de domination implique d'identifier et de transformer les mécanismes qui permettent l'exercice de pouvoirs arbitraires. Les transformations envisagées doivent être évaluées selon leurs effets sur les personnes et les groupes concernés, notamment lorsqu'elles créent de nouvelles dépendances ou concentrations de pouvoir.
+
+**Source :** [AP-0003 v0.5 approuvée](../proposals/0003-domination/fr.md) · **Décision :** 16 novembre 2026, initiateur du projet ([PR à lier]).
 
 ## Propositions en cours
 
