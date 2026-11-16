@@ -8,13 +8,13 @@
 | Catégorie principale | [Anarchopeia](../categories/anarchopeia/fr.md) (`anarchopeia`) |
 | Catégories secondaires | [Gouvernance](../categories/governance/fr.md) (`governance`) |
 | Statut | `awaiting_approval` |
-| Version de travail | 0.4 |
+| Version de travail | 0.5 |
 | Version approuvée | Aucune |
 | Portée | Concept fondamental — domination |
 | Origine | Échanges avec l'initiateur, 16 novembre 2026 ; ancien [document de discussion](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/fr/foundations/aims-emancipation-and-non-domination.md) |
 | Traduction | [English](en.md) |
 
-**Statut éditorial :** la version de travail 0.4 a été soumise à l'approbation éditoriale formelle après une dernière relecture conceptuelle. Elle **n'est pas approuvée** et son texte candidat **n'est pas intégré** au manifeste.
+**Statut éditorial :** la version de travail **0.5** intègre les trois orientations explicitement validées par l'initiateur sur la dépendance, les exigences complémentaires de non-arbitraire et la participation. Elle demeure soumise à l'approbation éditoriale formelle (`awaiting_approval`) : **aucune approbation n'est consignée et son texte candidat n'est pas intégré au manifeste**.
 
 ## Problème
 
@@ -28,21 +28,21 @@ Définir la domination interpersonnelle, institutionnelle et systémique ; préc
 
 ### Définition de travail
 
-> **Domination :** relation ou configuration systémique dans laquelle un individu ou un groupe est exposé, sur ses possibilités d'action ou ses conditions d'existence, à un **pouvoir arbitraire** effectivement exercé ou susceptible de l'être de manière crédible, **sans garanties suffisamment effectives pour contrôler, limiter ou contester ce pouvoir**.
+> **Domination :** relation ou configuration systémique dans laquelle un individu ou un groupe est exposé de manière réelle et crédible à un **pouvoir arbitraire**, effectivement exercé ou susceptible de l'être, sur ses possibilités d'action ou ses conditions d'existence.
 
-Un pouvoir présente un caractère arbitraire lorsque son exercice peut affecter autrui sans être suffisamment soumis à des **justifications, limites et mécanismes de contrôle ou de contestation effectifs**. Il s'agit d'une proposition normative à discuter, et non d'un résultat que la seule identification des conditions d'une action permettrait de déduire. La légalité, l'approbation majoritaire, le consentement ou l'existence de voies de recours purement formelles ne suffisent pas, à eux seuls, à établir l'absence d'arbitraire. Inversement, aucune procédure particulière ne garantit universellement qu'un pouvoir n'est pas arbitraire.
+**L'arbitraire** est évalué selon trois exigences complémentaires : **(1) justification** des règles et décisions auprès des personnes concernées ; **(2) limitation effective** des possibilités d'exercice du pouvoir ; **(3) contrôle effectif**, permettant de demander des comptes, de contester et d'obtenir un réexamen ou une transformation des décisions ou règles concernées. **Aucune exigence prise isolément ne suffit nécessairement à exclure l'arbitraire** ; leur portée et leur suffisance doivent être appréciées ensemble, en contexte. L'existence de raisons invoquées par l'autorité, la légalité, l'approbation majoritaire, le consentement ou des recours purement formels ne garantissent pas, à eux seuls, l'absence d'arbitraire. Ces exigences sont des critères normatifs discutables, non des conclusions déduites automatiquement des conditions matérielles d'une action.
 
 La domination peut prendre des formes **interpersonnelles** (relations entre personnes), **institutionnelles** (règles et pratiques d'organisations) ou **systémiques** (interaction de plusieurs mécanismes économiques, politiques, sociaux ou informationnels). Ces formes peuvent se cumuler. La domination systémique n'implique ni décideur central unique ni intention consciente de dominer ; son identification exige toutefois de **décrire les mécanismes relationnels** qui produisent l'exposition au pouvoir arbitraire.
 
 La **domination potentielle** désigne une exposition à une intervention arbitraire **crédible et contextualisée**, même lorsque celle-ci ne s'est pas produite. Une aptitude simplement concevable ou abstraite à nuire ne suffit pas. Il faut examiner les possibilités réellement disponibles, les conditions de leur exercice, les contraintes de leur mise en œuvre et les garanties dont disposent les personnes concernées.
 
-**Toute asymétrie de pouvoir, dépendance, différence de compétences, contrainte collective ou rareté matérielle n'est pas nécessairement une domination.** Une autorité spécialisée peut être encadrée et contrôlable ; une contrainte peut être nécessaire sans être arbitraire. Les règles qui organisent une ressource rare peuvent cependant instituer une domination.
+**La dépendance n'est pas une condition nécessaire à toute domination.** Elle peut toutefois renforcer l'exposition à un pouvoir arbitraire, aggraver ses effets et réduire la possibilité de s'y soustraire. Elle doit donc être examinée, avec les coûts et possibilités de sortie, comme un facteur contextuel et non comme une condition universelle. **Toute asymétrie de pouvoir, dépendance, différence de compétences, contrainte collective ou rareté matérielle n'est pas nécessairement une domination.** Une autorité spécialisée peut être encadrée et contrôlable ; une contrainte peut être nécessaire sans être arbitraire. Les règles qui organisent une ressource rare peuvent cependant instituer une domination.
 
 **La qualification d'un rapport de domination et son intensité sont distinctes.** Une fois le caractère dominant d'une configuration examiné, l'ampleur, la fréquence, la durée, la crédibilité d'une intervention et la gravité de ses effets peuvent varier selon les situations. Aucun score universel de domination n'est présupposé.
 
 ### Comprendre et transformer les mécanismes
 
-L'analyse doit expliciter, dans un contexte et un horizon temporel définis : les personnes et groupes affectés ; les acteurs, organisations et dispositifs pertinents ; les relations de dépendance ; les conditions rendant crédible une intervention ; les moyens effectifs de contrôle, de contestation, de limitation et de transformation. Les garanties doivent être **praticables**, suffisamment indépendantes, capables de produire des recours utiles et utilisables sans représailles.
+L'analyse doit expliciter, dans un contexte et un horizon temporel définis : les personnes et groupes affectés ; les acteurs, organisations et dispositifs pertinents ; les relations de dépendance ; les conditions rendant crédible une intervention ; les moyens effectifs de contrôle, de contestation, de limitation et de transformation. Les garanties doivent être **praticables**, suffisamment indépendantes, capables de produire des recours utiles et utilisables sans représailles. **La participation à l'élaboration et à la transformation des règles est une dimension possible du contrôle effectif** : elle peut être directe ou indirecte, individuelle ou collective. Elle ne signifie pas que toute personne doive prendre part directement à chaque décision. Il faut distinguer la participation à la décision, le contrôle de son exercice et la possibilité de modifier les règles qui l'autorisent ; une délégation ou une autorité spécialisée ne sont pas automatiquement arbitraires si elles restent justifiables, limitées et contrôlables.
 
 Lorsque cela aide à examiner un cas complexe, un cadre analytique comme la [Méthode trialectique](https://github.com/Nirgalz/trialectic/blob/3c3b5c831ce3afd86d7a5c654b167fe97502d30e/reference/trialectic-method.md) peut être mobilisé dans la **recherche**, sans faire partie de la définition normative. Il distingue des Objets (individus, groupes, institutions ou systèmes), des Sujets d'analyse, leur Environnement, des **NEEDs** (nécessités), des **CANs** (Potentialités), leurs conditions, les Actualisations et les effets. Son **Pouvoir** technique est une **évaluation contextualisée**, distincte du « pouvoir arbitraire » politique de cette proposition. Un CAN disponible ou actionnable ne suffit pas à prouver une domination.
 
@@ -76,12 +76,12 @@ Ces orientations sont **des objets de comparaison**, non des fondements nouvelle
 
 ## Critiques et limites
 
-- **Critères normatifs discutables :** qui juge qu'une justification, une limite ou un recours est « suffisant » ? Une majorité, une autorité spécialisée ou une procédure légale peuvent elles-mêmes dominer une minorité. La définition ne fournit pas encore de test universel de légitimité.
-- **Consentement et dépendance :** une acceptation volontaire n'écarte pas nécessairement une domination lorsqu'elle intervient dans un contexte de dépendance ; inversement, toute dépendance librement consentie n'est pas arbitraire.
+- **Critères normatifs discutables :** qui juge qu'une justification, une limite ou un recours est « suffisant » ? **Justification, limitation et contrôle effectif sont retenus comme exigences complémentaires**, non comme trois conditions mécaniques dont la simple présence prouverait l'absence d'arbitraire. Une majorité, une autorité spécialisée ou une procédure légale peuvent elles-mêmes dominer une minorité. Aucun test universel de légitimité n'est encore établi.
+- **Consentement et dépendance :** une acceptation volontaire n'écarte pas nécessairement une domination lorsqu'elle intervient dans un contexte de dépendance ; inversement, toute dépendance librement consentie n'est pas arbitraire. **Décision éditoriale :** la dépendance n'est pas une condition universelle de domination ; les cas d'interférence isolée et de sortie facile doivent néanmoins permettre de tester les frontières de cette qualification.
 - **Crédibilité de l'interférence :** distinguer un pouvoir réellement disponible d'une possibilité abstraite suppose des données contextuelles ; l'absence d'abus observé ne prouve ni l'existence ni l'absence d'une domination.
 - **Qualification et intensité :** l'intensité peut varier, mais il reste difficile de fixer la frontière de qualification sans critères contextualisés. Un indice numérique arbitraire créerait une fausse précision.
 - **Domination systémique :** l'absence d'acteur central n'autorise pas à attribuer toute conséquence défavorable à un système « dominant » ; les relations, conditions et mécanismes doivent être étayés.
-- **Recours formels insuffisants :** des délais, coûts, risques de représailles ou informations inaccessibles peuvent rendre la contestation illusoire. Un recours effectif après coup ne répare pas nécessairement toutes les atteintes.
+- **Recours formels insuffisants :** des délais, coûts, risques de représailles ou informations inaccessibles peuvent rendre la contestation illusoire. Un recours effectif après coup ne répare pas nécessairement toutes les atteintes. **Participation et contrôle :** un recours individuel peut exister sans possibilité effective d'influencer ou de transformer les règles ; inversement, participer à un vote ne garantit pas le respect des droits des minorités. La participation directe à chaque décision n'est pas exigée.
 - **Effets des remèdes :** des dispositifs de protection peuvent créer de nouveaux pouvoirs administratifs, des dépendances ou des contraintes affectant d'autres personnes.
 - **Limites de la Méthode :** les NEEDs, CANs et évaluations de Pouvoir facilitent la structuration d'hypothèses, mais ne prouvent ni le caractère arbitraire d'une relation ni l'efficacité réelle d'une réforme ; les algorithmes et la validation empirique du cadre restent en développement.
 
@@ -102,8 +102,8 @@ Ces objections sont documentées pour l'examen de la version candidate **sans mo
 
 1. **Contextualiser :** identifier les personnes ou groupes exposés, les autres acteurs et institutions, les relations, l'Environnement, les règles applicables et la période étudiée. Quels éléments sont connus, hypothétiques ou absents de l'inventaire ?
 2. **Identifier le pouvoir en cause :** qui pourrait intervenir sur quelles possibilités d'action ou conditions d'existence ? Dans quelles conditions cette intervention est-elle réellement envisageable ? Quel est son degré de crédibilité, distinct de sa réalisation effective ?
-3. **Qualifier l'arbitraire :** quelles justifications, limites, voies de contrôle, recours et possibilités de modification encadrent ce pouvoir ? Sont-elles accessibles, efficaces, suffisamment indépendantes et sans représailles ? La légalité ou une majorité ne suffit pas à conclure.
-4. **Distinguer qualification et intensité :** quels indices soutiennent la présence ou l'absence de domination ? Quelle serait l'ampleur, la fréquence, la durée ou la gravité de l'exposition, sans imposer de score universel ?
+3. **Qualifier l'arbitraire :** examiner **séparément puis conjointement** (a) les justifications des règles et décisions auprès des personnes concernées, (b) les limites effectives du pouvoir et (c) les moyens réels de contrôle. Peut-on demander des comptes, contester, faire réexaminer une décision ou transformer les règles qui l'autorisent ? Les dispositifs sont-ils accessibles, efficaces, suffisamment indépendants et sans représailles ? **Aucun critère isolé ne suffit nécessairement** ; la légalité ou une majorité ne permet pas, à elle seule, de conclure.
+4. **Distinguer qualification et intensité :** quels indices soutiennent la présence ou l'absence de domination ? Quelle serait l'ampleur, la fréquence, la durée ou la gravité de l'exposition ? Comment la dépendance, les coûts de sortie ou l'accès à des alternatives modifient-ils cette exposition, **sans en faire des conditions universelles** ni imposer de score ?
 5. **Examiner les mécanismes systémiques :** quelles combinaisons de règles, ressources, dépendances, pratiques et relations produisent cette exposition ? Quels éléments pourraient contredire cette explication ?
 6. **Comparer les scénarios :** examiner plusieurs options — maintien justifié, prévention, recours, réduction des dépendances, modification institutionnelle — selon leur faisabilité, leur complexité, leurs coûts/ressources, leur temporalité, leur efficacité attendue, leurs effets sur différents Sujets et leurs incertitudes. Le choix d'une option n'est pas obligatoire.
 7. **Réévaluer :** distinguer effets directs/indirects et immédiats/différés, effets prévus, simulés, observés et causalement attribués. Vérifier si une réduction de domination pour les uns crée d'autres rapports de domination. Réviser les conclusions à la lumière des faits nouveaux.
@@ -125,17 +125,27 @@ Pour chaque test, conserver **plusieurs interprétations concurrentes**, précis
 
 ## Texte proposé pour le manifeste
 
-**La domination** est une relation ou une configuration systémique dans laquelle un individu ou un groupe est exposé à un pouvoir arbitraire, effectivement exercé ou susceptible de l'être de manière crédible, sur ses possibilités d'action ou ses conditions d'existence, sans disposer de garanties suffisamment effectives pour le contrôler, le limiter ou le contester.
+**La domination** est une relation ou une configuration systémique dans laquelle un individu ou un groupe est exposé de manière réelle et crédible à un pouvoir arbitraire, effectivement exercé ou susceptible de l'être, sur ses possibilités d'action ou ses conditions d'existence.
 
-Un pouvoir présente un caractère arbitraire lorsque son exercice peut affecter autrui sans être suffisamment soumis à des justifications, des limites et des mécanismes de contrôle ou de contestation effectifs. Sa légalité, son acceptation majoritaire ou l'existence de recours formels ne suffisent pas, à elles seules, à exclure son caractère arbitraire.
+Le caractère arbitraire d'un pouvoir s'apprécie à partir de **trois exigences complémentaires** : la justification des règles et des décisions auprès des personnes concernées, les limites effectives de son exercice et les possibilités réelles de contrôle et de contestation. Aucune ne suffit nécessairement, à elle seule, à exclure l'arbitraire ; leur portée s'apprécie selon les situations. La légalité, l'approbation majoritaire et l'existence de recours formels ne garantissent pas, à elles seules, l'absence d'arbitraire.
 
 La domination peut être interpersonnelle, institutionnelle ou systémique. Elle ne nécessite ni abus effectivement commis ni intention consciente de dominer. Elle peut résulter de l'interaction entre plusieurs mécanismes, sans qu'un acteur unique en contrôle l'ensemble.
 
-**Toute asymétrie de pouvoir, dépendance, différence de compétences ou contrainte collective ne constitue pas nécessairement une domination.** L'identification d'un rapport de domination exige d'examiner les relations concernées, les conditions permettant l'exercice du pouvoir et les possibilités effectives dont disposent les personnes qui y sont exposées.
+**La dépendance n'est pas une condition nécessaire à toute domination**, mais elle peut renforcer l'exposition à un pouvoir arbitraire, en aggraver les effets et réduire les possibilités de s'en soustraire. Toute asymétrie de pouvoir, différence de compétences ou contrainte collective ne constitue pas nécessairement une domination. L'analyse doit examiner les relations, les conditions d'exercice du pouvoir et les possibilités effectives des personnes concernées. **La participation à l'élaboration ou à la transformation des règles est une dimension du contrôle effectif** ; elle peut prendre des formes directes ou indirectes et n'impose pas une participation personnelle à chaque décision.
 
 La disparition des rapports de domination implique d'identifier et de transformer les mécanismes qui permettent l'exercice de pouvoirs arbitraires. Les transformations envisagées doivent être évaluées selon leurs effets sur les personnes et les groupes concernés, notamment lorsqu'elles créent de nouvelles dépendances ou concentrations de pouvoir.
 
 ## Recherche
+
+### Orientations conceptuelles validées — 16 novembre 2026
+
+Les trois orientations suivantes ont été **explicitement validées par l'initiateur** lors de l'examen des différences entre AP-0003 et les théories de Lovett, Pettit, Young et Forst. Elles concernent la **définition politique d'AP-0003**, non la validation empirique de ces théories :
+
+1. **Dépendance :** elle n'est pas nécessaire à toute domination, mais peut accroître l'exposition, aggraver les effets et réduire les possibilités de sortie.
+2. **Arbitraire :** justification, limitation et contrôle effectif sont des exigences complémentaires. Aucune ne suffit nécessairement isolément ; les critères de suffisance restent contextualisés et discutables.
+3. **Participation :** elle est une dimension du contrôle effectif, par l'influence directe ou indirecte sur les décisions et les règles ; elle ne signifie pas participer personnellement à toutes les décisions. Distinguer participation, contrôle et transformation des règles.
+
+Les recherches comparatives qui suivent restent **des objets d'analyse**, et non une adoption globale de l'une des doctrines examinées.
 
 ### Recherche comparative sur les définitions de « domination » — 16 novembre 2026
 
@@ -224,3 +234,4 @@ Les [anciens principes fondateurs](https://github.com/Nirgalz/Anarchopeia/blob/0
 - **2026-11-16 — v0.4, `in_progress` :** définition de l'arbitraire, distinction qualification/intensité, domination potentielle et systémique, analyse des mécanismes et recours effectifs ; scénarios et réévaluation récursive inspirés de la Méthode trialectique (`dev`, référence datée), exemple hypothétique et critères de preuve. Texte candidat remplacé ; aucune approbation.
 - **2026-11-16 — v0.4, `awaiting_approval` :** soumission de la version 0.4 inchangée à l'approbation éditoriale après vérification des critères d'arbitraire et de la distinction entre qualification et intensité ; le seuil de suffisance des garanties reste une question ouverte reconnue. Aucune approbation ni intégration au manifeste.
 - **2026-11-16 — v0.4, `awaiting_approval` :** ajout d'une recherche bibliographique comparative sourcée dans Alternatives, Critiques, Évaluation, Recherche et Références ; distinction des apports et divergences (Pettit, Lovett, Young, Foucault, Forst, Weber) et des limites de vérification. Définition, texte candidat, version et statut inchangés.
+- **2026-11-16 — v0.5, `awaiting_approval` :** intégration des trois orientations explicitement validées : dépendance non nécessaire mais contextuelle ; justification, limitation et contrôle comme exigences complémentaires ; participation directe ou indirecte comme dimension du contrôle. Révision de la définition et du texte candidat ; aucune approbation formelle ni modification du manifeste.

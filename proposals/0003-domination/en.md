@@ -8,13 +8,13 @@
 | Primary category | [Anarchopeia](../categories/anarchopeia/en.md) (`anarchopeia`) |
 | Secondary categories | [Governance](../categories/governance/en.md) (`governance`) |
 | Status | `awaiting_approval` |
-| Working version | 0.4 |
+| Working version | 0.5 |
 | Approved version | None |
 | Scope | Foundational concept — domination |
 | Origin | Initiator discussion, 16 November 2026; earlier combined [discussion paper](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/en/foundations/aims-emancipation-and-non-domination.md) |
 | Translation | [Français](fr.md) |
 
-**Editorial status:** working version 0.4 has been submitted for formal editorial approval after a final conceptual review. It is **not approved**; its candidate entry has **not** been incorporated into the manifesto.
+**Editorial status:** working version **0.5** incorporates the three orientations explicitly validated by the initiator concerning dependency, complementary anti-arbitrariness requirements and participation. It remains submitted for formal editorial approval (`awaiting_approval`): **no approval has been recorded, and its candidate entry has not been incorporated into the manifesto**.
 
 ## Problem
 
@@ -28,21 +28,21 @@ Define interpersonal, institutional and systemic domination; clarify arbitrarine
 
 ### Working definition
 
-> **Domination** is a relationship or systemic configuration in which an individual or group is exposed, in their opportunities to act or conditions of existence, to **arbitrary power** that is either exercised or credibly exercisable, **without sufficiently effective safeguards to control, limit or challenge that power**.
+> **Domination** is a relationship or systemic configuration in which an individual or group is genuinely and credibly exposed to **arbitrary power**, whether exercised or credibly exercisable, over their opportunities to act or conditions of existence.
 
-Power is arbitrary when its exercise can affect others without being adequately subject to **justification, limits and effective mechanisms of oversight or challenge**. This is a contestable normative proposal, not a conclusion that can be inferred merely from identifying an action's conditions. Legality, majority approval, consent and the existence of purely formal remedies are not, by themselves, sufficient to establish that power is non-arbitrary. Conversely, no particular procedure guarantees that power is non-arbitrary in every context.
+**Arbitrariness** is assessed through three complementary requirements: **(1) justification** of rules and decisions to affected people; **(2) effective limits** on how power may be exercised; and **(3) effective control**, enabling accountability, challenge and reconsideration or change of decisions or rules. **No single requirement necessarily rules out arbitrariness on its own**; their adequacy must be evaluated together in context. Reasons invoked by an authority, legality, majority approval, consent and purely formal remedies do not, by themselves, guarantee the absence of arbitrariness. These are contestable normative criteria, not conclusions mechanically inferred from an action's material conditions.
 
 Domination may be **interpersonal** (relations between people), **institutional** (organizational rules and practices) or **systemic** (interacting economic, political, social or informational mechanisms). These forms may overlap. Systemic domination requires neither a single central decision-maker nor a conscious intention to dominate; identifying it nevertheless requires a **description of the relational mechanisms** that expose people to arbitrary power.
 
 **Potential domination** means exposure to **credible, context-specific arbitrary interference**, even when no interference has occurred. A merely conceivable or abstract ability to cause harm is insufficient. Relevant conditions include actually available opportunities, conditions for their exercise, practical barriers and safeguards available to affected people.
 
-**Not every power asymmetry, dependency, difference in expertise, collective constraint or material scarcity is necessarily domination.** Specialized authority may be constrained and accountable; a collective rule may impose a necessary constraint without being arbitrary. Rules allocating scarce resources can nevertheless establish domination.
+**Dependency is not a necessary condition of every relation of domination.** It may nevertheless heighten exposure to arbitrary power, aggravate its effects and restrict realistic options for escaping it. Dependency and exit costs therefore matter contextually rather than as universal prerequisites. **Not every power asymmetry, dependency, difference in expertise, collective constraint or material scarcity is necessarily domination.** Specialized authority may be constrained and accountable; a collective rule may impose a necessary constraint without being arbitrary. Rules allocating scarce resources can nevertheless establish domination.
 
 **Whether a relationship is domination and how intense it is are distinct questions.** Once its classification has been examined, the magnitude, frequency, duration, credibility of interference and severity of effects may vary by context. No universal domination score is assumed.
 
 ### Investigating mechanisms and possible changes
 
-The analysis should specify, for a defined context and period, the affected people and groups; relevant actors, organizations and arrangements; dependency relations; conditions that make interference credible; and effective means of control, challenge, limitation and reform. Safeguards must be **practicable**, sufficiently independent, able to provide meaningful remedies and usable without retaliation.
+The analysis should specify, for a defined context and period, the affected people and groups; relevant actors, organizations and arrangements; dependency relations; conditions that make interference credible; and effective means of control, challenge, limitation and reform. Safeguards must be **practicable**, sufficiently independent, able to provide meaningful remedies and usable without retaliation. **Participation in shaping and changing the rules is one dimension of effective control**, exercised directly or indirectly, individually or collectively. This does not require everyone to participate personally in every decision. Distinguish participation in decisions, oversight of their exercise and opportunities to change the rules authorizing them. Delegation or specialized authority is not automatically arbitrary when it remains justifiable, limited and accountable.
 
 Where helpful for complex cases, an analytical framework such as the [Trialectic Method](https://github.com/Nirgalz/trialectic/blob/3c3b5c831ce3afd86d7a5c654b167fe97502d30e/reference/trialectic-method.md) may inform **research**, not the normative definition. It distinguishes Objects (individuals, groups, institutions or systems), selected analytical Subjects, their Environment, **NEEDs** (necessities), **CANs** (Potentialities), conditions, Actualizations and effects. Its technical **Power** is a **contextual evaluation operation**, distinct from the political meaning of “arbitrary power” in this proposal. An available or actionable CAN is not by itself evidence of domination.
 
@@ -76,12 +76,12 @@ These are **objects of comparison**, not newly adopted foundations. See Research
 
 ## Criticism and limitations
 
-- **Contested normative criteria:** who decides when justification, safeguards or remedies are “sufficient”? Majorities, specialized authorities and legal procedures may themselves dominate minorities. No universal legitimacy test is settled.
-- **Consent and dependency:** voluntary acceptance does not necessarily rule out domination when shaped by dependency; nor is every freely chosen dependency arbitrary.
+- **Contested normative criteria:** who decides when justification, safeguards or remedies are “sufficient”? **Justification, limits and effective control are complementary requirements**, not a mechanical checklist whose completion proves non-arbitrariness. Majorities, specialized authorities and legal procedures may themselves dominate minorities. No universal legitimacy test is settled.
+- **Consent and dependency:** voluntary acceptance does not necessarily rule out domination when shaped by dependency; nor is every freely chosen dependency arbitrary. **Editorial decision:** dependency is not universally necessary; cases of episodic interference and low exit costs should still test the boundaries of the concept.
 - **Credibility of interference:** distinguishing genuinely exercisable power from abstract possibilities needs contextual evidence. Lack of observed abuse proves neither the presence nor absence of domination.
 - **Classification and intensity:** the severity of domination can vary, but a threshold for classification remains difficult without contextual criteria. An arbitrary numerical index would imply false precision.
 - **Systemic domination:** the lack of a central actor does not warrant ascribing every harmful outcome to a “dominant” system; relations, conditions and mechanisms require evidence.
-- **Insufficient formal remedies:** delays, costs, retaliation risks and lack of accessible information can make review illusory. Even effective remedies after the fact may not repair all harms.
+- **Insufficient formal remedies:** delays, costs, retaliation risks and lack of accessible information can make review illusory. Even effective remedies after the fact may not repair all harms. **Participation and oversight:** individual appeals may coexist with no meaningful influence over the rules, while voting participation cannot by itself protect minorities. Direct participation in every decision is not required.
 - **Effects of safeguards:** protective arrangements may establish new administrative powers, dependencies or constraints affecting other people.
 - **Methodological limitations:** NEEDs, CANs and Power evaluations help structure hypotheses but do not establish whether a relationship is arbitrary or whether reform works; the Method's algorithms and empirical validation remain in development.
 
@@ -102,8 +102,8 @@ Examine **the normative classification** of the relationship separately from **t
 
 1. **Contextualize:** identify exposed people or groups, other relevant actors and institutions, relationships, Environment, applicable rules and period. What is known, hypothetical or missing from the inventory?
 2. **Identify the power:** who could intervene in whose options or circumstances, and under what conditions? How credible is that intervention, separately from whether it has occurred?
-3. **Assess arbitrariness:** what justifications, limits, oversight, remedies and opportunities to change arrangements constrain the power? Are they accessible, effective, sufficiently independent and usable without retaliation? Legality or majority support alone does not settle this question.
-4. **Separate classification and intensity:** what evidence supports or counters calling this domination? How great is the scope, frequency, duration or severity of exposure, without imposing a universal score?
+3. **Assess arbitrariness:** examine **separately and jointly** (a) justification of rules and decisions to affected people, (b) effective limits on power, and (c) genuine opportunities for oversight. Can those affected demand accountability, contest decisions, obtain reconsideration or change the authorizing rules? Are safeguards accessible, effective, sufficiently independent and usable without retaliation? **No single requirement necessarily suffices**; legality or majority support alone does not settle this question.
+4. **Separate classification and intensity:** what evidence supports or counters calling this domination? How great is the scope, frequency, duration or severity of exposure? How do dependency, exit costs or access to alternatives change exposure **without becoming universal prerequisites** or imposing a universal score?
 5. **Investigate systemic mechanisms:** what combination of rules, resources, dependencies, practices and relations produces this exposure? What evidence might contradict the proposed explanation?
 6. **Compare scenarios:** examine materially distinct options—justified preservation, prevention, improved remedies, reduced dependencies, institutional change—in terms of feasibility, complexity, costs/resources, temporality, expected effectiveness, effects on different Subjects and uncertainties. No selection is mandatory.
 7. **Reassess:** distinguish direct/indirect and immediate/delayed effects, as well as anticipated, simulated, observed and causally attributed changes. Ask whether reducing domination for some introduces it elsewhere. Revise conclusions as new evidence arises.
@@ -125,17 +125,27 @@ Preserve **competing interpretations**, indicate which observations could discri
 
 ## Proposed Manifesto Entry
 
-**Domination** is a relationship or systemic configuration in which an individual or group is exposed to arbitrary power—whether exercised or credibly exercisable—over their opportunities to act or conditions of existence, without sufficiently effective safeguards to control, limit or challenge that power.
+**Domination** is a relationship or systemic configuration in which an individual or group is genuinely and credibly exposed to arbitrary power, whether exercised or credibly exercisable, over their opportunities to act or conditions of existence.
 
-Power is arbitrary when its exercise can affect others without adequate justification, limits and effective mechanisms of oversight or challenge. Legality, majority approval or the existence of formal remedies does not, by itself, rule out arbitrariness.
+Whether power is arbitrary is assessed using **three complementary requirements**: justification of rules and decisions to affected people, effective limits on the exercise of power, and genuine opportunities for oversight and challenge. No single requirement necessarily rules out arbitrariness on its own; their adequacy depends on context. Legality, majority approval or the existence of formal remedies do not, by themselves, guarantee non-arbitrariness.
 
 Domination can be interpersonal, institutional or systemic. It requires neither an actual abuse nor a conscious intention to dominate. It may arise through interacting mechanisms without any single actor controlling the whole arrangement.
 
-**Not every power asymmetry, dependency, difference in expertise or collective constraint necessarily constitutes domination.** Identifying domination requires examination of the relevant relationships, the conditions under which power can be exercised, and the effective options available to those exposed to it.
+**Dependency is not a necessary condition of every relation of domination**, but it may increase exposure to arbitrary power, intensify its effects and restrict opportunities to escape it. Not every power asymmetry, difference in expertise or collective constraint necessarily constitutes domination. Analysis must examine the relationships, the conditions for exercising power and affected people's effective options. **Participation in shaping or changing rules is one dimension of effective control**: it can take direct or indirect forms and does not require personal participation in every decision.
 
 The disappearance of relations of domination requires identifying and transforming mechanisms that allow arbitrary power to be exercised. Proposed changes must be evaluated for their effects on affected people and groups, including the creation of new dependencies or concentrations of power.
 
 ## Research
+
+### Conceptual orientations explicitly validated — 16 November 2026
+
+The initiator **explicitly validated** the following three orientations while reviewing differences between AP-0003 and the approaches of Lovett, Pettit, Young and Forst. These concern **AP-0003's political definition**, not empirical validation of those theories:
+
+1. **Dependency:** not necessary in every case of domination, but it can increase exposure, aggravate effects and restrict realistic exit options.
+2. **Arbitrariness:** justification, limits and effective oversight are complementary requirements; none necessarily suffices on its own. Adequacy remains context-sensitive and contestable.
+3. **Participation:** one dimension of effective control, through direct or indirect influence over decisions and rules; it does not require personal involvement in every decision. Distinguish participation, oversight and changes to rules.
+
+The following comparative literature remains **an object of research**, not a wholesale adoption of any of the theories discussed.
 
 ### Comparative research on definitions of domination — 16 November 2026
 
@@ -224,3 +234,4 @@ The [older founding principles](https://github.com/Nirgalz/Anarchopeia/blob/0d89
 - **2026-11-16 — v0.4, `in_progress`:** refined arbitrariness, classification versus intensity, potential and systemic domination, mechanisms and effective remedies; added scenarios and recursive reassessment informed by the Trialectic Method (`dev`, pinned reference), a hypothetical example and evidence safeguards. Candidate text revised; no approval.
 - **2026-11-16 — v0.4, `awaiting_approval`:** Submitted unchanged v0.4 for formal editorial approval after confirming that the criteria for arbitrary power and the distinction between classification and intensity are explicit; the threshold for sufficient safeguards remains an acknowledged open question. No approval or manifesto integration.
 - **2026-11-16 — v0.4, `awaiting_approval` :** added a sourced comparative literature review in Alternatives, Criticism, Evaluation, Research and References; recorded agreements, differences (Pettit, Lovett, Young, Foucault, Forst, Weber) and source-review limits. Definition, candidate entry, version and status unchanged.
+- **2026-11-16 — v0.5, `awaiting_approval`:** incorporated three explicitly validated orientations: dependency as contextual rather than necessary; justification, limits and effective control as complementary requirements; direct or indirect participation as a dimension of oversight. Revised definition and candidate manifesto entry; no formal approval or published manifesto change.
