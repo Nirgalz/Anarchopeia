@@ -19,7 +19,7 @@ Chaque proposition possède **une seule catégorie principale** et peut avoir pl
 | Proposition | Catégorie principale | Statut |
 | --- | --- | --- |
 | [AP-0002 — Émancipation](../../0002-emancipation/fr.md) | [Anarchopeia](../anarchopeia/fr.md) | `in_progress` |
-| [AP-0003 — Domination](../../0003-domination/fr.md) | [Anarchopeia](../anarchopeia/fr.md) | `in_progress` |
+| [AP-0003 — Domination](../../0003-domination/fr.md) | [Anarchopeia](../anarchopeia/fr.md) | `awaiting_approval` |
 | [AP-0005 — Sortir du capitalisme](../../0005-capitalism-transition/fr.md) | [Économie](../economy/fr.md) | `in_progress` |
 | [AP-0007 — Création monétaire distribuée](../../0007-distributed-money-creation/fr.md) | [Économie](../economy/fr.md) | `in_progress` |
 | [AP-0009 — Limitation de l'accumulation monétaire](../../0009-monetary-accumulation-limits/fr.md) | [Économie](../economy/fr.md) | `in_progress` |

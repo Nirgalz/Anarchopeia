@@ -7,14 +7,14 @@
 | ID | AP-0003 |
 | Catégorie principale | [Anarchopeia](../categories/anarchopeia/fr.md) (`anarchopeia`) |
 | Catégories secondaires | [Gouvernance](../categories/governance/fr.md) (`governance`) |
-| Statut | `in_progress` |
+| Statut | `awaiting_approval` |
 | Version de travail | 0.4 |
 | Version approuvée | Aucune |
 | Portée | Concept fondamental — domination |
 | Origine | Échanges avec l'initiateur, 16 novembre 2026 ; ancien [document de discussion](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/fr/foundations/aims-emancipation-and-non-domination.md) |
 | Traduction | [English](en.md) |
 
-**Statut éditorial :** la version de travail 0.4 est un brouillon révisé, intégrant une démarche d'analyse inspirée de la Méthode trialectique. Aucune approbation éditoriale n'est consignée ; le texte candidat n'est pas intégré au manifeste.
+**Statut éditorial :** la version de travail 0.4 a été soumise à l'approbation éditoriale formelle après une dernière relecture conceptuelle. Elle **n'est pas approuvée** et son texte candidat **n'est pas intégré** au manifeste.
 
 ## Problème
 
@@ -142,3 +142,4 @@ Les [anciens principes fondateurs](https://github.com/Nirgalz/Anarchopeia/blob/0
 - **2026-11-16 — v0.2, `in_progress` :** remplacement de la synthèse de recherche par un **texte proposé pour le manifeste**, directement publiable après approbation. Aucune approbation consignée.
 - **2026-11-16 — v0.3, `in_progress` :** Ajout de pistes de recherche issues des notes historiques sans adopter leurs affirmations ; texte proposé pour le manifeste inchangé.
 - **2026-11-16 — v0.4, `in_progress` :** définition de l'arbitraire, distinction qualification/intensité, domination potentielle et systémique, analyse des mécanismes et recours effectifs ; scénarios et réévaluation récursive inspirés de la Méthode trialectique (`dev`, référence datée), exemple hypothétique et critères de preuve. Texte candidat remplacé ; aucune approbation.
+- **2026-11-16 — v0.4, `awaiting_approval` :** soumission de la version 0.4 inchangée à l'approbation éditoriale après vérification des critères d'arbitraire et de la distinction entre qualification et intensité ; le seuil de suffisance des garanties reste une question ouverte reconnue. Aucune approbation ni intégration au manifeste.

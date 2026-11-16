@@ -21,7 +21,7 @@ Aims, foundational principles, concepts, methods, operations and organization of
 | --- | --- | --- | --- | --- |
 | AP-0001 | [Aims](0001-aims/en.md) | `approved` | 0.4 | None |
 | AP-0002 | [Emancipation](0002-emancipation/en.md) | `in_progress` | None | [Governance](categories/governance/en.md), [Information](categories/information/en.md) |
-| AP-0003 | [Domination](0003-domination/en.md) | `in_progress` | None | [Governance](categories/governance/en.md) |
+| AP-0003 | [Domination](0003-domination/en.md) | `awaiting_approval` | None | [Governance](categories/governance/en.md) |
 | AP-0004 | [Licensing and contributors' rights](0004-licensing/en.md) | `in_progress` | None | None |
 
 [Also see related proposals in this category](categories/anarchopeia/en.md)
