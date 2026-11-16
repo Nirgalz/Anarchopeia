@@ -32,7 +32,7 @@ Domination can be interpersonal, institutional or systemic. It requires neither 
 
 The disappearance of relations of domination requires identifying and transforming mechanisms that allow arbitrary power to be exercised. Proposed changes must be evaluated for their effects on affected people and groups, including the creation of new dependencies or concentrations of power.
 
-**Source:** [Approved AP-0003 v0.5](../proposals/0003-domination/en.md) · **Decision:** 16 November 2026, project initiator ([PR to link]).
+**Source:** [Approved AP-0003 v0.5](../proposals/0003-domination/en.md) · **Decision:** 16 November 2026, project initiator ([PR #18](https://github.com/Nirgalz/Anarchopeia/pull/18)).
 
 ## Working proposals
 

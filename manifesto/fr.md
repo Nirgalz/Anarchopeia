@@ -34,7 +34,7 @@ La domination peut être interpersonnelle, institutionnelle ou systémique. Elle
 
 La disparition des rapports de domination implique d'identifier et de transformer les mécanismes qui permettent l'exercice de pouvoirs arbitraires. Les transformations envisagées doivent être évaluées selon leurs effets sur les personnes et les groupes concernés, notamment lorsqu'elles créent de nouvelles dépendances ou concentrations de pouvoir.
 
-**Source :** [AP-0003 v0.5 approuvée](../proposals/0003-domination/fr.md) · **Décision :** 16 novembre 2026, initiateur du projet ([PR à lier]).
+**Source :** [AP-0003 v0.5 approuvée](../proposals/0003-domination/fr.md) · **Décision :** 16 novembre 2026, initiateur du projet ([PR #18](https://github.com/Nirgalz/Anarchopeia/pull/18)).
 
 ## Propositions en cours
 

@@ -10,7 +10,7 @@
 | Status | `approved` |
 | Working version | 0.5 |
 | Approved version | 0.5 |
-| Decision | Explicit approval, 16 November 2026 ([PR to link]) |
+| Decision | Explicit approval, 16 November 2026 ([PR #18](https://github.com/Nirgalz/Anarchopeia/pull/18)) |
 | Submitted-version archive | [AP-0003 v0.5](https://github.com/Nirgalz/Anarchopeia/blob/3a9f82eabce1074f5a7aa6d9fc8da4d9a7199b1a/proposals/0003-domination/en.md) |
 | Scope | Foundational concept — domination |
 | Origin | Initiator discussion, 16 November 2026; earlier combined [discussion paper](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/en/foundations/aims-emancipation-and-non-domination.md) |
