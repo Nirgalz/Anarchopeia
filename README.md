@@ -9,6 +9,7 @@ Anarchopeia explores political, economic, and social institutions that could red
 ## Explore the project
 
 - [Living manifesto — working outline](content/en/manifesto.md)
+- [Aims, emancipation and non-domination — discussion paper](content/en/foundations/aims-emancipation-and-non-domination.md)
 - [Purpose, principles, and definitions](content/en/foundations/README.md)
 - [Research dossiers](content/en/research/README.md)
 - [Articles](content/en/articles/README.md)
