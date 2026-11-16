@@ -16,7 +16,7 @@
 
 ## Problem
 
-When political decisions are primarily mediated by party representatives, citizens may have limited influence over specific measures and the public debate may focus on personalities instead of arguments. The [historical notes](../../txt/ecopolitique.txt) sketch an alternative, but neither equal formal votes nor an online platform guarantees effective participation.
+When political decisions are primarily mediated by party representatives, citizens may have limited influence over specific measures and the public debate may focus on personalities instead of arguments. The [historical notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) sketch an alternative, but neither equal formal votes nor an online platform guarantees effective participation.
 
 ## Objectives
 
@@ -44,11 +44,11 @@ Citizens should be able to initiate and debate public decisions and participate 
 
 ## Research
 
-The [historical economic-political notes](../../txt/ecopolitique.txt) describe staged legislative proposals, social discussion, potential endorsement thresholds and recurring votes. The [political critique](../../txt/critiques.txt) questions identification with representatives rather than examination of ideas. Develop legal and technical models without assuming voting frequency, thresholds, delegate-publicity rules or technological feasibility.
+The [historical economic-political notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) describe staged legislative proposals, social discussion, potential endorsement thresholds and recurring votes. The [political critique](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/critiques.txt) questions identification with representatives rather than examination of ideas. Develop legal and technical models without assuming voting frequency, thresholds, delegate-publicity rules or technological feasibility.
 
 ## References
 
-**Primary historical leads:** [ecopolitique.txt](../../txt/ecopolitique.txt); [critiques.txt](../../txt/critiques.txt). **External research:** to establish on liquid democracy, rights protection, delegation and electoral security. Historical notes are ideas to investigate, not evidence or approved rules.
+**Primary historical leads:** [ecopolitique.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt); [critiques.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/critiques.txt). **External research:** to establish on liquid democracy, rights protection, delegation and electoral security. Historical notes are ideas to investigate, not evidence or approved rules.
 
 ## Revision history
 

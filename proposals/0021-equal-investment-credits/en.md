@@ -16,7 +16,7 @@
 
 ## Problem
 
-Control of financing is often concentrated among institutions and holders of capital. The [economic-political notes](../../txt/ecopolitique.txt) sketch a distinct *investment currency* that would distribute a share of investment-allocation authority equally among members of a community.
+Control of financing is often concentrated among institutions and holders of capital. The [economic-political notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) sketch a distinct *investment currency* that would distribute a share of investment-allocation authority equally among members of a community.
 
 ## Objectives
 
@@ -44,11 +44,11 @@ Anarchopoeia examines equal civic rights to direct a share of collective investm
 
 ## Research
 
-The [historical economic-political draft](../../txt/ecopolitique.txt) describes periodic equal credits, non-storage, subscriptions for multi-year projects, and optional delegation of credit administration. Model their accounting, legal status, enforceability and interactions with other economic resources. Equal credits are a **hypothesis**, not an existing currency design validated by evidence.
+The [historical economic-political draft](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) describes periodic equal credits, non-storage, subscriptions for multi-year projects, and optional delegation of credit administration. Model their accounting, legal status, enforceability and interactions with other economic resources. Equal credits are a **hypothesis**, not an existing currency design validated by evidence.
 
 ## References
 
-**Historical lead:** [ecopolitique.txt](../../txt/ecopolitique.txt); [principes fondateurs.txt](../../txt/principes%20fondateurs.txt). **External sources:** required on participatory budgeting, tokenized allocation, public investment governance and legal constraints.
+**Historical lead:** [ecopolitique.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt); [principes fondateurs.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/principes%20fondateurs.txt). **External sources:** required on participatory budgeting, tokenized allocation, public investment governance and legal constraints.
 
 ## Revision history
 

@@ -48,7 +48,7 @@ Examiner la distinction entre délégation et domination ; comparer les gouverna
 
 ### Notes historiques à examiner — non adoptées
 
-Les [notes éco-politiques](../../txt/ecopolitique.txt) esquissent **une personne, une voix**, l'initiative populaire et la délégation révocable texte par texte à des experts ou représentants. Les votes mensuels et le seuil de soutien de 2 % sont **des exemples, non des règles adoptées** ; étudier accès, participation, protection des minorités, confidentialité et manipulation. La [critique de l'identification politique](../../txt/critiques.txt) invite à examiner les arguments plutôt que les personnalités. Voir la nouvelle proposition de vote délégatif.
+Les [notes éco-politiques](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) esquissent **une personne, une voix**, l'initiative populaire et la délégation révocable texte par texte à des experts ou représentants. Les votes mensuels et le seuil de soutien de 2 % sont **des exemples, non des règles adoptées** ; étudier accès, participation, protection des minorités, confidentialité et manipulation. La [critique de l'identification politique](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/critiques.txt) invite à examiner les arguments plutôt que les personnalités. Voir la nouvelle proposition de vote délégatif.
 
 ## Références
 

@@ -48,7 +48,7 @@ Anarchopoeia examine des formes collectives et coopératives de propriété et d
 
 ### Notes historiques à examiner — non adoptées
 
-Les [notes éco-politiques](../../txt/ecopolitique.txt) envisagent des moyens de production **mis à disposition de plusieurs projets**, avec réservation temporaire selon des règles collectives. Distinguer propriété du bien, droits d'usage, priorités d'accès et entretien. Examiner la capture des équipements par certains projets, comparer gestion fédérée et gestion centrale. L'ancienne idée de rendre les coopératives obligatoires constitue une hypothèse politique distincte et contestable.
+Les [notes éco-politiques](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) envisagent des moyens de production **mis à disposition de plusieurs projets**, avec réservation temporaire selon des règles collectives. Distinguer propriété du bien, droits d'usage, priorités d'accès et entretien. Examiner la capture des équipements par certains projets, comparer gestion fédérée et gestion centrale. L'ancienne idée de rendre les coopératives obligatoires constitue une hypothèse politique distincte et contestable.
 
 ## Références
 

@@ -30,4 +30,4 @@ Use [Issues](https://github.com/Nirgalz/Anarchopeia/issues) for questions, criti
 
 ## Earlier materials
 
-The [`txt/` folder](txt/) is preserved **unchanged** as a collection of reflection notes for later use. Prior draft research indexes and foundation pages were removed from the active layout during the workflow refactor; their contents remain retrievable through the repository's Git history (prior `main` commit `1239be9`). They should not be treated as approved manifesto sections.
+The historical `txt/` folder has been **removed from the active repository**. Citations in proposals refer to [its historical Git snapshot](https://github.com/Nirgalz/Anarchopeia/tree/0d8963af515be54957f767531017aff3d6881955/txt), not to currently maintained files. Earlier draft indexes and foundation pages also remain recoverable through Git history. None of those past notes or draft pages is an approved manifesto section.

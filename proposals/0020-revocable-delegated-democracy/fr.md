@@ -16,7 +16,7 @@
 
 ## Problème
 
-Lorsque les décisions politiques sont essentiellement médiatisées par des représentants partisans, les citoyens peuvent peser peu sur chaque mesure et le débat public peut privilégier les personnes plutôt que les arguments. Les [notes historiques](../../txt/ecopolitique.txt) esquissent une alternative, mais ni l'égalité formelle des voix ni une plateforme numérique ne garantissent la participation effective.
+Lorsque les décisions politiques sont essentiellement médiatisées par des représentants partisans, les citoyens peuvent peser peu sur chaque mesure et le débat public peut privilégier les personnes plutôt que les arguments. Les [notes historiques](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) esquissent une alternative, mais ni l'égalité formelle des voix ni une plateforme numérique ne garantissent la participation effective.
 
 ## Objectifs
 
@@ -44,11 +44,11 @@ Les citoyens doivent pouvoir initier et débattre les décisions publiques et pa
 
 ## Recherche
 
-Les [notes éco-politiques](../../txt/ecopolitique.txt) décrivent une rédaction progressive des propositions, leur débat social, de possibles seuils de soutien et des votes périodiques. Les [critiques politiques](../../txt/critiques.txt) interrogent l'identification aux représentants plutôt que l'examen des idées. Développer modèles juridiques et techniques sans présupposer fréquence, seuils, publicité des délégations ou faisabilité technique.
+Les [notes éco-politiques](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) décrivent une rédaction progressive des propositions, leur débat social, de possibles seuils de soutien et des votes périodiques. Les [critiques politiques](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/critiques.txt) interrogent l'identification aux représentants plutôt que l'examen des idées. Développer modèles juridiques et techniques sans présupposer fréquence, seuils, publicité des délégations ou faisabilité technique.
 
 ## Références
 
-**Sources historiques :** [ecopolitique.txt](../../txt/ecopolitique.txt) ; [critiques.txt](../../txt/critiques.txt). **Recherches externes :** à constituer sur démocratie liquide, protection des droits, délégation et sécurité du scrutin. Les notes constituent des pistes, non des preuves ni des règles adoptées.
+**Sources historiques :** [ecopolitique.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) ; [critiques.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/critiques.txt). **Recherches externes :** à constituer sur démocratie liquide, protection des droits, délégation et sécurité du scrutin. Les notes constituent des pistes, non des preuves ni des règles adoptées.
 
 ## Historique des révisions
 

@@ -48,7 +48,7 @@ Review comparative models and empirical studies of basic income; clarify univers
 
 ### Historical notes to investigate — not adopted
 
-The [economic-political notes](../../txt/ecopolitique.txt) describe a consumption currency distributed periodically as a universal income. Compare this funding design with tax-financed and in-kind arrangements; an equal nominal allocation need not meet unequal needs. The [older discussion of equity](../../txt/puissance%20pouvoir%20et%20resolution.txt) stresses disability, accessibility and different material needs. Investigate whether cash should be complemented by guaranteed access to essentials (see the new essential-rights proposal).
+The [economic-political notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) describe a consumption currency distributed periodically as a universal income. Compare this funding design with tax-financed and in-kind arrangements; an equal nominal allocation need not meet unequal needs. The [older discussion of equity](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/puissance%20pouvoir%20et%20resolution.txt) stresses disability, accessibility and different material needs. Investigate whether cash should be complemented by guaranteed access to essentials (see the new essential-rights proposal).
 
 ## References
 

@@ -48,7 +48,7 @@ Develop ethical safeguards and decision criteria for political experiments; comp
 
 ### Historical notes to investigate — not adopted
 
-The [historical introduction](../../txt/intro.txt) proposes building interconnected alternative institutions and a **parallel economy** rather than a centralized transitional regime, potentially including international networks. The [economic-political notes](../../txt/ecopolitique.txt) propose parallel pilots of different options and periodic public decisions. These are alternatives to evaluate, not validated timelines or guarantees of success. Compare federated experimentation, safeguards for nonparticipants and transnational coordination; cross-reference new proposals on delegated participation, distributed information and economic allocation.
+The [historical introduction](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/intro.txt) proposes building interconnected alternative institutions and a **parallel economy** rather than a centralized transitional regime, potentially including international networks. The [economic-political notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) propose parallel pilots of different options and periodic public decisions. These are alternatives to evaluate, not validated timelines or guarantees of success. Compare federated experimentation, safeguards for nonparticipants and transnational coordination; cross-reference new proposals on delegated participation, distributed information and economic allocation.
 
 ## References
 

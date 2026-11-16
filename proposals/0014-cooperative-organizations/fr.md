@@ -48,7 +48,7 @@ Comparer les coopératives de travailleurs et multipartites ; étudier les obsta
 
 ### Notes historiques à examiner — non adoptées
 
-Les [anciens principes](../../txt/principes%20fondateurs.txt) et l'[essai moral](../../txt/morale.txt) envisagent un **régime dans lequel seules les coopératives seraient autorisées**. Il s'agit d'une **option restrictive non approuvée**, à comparer avec l'adhésion volontaire, la codécision salariale, le service public et la liberté d'association. Le [brouillon éco-politique](../../txt/ecopolitique.txt) envisage la fédération de travailleurs autour de projets ; étudier participation flexible, droits internes et effets sur les non-membres.
+Les [anciens principes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/principes%20fondateurs.txt) et l'[essai moral](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/morale.txt) envisagent un **régime dans lequel seules les coopératives seraient autorisées**. Il s'agit d'une **option restrictive non approuvée**, à comparer avec l'adhésion volontaire, la codécision salariale, le service public et la liberté d'association. Le [brouillon éco-politique](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) envisage la fédération de travailleurs autour de projets ; étudier participation flexible, droits internes et effets sur les non-membres.
 
 ## Références
 

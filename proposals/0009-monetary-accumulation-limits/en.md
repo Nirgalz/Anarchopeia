@@ -48,7 +48,7 @@ Compare historical demurrage schemes and monetary models; examine distributional
 
 ### Historical notes to investigate — not adopted
 
-The [economic-political draft](../../txt/ecopolitique.txt) describes an **age-dependent depreciation of individual monetary units** until expiry; “a 50% loss of value per month” is a numerical illustration, not a recommended parameter. Compare individual-unit depreciation with inflation and taxes: these mechanisms work differently. Model effects on savings, the ability to plan, payment systems and substitution into real assets. The [founding notes](../../txt/principes%20fondateurs.txt) call for proactive prevention and prompt correction of loopholes; such rule changes also need contestable governance.
+The [economic-political draft](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) describes an **age-dependent depreciation of individual monetary units** until expiry; “a 50% loss of value per month” is a numerical illustration, not a recommended parameter. Compare individual-unit depreciation with inflation and taxes: these mechanisms work differently. Model effects on savings, the ability to plan, payment systems and substitution into real assets. The [founding notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/principes%20fondateurs.txt) call for proactive prevention and prompt correction of loopholes; such rule changes also need contestable governance.
 
 ## References
 

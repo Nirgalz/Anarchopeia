@@ -92,7 +92,7 @@ Recherches à approfondir dans cette proposition :
 
 ### Notes historiques à examiner — non adoptées
 
-Les [anciens principes fondateurs](../../txt/principes%20fondateurs.txt) limitent l'autorité spécialisée ou d'urgence à la compétence et à son domaine. Comparer à la définition actuelle : **l'expertise ne légitime pas à elle seule un pouvoir arbitraire**. L'[essai moral](../../txt/morale.txt) récuse parfois *toute* autorité, contrairement à la distinction plus récente entre coordination légitime et domination. Examiner cette tension sans adopter d'affirmation absolue, ainsi que le prestige informel et le culte de la personnalité.
+Les [anciens principes fondateurs](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/principes%20fondateurs.txt) limitent l'autorité spécialisée ou d'urgence à la compétence et à son domaine. Comparer à la définition actuelle : **l'expertise ne légitime pas à elle seule un pouvoir arbitraire**. L'[essai moral](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/morale.txt) récuse parfois *toute* autorité, contrairement à la distinction plus récente entre coordination légitime et domination. Examiner cette tension sans adopter d'affirmation absolue, ainsi que le prestige informel et le culte de la personnalité.
 
 ## Références
 

@@ -16,7 +16,7 @@
 
 ## Problème
 
-Les participants peuvent manquer d'informations utilisables sur les compétences disponibles, les besoins insatisfaits, les ressources partagées et les interdépendances économiques. Le [brouillon historique](../../txt/ecopolitique.txt) propose un réseau numérique d'offres et de demandes appelé **CAN/NEED**.
+Les participants peuvent manquer d'informations utilisables sur les compétences disponibles, les besoins insatisfaits, les ressources partagées et les interdépendances économiques. Le [brouillon historique](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) propose un réseau numérique d'offres et de demandes appelé **CAN/NEED**.
 
 ## Objectifs
 
@@ -44,11 +44,11 @@ Anarchopoeia explore des outils fédérés permettant aux individus et aux commu
 
 ## Recherche
 
-Les [notes éco-politiques](../../txt/ecopolitique.txt) décrivent une base distribuée, un rapprochement entre entrées CAN et NEED et une agrégation progressive des familles vers des réseaux territoriaux plus larges. Les [notes cognitives](../../txt/outils%20sémantiques%20et%20cognitifs.txt) utilisent les mêmes mots comme métaphores sémantiques générales. Ce ne sont **pas des spécifications techniques vérifiées** ; établir un schéma précis, distinguer besoins déclarés et inférés et examiner les alternatives à la collecte.
+Les [notes éco-politiques](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) décrivent une base distribuée, un rapprochement entre entrées CAN et NEED et une agrégation progressive des familles vers des réseaux territoriaux plus larges. Les [notes cognitives](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/outils%20sémantiques%20et%20cognitifs.txt) utilisent les mêmes mots comme métaphores sémantiques générales. Ce ne sont **pas des spécifications techniques vérifiées** ; établir un schéma précis, distinguer besoins déclarés et inférés et examiner les alternatives à la collecte.
 
 ## Références
 
-**Sources historiques :** [ecopolitique.txt](../../txt/ecopolitique.txt) ; [outils sémantiques et cognitifs.txt](../../txt/outils%20sémantiques%20et%20cognitifs.txt). **Recherches externes :** droit des données personnelles, identifiants décentralisés, interopérabilité, fédération, consentement et gouvernance algorithmique.
+**Sources historiques :** [ecopolitique.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) ; [outils sémantiques et cognitifs.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/outils%20sémantiques%20et%20cognitifs.txt). **Recherches externes :** droit des données personnelles, identifiants décentralisés, interopérabilité, fédération, consentement et gouvernance algorithmique.
 
 ## Historique des révisions
 

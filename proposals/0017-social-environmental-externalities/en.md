@@ -48,7 +48,7 @@ Compare market-based and nonmarket approaches to externalities; study life-cycle
 
 ### Historical notes to investigate — not adopted
 
-The [economic-political draft](../../txt/ecopolitique.txt) proposes **localized resource prices** including extraction, transformation, transportation and costs of repairing environmental damage (for example reforestation following clearing). These are useful modeling cases, not proof that all damage can be fully compensated. Analyze **irreversibility, threshold effects, collective consent and the limits of monetary substitution**. Supply-chain transparency may also reveal harms that are invisible in final prices.
+The [economic-political draft](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) proposes **localized resource prices** including extraction, transformation, transportation and costs of repairing environmental damage (for example reforestation following clearing). These are useful modeling cases, not proof that all damage can be fully compensated. Analyze **irreversibility, threshold effects, collective consent and the limits of monetary substitution**. Supply-chain transparency may also reveal harms that are invisible in final prices.
 
 ## References
 

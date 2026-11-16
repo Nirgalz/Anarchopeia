@@ -16,7 +16,7 @@
 
 ## Problem
 
-Participants may lack usable information about available skills, unmet needs, shared resources and the interdependence of economic activities. The [historical draft](../../txt/ecopolitique.txt) suggests a digital network of offers and requests called **CAN/NEED**.
+Participants may lack usable information about available skills, unmet needs, shared resources and the interdependence of economic activities. The [historical draft](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) suggests a digital network of offers and requests called **CAN/NEED**.
 
 ## Objectives
 
@@ -44,11 +44,11 @@ Anarchopoeia explores federated tools that allow individuals and communities to 
 
 ## Research
 
-The [economic-political notes](../../txt/ecopolitique.txt) outline a distributed database, matching of CAN and NEED entries, and progressive aggregation from households to larger territorial networks. The [cognitive notes](../../txt/outils%20sémantiques%20et%20cognitifs.txt) use the same labels as broad semantic metaphors. These are **not validated technical specifications**; establish a precise schema, distinguish self-reported needs from inferred needs, and examine alternatives to data collection.
+The [economic-political notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) outline a distributed database, matching of CAN and NEED entries, and progressive aggregation from households to larger territorial networks. The [cognitive notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/outils%20sémantiques%20et%20cognitifs.txt) use the same labels as broad semantic metaphors. These are **not validated technical specifications**; establish a precise schema, distinguish self-reported needs from inferred needs, and examine alternatives to data collection.
 
 ## References
 
-**Historical leads:** [ecopolitique.txt](../../txt/ecopolitique.txt); [outils sémantiques et cognitifs.txt](../../txt/outils%20sémantiques%20et%20cognitifs.txt). **External research:** privacy law, decentralized identifiers, interoperability, federated databases, consent and algorithmic governance.
+**Historical leads:** [ecopolitique.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt); [outils sémantiques et cognitifs.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/outils%20sémantiques%20et%20cognitifs.txt). **External research:** privacy law, decentralized identifiers, interoperability, federated databases, consent and algorithmic governance.
 
 ## Revision history
 

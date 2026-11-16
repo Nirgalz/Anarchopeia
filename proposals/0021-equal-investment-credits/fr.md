@@ -16,7 +16,7 @@
 
 ## Problème
 
-Le contrôle du financement se concentre souvent dans des institutions ou parmi les détenteurs de capital. Les [notes éco-politiques](../../txt/ecopolitique.txt) esquissent une *monnaie d'investissement* distincte, qui répartirait également une part du pouvoir de décider des investissements entre les membres d'une communauté.
+Le contrôle du financement se concentre souvent dans des institutions ou parmi les détenteurs de capital. Les [notes éco-politiques](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) esquissent une *monnaie d'investissement* distincte, qui répartirait également une part du pouvoir de décider des investissements entre les membres d'une communauté.
 
 ## Objectifs
 
@@ -44,11 +44,11 @@ Anarchopoeia examine des droits citoyens égaux permettant d'orienter une part d
 
 ## Recherche
 
-Le [brouillon éco-politique](../../txt/ecopolitique.txt) décrit crédits égaux périodiques, absence de stockage, abonnements sur plusieurs années et éventuelle délégation de gestion. Modéliser comptabilité, statut juridique, engagements exigibles et interactions avec les autres ressources économiques. L'égalité des crédits reste **une hypothèse**, non un dispositif monétaire démontré.
+Le [brouillon éco-politique](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) décrit crédits égaux périodiques, absence de stockage, abonnements sur plusieurs années et éventuelle délégation de gestion. Modéliser comptabilité, statut juridique, engagements exigibles et interactions avec les autres ressources économiques. L'égalité des crédits reste **une hypothèse**, non un dispositif monétaire démontré.
 
 ## Références
 
-**Source historique :** [ecopolitique.txt](../../txt/ecopolitique.txt) ; [principes fondateurs.txt](../../txt/principes%20fondateurs.txt). **Sources externes :** nécessaires sur budgets participatifs, allocations par jetons, gouvernance de l'investissement et contraintes juridiques.
+**Source historique :** [ecopolitique.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) ; [principes fondateurs.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/principes%20fondateurs.txt). **Sources externes :** nécessaires sur budgets participatifs, allocations par jetons, gouvernance de l'investissement et contraintes juridiques.
 
 ## Historique des révisions
 

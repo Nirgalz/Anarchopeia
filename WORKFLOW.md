@@ -9,7 +9,7 @@ This document records the workflow discussed with the initiator on 16 November 2
 - **Proposal:** complete argument and evidence record, including research, references, criticism, evaluation, a proposed manifesto entry and history in a **single document**.
 - **Manifesto:** concise synthesis of **approved** proposal versions with links to the full records. It should remain readable without duplicating all research.
 - **GitHub Issues / PRs:** discussion and proposed changes; Git history retains prior versions.
-- **`txt/`:** historical notes kept intact for later consideration; not automatically adopted.
+- **Historical notes:** removed from the active tree; earlier versions may remain cited via immutable Git commits, without implying adoption.
 
 ## Three status values
 

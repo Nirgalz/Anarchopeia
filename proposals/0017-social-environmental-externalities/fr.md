@@ -48,7 +48,7 @@ Comparer les instruments marchands et non marchands ; étudier l'analyse des cyc
 
 ### Notes historiques à examiner — non adoptées
 
-Le [brouillon éco-politique](../../txt/ecopolitique.txt) propose des **prix de ressources localisés** intégrant extraction, transformation, transport et réparation des dommages environnementaux (exemple du reboisement après défrichement). Ce sont des cas de modélisation utiles, non la preuve que tout dommage est entièrement compensable. Étudier **irréversibilité, effets de seuil, consentement collectif et limites de la substitution monétaire**. La transparence des chaînes de production peut aussi révéler des dommages invisibles dans les prix.
+Le [brouillon éco-politique](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) propose des **prix de ressources localisés** intégrant extraction, transformation, transport et réparation des dommages environnementaux (exemple du reboisement après défrichement). Ce sont des cas de modélisation utiles, non la preuve que tout dommage est entièrement compensable. Étudier **irréversibilité, effets de seuil, consentement collectif et limites de la substitution monétaire**. La transparence des chaînes de production peut aussi révéler des dommages invisibles dans les prix.
 
 ## Références
 

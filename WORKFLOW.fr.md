@@ -9,7 +9,7 @@ Ce document formalise le workflow discuté avec l'initiateur le 16 novembre 2026
 - **Proposition :** argumentaire complet, recherches, références, critiques, évaluation, texte proposé pour le manifeste et historique réunis **dans un même document**.
 - **Manifeste :** synthèse concise des versions de propositions **approuvées**, avec liens vers leurs dossiers. Il reste lisible sans reproduire toutes les recherches.
 - **Issues / pull requests GitHub :** discussions et modifications proposées ; l'historique Git conserve les versions antérieures.
-- **`txt/` :** notes historiques préservées pour plus tard, sans adoption automatique.
+- **Notes historiques :** supprimées de l'arborescence active ; certaines versions antérieures peuvent rester citées par des commits Git immuables, sans adoption automatique.
 
 ## Trois statuts
 

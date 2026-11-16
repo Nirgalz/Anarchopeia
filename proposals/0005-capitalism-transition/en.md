@@ -48,7 +48,7 @@ Define the competing meanings of capitalism; identify testable claims about expl
 
 ### Historical notes to investigate — not adopted
 
-The [introduction](../../txt/intro.txt), [critiques](../../txt/critiques.txt) and [moral notes](../../txt/morale.txt) question profit imperatives, social narratives of individual success and compulsory market participation. Their claims about the intentions of social classes, universal exploitation and population majorities are **unverified**. Distinguish structural incentives from moralized collective stereotypes, and investigate whether alternatives create new hierarchies.
+The [introduction](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/intro.txt), [critiques](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/critiques.txt) and [moral notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/morale.txt) question profit imperatives, social narratives of individual success and compulsory market participation. Their claims about the intentions of social classes, universal exploitation and population majorities are **unverified**. Distinguish structural incentives from moralized collective stereotypes, and investigate whether alternatives create new hierarchies.
 
 ## References
 

@@ -16,7 +16,7 @@
 
 ## Problem
 
-Public decisions can be distorted by manipulative communication, identification of ideas with personalities, vague categories, unequal access to evidence and false certainty. Several [historic semantic notes](../../txt/outils%20sémantiques%20et%20cognitifs.txt) explore these risks, but also contain polemical generalizations that must not become orthodoxy.
+Public decisions can be distorted by manipulative communication, identification of ideas with personalities, vague categories, unequal access to evidence and false certainty. Several [historic semantic notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/outils%20sémantiques%20et%20cognitifs.txt) explore these risks, but also contain polemical generalizations that must not become orthodoxy.
 
 ## Objectives
 
@@ -44,11 +44,11 @@ Anarchopoeia seeks public deliberation that values arguments over personal alleg
 
 ## Research
 
-The [critique of representation and identification](../../txt/critiques.txt) warns against confusing political groups with homogeneous entities and ideas with their representatives. The [cognitive notes](../../txt/outils%20sémantiques%20et%20cognitifs.txt) discuss abstraction, categorization, language, uncertainty and the risks of emotionally charged examples; the [moral essay](../../txt/morale.txt) contains **inconsistent** generalizations about beliefs and religions. Treat these as prompts for comparative research, not empirically proven psychological classifications or reasons to police beliefs. Operationalize fair source review, appeals, multilingual accessibility and separation of empirical evidence from normative disagreement.
+The [critique of representation and identification](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/critiques.txt) warns against confusing political groups with homogeneous entities and ideas with their representatives. The [cognitive notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/outils%20sémantiques%20et%20cognitifs.txt) discuss abstraction, categorization, language, uncertainty and the risks of emotionally charged examples; the [moral essay](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/morale.txt) contains **inconsistent** generalizations about beliefs and religions. Treat these as prompts for comparative research, not empirically proven psychological classifications or reasons to police beliefs. Operationalize fair source review, appeals, multilingual accessibility and separation of empirical evidence from normative disagreement.
 
 ## References
 
-**Historical leads:** [critiques.txt](../../txt/critiques.txt); [outils sémantiques et cognitifs.txt](../../txt/outils%20sémantiques%20et%20cognitifs.txt); [morale.txt](../../txt/morale.txt). **External research:** to develop on deliberative democracy, epistemic injustice, media literacy, moderation, scientific reasoning and public-interest communication.
+**Historical leads:** [critiques.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/critiques.txt); [outils sémantiques et cognitifs.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/outils%20sémantiques%20et%20cognitifs.txt); [morale.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/morale.txt). **External research:** to develop on deliberative democracy, epistemic injustice, media literacy, moderation, scientific reasoning and public-interest communication.
 
 ## Revision history
 

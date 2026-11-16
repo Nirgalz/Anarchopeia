@@ -91,7 +91,7 @@ Distinguer engagements normatifs et affirmations empiriques ; sourcer les géné
 
 ### Notes historiques à examiner — non adoptées
 
-L'[introduction historique](../../txt/intro.txt) envisage les réseaux d'organisations alternatives et la coopération transfrontalière face aux pouvoirs concentrés et aux pressions extérieures. Son opposition entre sociétés hiérarchiques et coopératives est une hypothèse rhétorique, **pas** une dichotomie historique démontrée. Les [anciennes notes morales](../../txt/morale.txt) cherchent des normes éthiques communes, à confronter au refus actuel d'imposer une vision unique du monde.
+L'[introduction historique](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/intro.txt) envisage les réseaux d'organisations alternatives et la coopération transfrontalière face aux pouvoirs concentrés et aux pressions extérieures. Son opposition entre sociétés hiérarchiques et coopératives est une hypothèse rhétorique, **pas** une dichotomie historique démontrée. Les [anciennes notes morales](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/morale.txt) cherchent des normes éthiques communes, à confronter au refus actuel d'imposer une vision unique du monde.
 
 ## Références
 

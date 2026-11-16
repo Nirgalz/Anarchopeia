@@ -48,7 +48,7 @@ Définir les acceptions concurrentes du capitalisme ; identifier les hypothèses
 
 ### Notes historiques à examiner — non adoptées
 
-L'[introduction](../../txt/intro.txt), les [critiques](../../txt/critiques.txt) et les [notes morales](../../txt/morale.txt) interrogent l'impératif de profit, les récits de réussite individuelle et la participation contrainte au marché. Leurs affirmations sur les intentions de classes entières, l'exploitation universelle et les majorités sont **non vérifiées**. Distinguer incitations structurelles et stéréotypes collectifs moralisants, et examiner les hiérarchies possibles des alternatives.
+L'[introduction](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/intro.txt), les [critiques](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/critiques.txt) et les [notes morales](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/morale.txt) interrogent l'impératif de profit, les récits de réussite individuelle et la participation contrainte au marché. Leurs affirmations sur les intentions de classes entières, l'exploitation universelle et les majorités sont **non vérifiées**. Distinguer incitations structurelles et stéréotypes collectifs moralisants, et examiner les hiérarchies possibles des alternatives.
 
 ## Références
 
