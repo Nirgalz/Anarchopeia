@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0005 |
 | Statut | `in_progress` |
-| Version de travail | 0.1 |
+| Version de travail | 0.2 |
 | Version approuvée | Aucune |
 | Portée | Option politique, économique ou institutionnelle |
 | Décision | Aucune |
@@ -46,6 +46,10 @@ Anarchopoeia examine la possibilité de sortir du capitalisme en transformant le
 
 Définir les acceptions concurrentes du capitalisme ; identifier les hypothèses testables sur l'exploitation et les inégalités ; comparer les transformations historiques et les alternatives ; étudier les interactions avec la propriété, la monnaie et la gouvernance.
 
+### Notes historiques à examiner — non adoptées
+
+L'[introduction](../../txt/intro.txt), les [critiques](../../txt/critiques.txt) et les [notes morales](../../txt/morale.txt) interrogent l'impératif de profit, les récits de réussite individuelle et la participation contrainte au marché. Leurs affirmations sur les intentions de classes entières, l'exploitation universelle et les majorités sont **non vérifiées**. Distinguer incitations structurelles et stéréotypes collectifs moralisants, et examiner les hiérarchies possibles des alternatives.
+
 ## Références
 
 **Source initiale :** projet d'article fourni par son auteur, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discuté le 16 novembre 2026. **Références externes :** à rechercher, vérifier et ajouter ; les hypothèses ci-dessus ne sont pas considérées comme démontrées.
@@ -53,3 +57,4 @@ Définir les acceptions concurrentes du capitalisme ; identifier les hypothèses
 ## Historique des révisions
 
 - **2026-11-16 — v0.1, `in_progress` :** Première extraction du texte de l'auteur. Brouillon non approuvé, non intégré au manifeste.
+- **2026-11-16 — v0.2, `in_progress` :** Ajout de pistes de recherche issues des notes historiques sans adopter leurs affirmations ; texte proposé pour le manifeste inchangé.

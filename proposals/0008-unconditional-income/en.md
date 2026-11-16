@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0008 |
 | Status | `in_progress` |
-| Working version | 0.1 |
+| Working version | 0.2 |
 | Approved version | None |
 | Scope | Political, economic or institutional option |
 | Decision record | None |
@@ -46,6 +46,10 @@ Anarchopoeia explores an unconditional individual income as a possible means of 
 
 Review comparative models and empirical studies of basic income; clarify universality versus unconditionality; explore alternative fiscal and monetary financing.
 
+### Historical notes to investigate — not adopted
+
+The [economic-political notes](../../txt/ecopolitique.txt) describe a consumption currency distributed periodically as a universal income. Compare this funding design with tax-financed and in-kind arrangements; an equal nominal allocation need not meet unequal needs. The [older discussion of equity](../../txt/puissance%20pouvoir%20et%20resolution.txt) stresses disability, accessibility and different material needs. Investigate whether cash should be complemented by guaranteed access to essentials (see the new essential-rights proposal).
+
 ## References
 
 **Initial source:** Author-supplied draft article, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discussed on 16 November 2026. **External references:** to be identified, checked and added; hypotheses above are not presented as established findings.
@@ -53,3 +57,4 @@ Review comparative models and empirical studies of basic income; clarify univers
 ## Revision history
 
 - **2026-11-16 — v0.1, `in_progress`:** Initial extraction from the author's article. Draft only; no approval, no manifesto integration.
+- **2026-11-16 — v0.2, `in_progress`:** Added research questions from historic notes; proposed manifesto entry unchanged.

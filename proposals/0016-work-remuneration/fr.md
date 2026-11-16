@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0016 |
 | Statut | `in_progress` |
-| Version de travail | 0.1 |
+| Version de travail | 0.2 |
 | Version approuvée | Aucune |
 | Portée | Option politique, économique ou institutionnelle |
 | Décision | Aucune |
@@ -46,6 +46,10 @@ Anarchopoeia examine des systèmes de rémunération équitable prenant en compt
 
 Étudier les théories de fixation des rémunérations et la négociation collective ; définir des indicateurs de pénibilité et de risque ; examiner les interactions entre revenu garanti et rémunérations différenciées.
 
+### Notes historiques à examiner — non adoptées
+
+L'[ancien texte sur potentiels et conditions](../../txt/puissance%20pouvoir%20et%20resolution.txt) et le [modèle économique](../../txt/ecopolitique.txt) proposent comme signaux **rareté des compétences, durée de formation, urgence, pénibilité, danger et utilité sociale**. Ces critères peuvent entrer en conflit : rémunérer le danger ne doit pas remplacer sa prévention ; une définition collective de l'utilité peut marginaliser des activités minoritaires. Les notes distinguent **équité et traitement identique**, notamment selon les besoins d'accompagnement. Étudier une rémunération adaptative, intelligible et contestable sans mesurer la valeur humaine.
+
 ## Références
 
 **Source initiale :** projet d'article fourni par son auteur, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discuté le 16 novembre 2026. **Références externes :** à rechercher, vérifier et ajouter. Aucune affirmation empirique n'a encore été validée dans ces brouillons.
@@ -53,3 +57,4 @@ Anarchopoeia examine des systèmes de rémunération équitable prenant en compt
 ## Historique des révisions
 
 - **2026-11-16 — v0.1, `in_progress` :** Première extraction du texte de l'auteur. Brouillon non approuvé, non intégré au manifeste.
+- **2026-11-16 — v0.2, `in_progress` :** Ajout de pistes historiques sans les adopter ou approuver ; texte proposé pour le manifeste inchangé.

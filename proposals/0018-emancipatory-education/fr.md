@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0018 |
 | Statut | `in_progress` |
-| Version de travail | 0.1 |
+| Version de travail | 0.2 |
 | Version approuvée | Aucune |
 | Portée | Option politique, économique ou institutionnelle |
 | Décision | Aucune |
@@ -46,6 +46,10 @@ L'éducation doit favoriser les conditions de la réflexion critique, de la déc
 
 Étudier pédagogie critique, éducation démocratique, émancipation intellectuelle et diversité des parcours ; examiner les inégalités d'accès et l'autonomie éducative ; relier à AP-0002.
 
+### Notes historiques à examiner — non adoptées
+
+Les [notes sémantiques et cognitives](../../txt/outils%20sémantiques%20et%20cognitifs.txt) suggèrent d'enseigner **métacognition, incertitude, niveaux d'abstraction, vigilance face aux catégories et pluralité des modèles explicatifs** ; les [critiques](../../txt/critiques.txt) questionnent l'éducation à la soumission hiérarchique. Ne pas adopter leurs affirmations absolues sur l'école, les profils psychologiques ou la religion. Étudier les pédagogies favorisant l'enquête sans endoctrinement, et la lisibilité des chaînes de production des connaissances. Les [notes pratiques](../../txt/philosophie%20pratique.txt) évoquent écoute attentive et empathie comme exercices possibles, jamais comme pratiques thérapeutiques obligatoires.
+
 ## Références
 
 **Source initiale :** projet d'article fourni par son auteur, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discuté le 16 novembre 2026. **Références externes :** à rechercher, vérifier et ajouter. Aucune affirmation empirique n'a encore été validée dans ces brouillons.
@@ -53,3 +57,4 @@ L'éducation doit favoriser les conditions de la réflexion critique, de la déc
 ## Historique des révisions
 
 - **2026-11-16 — v0.1, `in_progress` :** Première extraction du texte de l'auteur. Brouillon non approuvé, non intégré au manifeste.
+- **2026-11-16 — v0.2, `in_progress` :** Ajout de pistes historiques sans les adopter ou approuver ; texte proposé pour le manifeste inchangé.

@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0014 |
 | Statut | `in_progress` |
-| Version de travail | 0.1 |
+| Version de travail | 0.2 |
 | Version approuvée | Aucune |
 | Portée | Option politique, économique ou institutionnelle |
 | Décision | Aucune |
@@ -46,6 +46,10 @@ Anarchopoeia explore le développement des organisations coopératives du travai
 
 Comparer les coopératives de travailleurs et multipartites ; étudier les obstacles à la conversion, le financement et la pratique démocratique ; examiner les résultats économiques et les inégalités internes.
 
+### Notes historiques à examiner — non adoptées
+
+Les [anciens principes](../../txt/principes%20fondateurs.txt) et l'[essai moral](../../txt/morale.txt) envisagent un **régime dans lequel seules les coopératives seraient autorisées**. Il s'agit d'une **option restrictive non approuvée**, à comparer avec l'adhésion volontaire, la codécision salariale, le service public et la liberté d'association. Le [brouillon éco-politique](../../txt/ecopolitique.txt) envisage la fédération de travailleurs autour de projets ; étudier participation flexible, droits internes et effets sur les non-membres.
+
 ## Références
 
 **Source initiale :** projet d'article fourni par son auteur, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discuté le 16 novembre 2026. **Références externes :** à rechercher, vérifier et ajouter. Aucune affirmation empirique n'a encore été validée dans ces brouillons.
@@ -53,3 +57,4 @@ Comparer les coopératives de travailleurs et multipartites ; étudier les obsta
 ## Historique des révisions
 
 - **2026-11-16 — v0.1, `in_progress` :** Première extraction du texte de l'auteur. Brouillon non approuvé, non intégré au manifeste.
+- **2026-11-16 — v0.2, `in_progress` :** Ajout de pistes historiques sans les adopter ou approuver ; texte proposé pour le manifeste inchangé.

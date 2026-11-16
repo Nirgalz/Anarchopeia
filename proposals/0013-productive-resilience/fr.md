@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0013 |
 | Statut | `in_progress` |
-| Version de travail | 0.1 |
+| Version de travail | 0.2 |
 | Version approuvée | Aucune |
 | Portée | Option politique, économique ou institutionnelle |
 | Décision | Aucune |
@@ -46,6 +46,10 @@ Anarchopoeia explore la résilience alimentaire, énergétique et industrielle p
 
 Distinguer les trois secteurs dans des études détaillées ; cartographier les dépendances critiques, les risques d'approvisionnement et les arbitrages écologiques ; comparer planification, redondance et spécialisation.
 
+### Notes historiques à examiner — non adoptées
+
+L'[introduction historique](../../txt/intro.txt) envisage pressions économiques et risques sécuritaires pendant une transition ainsi que des **réseaux internationaux** d'organisations alternatives ; ce sont des scénarios à examiner géopolitiquement, non des prédictions. Les [notes éco-politiques](../../txt/ecopolitique.txt) proposent d'agréger des données localisées d'offres et de besoins à différentes échelles communautaires. Étudier diversification plutôt qu'isolement, confidentialité et coopération transfrontalière. Comparer avec la nouvelle proposition de réseau d'information distribué.
+
 ## Références
 
 **Source initiale :** projet d'article fourni par son auteur, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discuté le 16 novembre 2026. **Références externes :** à rechercher, vérifier et ajouter. Aucune affirmation empirique n'a encore été validée dans ces brouillons.
@@ -53,3 +57,4 @@ Distinguer les trois secteurs dans des études détaillées ; cartographier les 
 ## Historique des révisions
 
 - **2026-11-16 — v0.1, `in_progress` :** Première extraction du texte de l'auteur. Brouillon non approuvé, non intégré au manifeste.
+- **2026-11-16 — v0.2, `in_progress` :** Ajout de questions issues des notes historiques ; texte proposé pour le manifeste inchangé.

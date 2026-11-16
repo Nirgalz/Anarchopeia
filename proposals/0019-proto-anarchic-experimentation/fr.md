@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0019 |
 | Statut | `in_progress` |
-| Version de travail | 0.1 |
+| Version de travail | 0.2 |
 | Version approuvée | Aucune |
 | Portée | Option politique, économique ou institutionnelle |
 | Décision | Aucune |
@@ -46,6 +46,10 @@ Anarchopoeia poursuit la transformation des institutions par un processus perman
 
 Élaborer les garanties éthiques et les critères de décision des expérimentations politiques ; comparer les transitions historiques et l'apprentissage institutionnel ; préciser la coopération dans la diversité (« l'unité par la diversité ») sans considérer cette formule comme un principe déjà défini.
 
+### Notes historiques à examiner — non adoptées
+
+L'[introduction historique](../../txt/intro.txt) propose de connecter des institutions alternatives et de développer une **économie parallèle** plutôt que d'instaurer un régime transitoire centralisé, éventuellement en réseaux internationaux. Les [notes éco-politiques](../../txt/ecopolitique.txt) suggèrent d'expérimenter plusieurs options en parallèle et de recourir à des décisions publiques périodiques. Il s'agit de pistes à évaluer, non de délais validés ni de garanties de succès. Comparer expérimentation fédérée, garanties pour les non-participants et coordination internationale ; rapprocher des nouvelles propositions sur la participation délégative, l'information distribuée et les allocations économiques.
+
 ## Références
 
 **Source initiale :** projet d'article fourni par son auteur, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discuté le 16 novembre 2026. **Références externes :** à rechercher, vérifier et ajouter. Aucune affirmation empirique n'a encore été validée dans ces brouillons.
@@ -53,3 +57,4 @@ Anarchopoeia poursuit la transformation des institutions par un processus perman
 ## Historique des révisions
 
 - **2026-11-16 — v0.1, `in_progress` :** Première extraction du texte de l'auteur. Brouillon non approuvé, non intégré au manifeste.
+- **2026-11-16 — v0.2, `in_progress` :** Ajout de pistes historiques sans les adopter ou approuver ; texte proposé pour le manifeste inchangé.

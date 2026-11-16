@@ -6,7 +6,7 @@
 |---|---|
 | ID | AP-0003 |
 | Status | `in_progress` |
-| Working version | 0.2 |
+| Working version | 0.3 |
 | Approved version | None |
 | Scope | Foundational concept — domination |
 | Origin | Initiator discussion, 16 November 2026; earlier combined [discussion paper](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/en/foundations/aims-emancipation-and-non-domination.md) |
@@ -90,6 +90,10 @@ Research to develop within this proposal:
 - Examine cases of dependency in employment, housing, education, public services, and emergency authority.
 - Look for counterexamples in which power is asymmetric but non-arbitrary, or formal safeguards fail in practice.
 
+### Historical notes to investigate — not adopted
+
+The [older founding principles](../../txt/principes%20fondateurs.txt) restrict specialized or emergency authority to expertise and limited scope. Compare this with the current definition: **expertise alone does not legitimate arbitrary authority**. The [moral essay](../../txt/morale.txt) sometimes rejects *every* authority, conflicting with the more precise distinction between legitimate coordination and domination. Investigate the tension rather than adopting either absolute claim; also consider informal prestige and personality cults.
+
 ## References
 
 **Reading leads, not verified evidence:** Philip Pettit on freedom as non-domination; critical theory of structural domination; Michel Foucault on disciplinary and productive power; research on institutional accountability and polycentric governance. Specific sources, claims and page references remain to be established.
@@ -98,3 +102,4 @@ Research to develop within this proposal:
 
 - **2026-11-16 — v0.1, `in_progress`:** Extracted the working definition of interpersonal, institutional and systemic domination from the combined discussion paper. No approval recorded.
 - **2026-11-16 — v0.2, `in_progress`:** Replaced the research summary with a publication-ready **Proposed Manifesto Entry**. No approval recorded.
+- **2026-11-16 — v0.3, `in_progress`:** Added research leads from historical notes without adopting their claims; proposed manifesto entry unchanged.

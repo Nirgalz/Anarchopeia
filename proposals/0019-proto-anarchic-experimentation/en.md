@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0019 |
 | Status | `in_progress` |
-| Working version | 0.1 |
+| Working version | 0.2 |
 | Approved version | None |
 | Scope | Political, economic or institutional option |
 | Decision record | None |
@@ -46,6 +46,10 @@ Anarchopoeia pursues institutional transformation through a continuous process o
 
 Develop ethical safeguards and decision criteria for political experiments; compare historical transitions, institutional learning and recursive governance; clarify diversity and cooperation ('unity through diversity') without treating the slogan as a settled principle.
 
+### Historical notes to investigate — not adopted
+
+The [historical introduction](../../txt/intro.txt) proposes building interconnected alternative institutions and a **parallel economy** rather than a centralized transitional regime, potentially including international networks. The [economic-political notes](../../txt/ecopolitique.txt) propose parallel pilots of different options and periodic public decisions. These are alternatives to evaluate, not validated timelines or guarantees of success. Compare federated experimentation, safeguards for nonparticipants and transnational coordination; cross-reference new proposals on delegated participation, distributed information and economic allocation.
+
 ## References
 
 **Initial source:** Author-supplied draft article, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discussed on 16 November 2026. **External references:** to be identified, checked and added. No empirical claim has yet been validated through these draft documents.
@@ -53,3 +57,4 @@ Develop ethical safeguards and decision criteria for political experiments; comp
 ## Revision history
 
 - **2026-11-16 — v0.1, `in_progress`:** Initial extraction from the author's article. Draft only; no approval, no manifesto integration.
+- **2026-11-16 — v0.2, `in_progress`:** Added historical research leads without adopting or approving them; proposed manifesto entry unchanged.

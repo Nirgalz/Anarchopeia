@@ -6,7 +6,7 @@
 |---|---|
 | ID | AP-0002 |
 | Status | `in_progress` |
-| Working version | 0.2 |
+| Working version | 0.3 |
 | Approved version | None |
 | Scope | Foundational concept — emancipation |
 | Origin | Initiator discussion, 16 November 2026; earlier combined [discussion paper](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/en/foundations/aims-emancipation-and-non-domination.md) |
@@ -98,6 +98,10 @@ Research directions to develop within this proposal:
 - Consider the capabilities approach as a way to analyze effective opportunities, without equating it to the definition of emancipation.
 - Study cases where collective autonomy increased while members' opportunities or rights decreased.
 
+### Historical notes to investigate — not adopted
+
+The [older text on potential and action](../../txt/puissance%20pouvoir%20et%20resolution.txt) distinguishes aspirations, enabling conditions and the constraints of collective action. Its terminology precedes the more recent **Méthode trialectique**, a separate project, and must not be imported as an established theory. The [practical philosophy notes](../../txt/philosophie%20pratique.txt) explore introspection and contextual understanding as optional aids to self-reflection, **not compulsory psychological training**. Research how people discover and revise personal aims without a productivity imperative.
+
 ## References
 
 **Reading leads, not verified evidence:** Karl Marx on human emancipation; Paulo Freire on critical and dialogical education; Jacques Rancière on intellectual emancipation; Cornelius Castoriadis on autonomy; scholarship on relational autonomy; Amartya Sen and Martha Nussbaum on capabilities; critical theory on internalized domination. Specific works, claims, editions and evidence are to be added and assessed.
@@ -106,3 +110,4 @@ Research directions to develop within this proposal:
 
 - **2026-11-16 — v0.1, `in_progress`:** Extracted the agreed conceptual distinctions and safeguards from the earlier combined discussion paper. No approval recorded.
 - **2026-11-16 — v0.2, `in_progress`:** Replaced the research summary with a publication-ready **Proposed Manifesto Entry**. No approval recorded.
+- **2026-11-16 — v0.3, `in_progress`:** Added research leads from historical notes without adopting their claims; proposed manifesto entry unchanged.

@@ -6,7 +6,7 @@
 |---|---|
 | ID | AP-0003 |
 | Statut | `in_progress` |
-| Version de travail | 0.2 |
+| Version de travail | 0.3 |
 | Version approuvée | Aucune |
 | Portée | Concept fondamental — domination |
 | Origine | Échanges avec l'initiateur, 16 novembre 2026 ; ancien [document de discussion](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/fr/foundations/aims-emancipation-and-non-domination.md) |
@@ -90,6 +90,10 @@ Recherches à approfondir dans cette proposition :
 - Examiner les dépendances dans l'emploi, le logement, l'éducation, les services publics et les pouvoirs d'urgence.
 - Rechercher des contre-exemples dans lesquels le pouvoir est asymétrique mais non arbitraire, ou les garanties formelles inefficaces.
 
+### Notes historiques à examiner — non adoptées
+
+Les [anciens principes fondateurs](../../txt/principes%20fondateurs.txt) limitent l'autorité spécialisée ou d'urgence à la compétence et à son domaine. Comparer à la définition actuelle : **l'expertise ne légitime pas à elle seule un pouvoir arbitraire**. L'[essai moral](../../txt/morale.txt) récuse parfois *toute* autorité, contrairement à la distinction plus récente entre coordination légitime et domination. Examiner cette tension sans adopter d'affirmation absolue, ainsi que le prestige informel et le culte de la personnalité.
+
 ## Références
 
 **Pistes de lecture, non encore vérifiées :** Philip Pettit sur la liberté comme non-domination ; théorie critique des dominations structurelles ; Michel Foucault sur le pouvoir disciplinaire et productif ; recherches sur la responsabilité institutionnelle et la gouvernance polycentrique. Les sources exactes, les affirmations et les références de pages restent à établir.
@@ -98,3 +102,4 @@ Recherches à approfondir dans cette proposition :
 
 - **2026-11-16 — v0.1, `in_progress` :** extraction de la définition de travail de la domination interpersonnelle, institutionnelle et systémique à partir du document commun. Aucune approbation consignée.
 - **2026-11-16 — v0.2, `in_progress` :** remplacement de la synthèse de recherche par un **texte proposé pour le manifeste**, directement publiable après approbation. Aucune approbation consignée.
+- **2026-11-16 — v0.3, `in_progress` :** Ajout de pistes de recherche issues des notes historiques sans adopter leurs affirmations ; texte proposé pour le manifeste inchangé.

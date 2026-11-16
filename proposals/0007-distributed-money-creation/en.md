@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0007 |
 | Status | `in_progress` |
-| Working version | 0.1 |
+| Working version | 0.2 |
 | Approved version | None |
 | Scope | Political, economic or institutional option |
 | Decision record | None |
@@ -46,6 +46,10 @@ Anarchopoeia investigates systems of monetary creation whose rules and distribut
 
 Document how contemporary money is created; compare proposals for shared issuance; investigate macroeconomic constraints, monetary law and governance of currency systems.
 
+### Historical notes to investigate — not adopted
+
+The [economic-political notes](../../txt/ecopolitique.txt) illustrate **periodic equal per-person money creation** for consumption; “100 units per month” is merely an example. Study issuance eligibility, inflation, unequal needs, existing currencies and the difference between equal issuance and equitable outcomes. The notes introduce a separate **investment allocation unit**; examine it in its own proposal, not as a synonym for consumption money.
+
 ## References
 
 **Initial source:** Author-supplied draft article, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discussed on 16 November 2026. **External references:** to be identified, checked and added; hypotheses above are not presented as established findings.
@@ -53,3 +57,4 @@ Document how contemporary money is created; compare proposals for shared issuanc
 ## Revision history
 
 - **2026-11-16 — v0.1, `in_progress`:** Initial extraction from the author's article. Draft only; no approval, no manifesto integration.
+- **2026-11-16 — v0.2, `in_progress`:** Added research leads from historical notes without adopting their claims; proposed manifesto entry unchanged.

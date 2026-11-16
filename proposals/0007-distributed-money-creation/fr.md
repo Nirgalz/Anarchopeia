@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0007 |
 | Statut | `in_progress` |
-| Version de travail | 0.1 |
+| Version de travail | 0.2 |
 | Version approuvée | Aucune |
 | Portée | Option politique, économique ou institutionnelle |
 | Décision | Aucune |
@@ -46,6 +46,10 @@ Anarchopoeia étudie des systèmes de création monétaire dont les règles et l
 
 Documenter la création monétaire contemporaine ; comparer les propositions de création partagée ; examiner les contraintes macroéconomiques, le droit monétaire et la gouvernance des monnaies.
 
+### Notes historiques à examiner — non adoptées
+
+Les [notes éco-politiques](../../txt/ecopolitique.txt) illustrent une **création périodique et égale de monnaie de consommation par personne** ; « 100 unités par mois » est un simple exemple. Étudier éligibilité, inflation, diversité des besoins, coexistence monétaire et distinction entre émission identique et résultats équitables. Les notes proposent une **unité distincte d'investissement collectif**, à examiner dans une proposition autonome.
+
 ## Références
 
 **Source initiale :** projet d'article fourni par son auteur, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discuté le 16 novembre 2026. **Références externes :** à rechercher, vérifier et ajouter ; les hypothèses ci-dessus ne sont pas considérées comme démontrées.
@@ -53,3 +57,4 @@ Documenter la création monétaire contemporaine ; comparer les propositions de 
 ## Historique des révisions
 
 - **2026-11-16 — v0.1, `in_progress` :** Première extraction du texte de l'auteur. Brouillon non approuvé, non intégré au manifeste.
+- **2026-11-16 — v0.2, `in_progress` :** Ajout de pistes de recherche issues des notes historiques sans adopter leurs affirmations ; texte proposé pour le manifeste inchangé.

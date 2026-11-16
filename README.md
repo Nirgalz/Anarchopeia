@@ -21,9 +21,10 @@ One **proposal** is the unit of research, debate and decision. Its own document 
 - [AP-0003 — Domination](proposals/0003-domination/en.md) ([FR](proposals/0003-domination/fr.md))
 - [AP-0004 — Licensing and contributors' rights](proposals/0004-licensing/en.md) ([FR](proposals/0004-licensing/fr.md))
 - [AP-0005 to AP-0019 — Political, economic and institutional proposals](proposals/README.md) (all drafts, based on the initiating article)
+- [AP-0020 to AP-0025 — New drafts from the historical notes](proposals/README.md) (participation, economic information and equitable access)
 - [Translation guide](i18n/README.md)
 
-All 19 proposals are marked `in_progress`. Their creation does not constitute approval.
+All 25 proposals are marked `in_progress`. Their creation does not constitute approval.
 
 Use [Issues](https://github.com/Nirgalz/Anarchopeia/issues) for questions, criticisms and alternatives and pull requests for substantive text changes.
 

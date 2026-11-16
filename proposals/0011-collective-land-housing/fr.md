@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0011 |
 | Statut | `in_progress` |
-| Version de travail | 0.1 |
+| Version de travail | 0.2 |
 | Version approuvée | Aucune |
 | Portée | Option politique, économique ou institutionnelle |
 | Décision | Aucune |
@@ -46,6 +46,10 @@ Anarchopoeia examine des formes collectives et coopératives d'organisation du f
 
 Comparer les formes juridiques et pratiques ; étudier l'occupation, l'indemnisation, l'attribution et les droits des minorités ; distinguer les terres rurales et les logements urbains.
 
+### Notes historiques à examiner — non adoptées
+
+Les [principes fondateurs](../../txt/principes%20fondateurs.txt) évoquent une limite d'**un logement par personne**, la gestion collective des logements de mobilité ou faiblement occupés, un contrôle public et des restrictions d'héritage. Ce sont **des hypothèses politiques fortes**, non des règles validées. Étudier droits au logement, indemnisation, gouvernance des habitants, situations familiales, mobilité, succession, vacance et dommages possibles. Ne pas confondre résidence, propriété et occupation.
+
 ## Références
 
 **Source initiale :** projet d'article fourni par son auteur, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discuté le 16 novembre 2026. **Références externes :** à rechercher, vérifier et ajouter ; les hypothèses ci-dessus ne sont pas considérées comme démontrées.
@@ -53,3 +57,4 @@ Comparer les formes juridiques et pratiques ; étudier l'occupation, l'indemnisa
 ## Historique des révisions
 
 - **2026-11-16 — v0.1, `in_progress` :** Première extraction du texte de l'auteur. Brouillon non approuvé, non intégré au manifeste.
+- **2026-11-16 — v0.2, `in_progress` :** Ajout de questions issues des notes historiques ; texte proposé pour le manifeste inchangé.

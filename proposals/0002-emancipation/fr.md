@@ -6,7 +6,7 @@
 |---|---|
 | ID | AP-0002 |
 | Statut | `in_progress` |
-| Version de travail | 0.2 |
+| Version de travail | 0.3 |
 | Version approuvée | Aucune |
 | Portée | Concept fondamental — émancipation |
 | Origine | Échanges avec l'initiateur, 16 novembre 2026 ; ancien [document de discussion](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/fr/foundations/aims-emancipation-and-non-domination.md) |
@@ -98,6 +98,10 @@ Pistes de recherche à développer dans cette proposition :
 - Examiner l'approche par les capabilités pour analyser les possibilités effectives, sans l'assimiler à notre définition de l'émancipation.
 - Rechercher des situations où l'autonomie collective a augmenté pendant que les droits ou les possibilités de certains membres reculaient.
 
+### Notes historiques à examiner — non adoptées
+
+Le [texte ancien sur potentiel et action](../../txt/puissance%20pouvoir%20et%20resolution.txt) distingue aspirations, conditions d'action et contraintes collectives. Son vocabulaire précède la **Méthode trialectique** récente, projet distinct, et ne doit pas être importé comme théorie établie. Les [notes de philosophie pratique](../../txt/philosophie%20pratique.txt) explorent introspection et compréhension contextuelle comme possibilités de réflexion, **non comme entraînement psychologique obligatoire**. Étudier la découverte et la révision des finalités individuelles sans impératif de productivité.
+
 ## Références
 
 **Pistes de lecture, et non données vérifiées :** Karl Marx sur l'émancipation humaine ; Paulo Freire sur l'éducation critique et dialogique ; Jacques Rancière sur l'émancipation intellectuelle ; Cornelius Castoriadis sur l'autonomie ; travaux sur l'autonomie relationnelle ; Amartya Sen et Martha Nussbaum sur les capabilités ; théorie critique sur les dominations intériorisées. Les ouvrages précis, les affirmations, les éditions et les données devront être vérifiés.
@@ -106,3 +110,4 @@ Pistes de recherche à développer dans cette proposition :
 
 - **2026-11-16 — v0.1, `in_progress` :** extraction des distinctions conceptuelles et précautions discutées dans le document commun. Aucune approbation consignée.
 - **2026-11-16 — v0.2, `in_progress` :** remplacement de la synthèse de recherche par un **texte proposé pour le manifeste**, directement publiable après approbation. Aucune approbation consignée.
+- **2026-11-16 — v0.3, `in_progress` :** Ajout de pistes de recherche issues des notes historiques sans adopter leurs affirmations ; texte proposé pour le manifeste inchangé.

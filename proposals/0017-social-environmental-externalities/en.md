@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0017 |
 | Status | `in_progress` |
-| Working version | 0.1 |
+| Working version | 0.2 |
 | Approved version | None |
 | Scope | Political, economic or institutional option |
 | Decision record | None |
@@ -46,6 +46,10 @@ Anarchopoeia examines how economic decisions can account for social and environm
 
 Compare market-based and nonmarket approaches to externalities; study life-cycle accounting, environmental justice and uncertain or irreversible damages.
 
+### Historical notes to investigate — not adopted
+
+The [economic-political draft](../../txt/ecopolitique.txt) proposes **localized resource prices** including extraction, transformation, transportation and costs of repairing environmental damage (for example reforestation following clearing). These are useful modeling cases, not proof that all damage can be fully compensated. Analyze **irreversibility, threshold effects, collective consent and the limits of monetary substitution**. Supply-chain transparency may also reveal harms that are invisible in final prices.
+
 ## References
 
 **Initial source:** Author-supplied draft article, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discussed on 16 November 2026. **External references:** to be identified, checked and added. No empirical claim has yet been validated through these draft documents.
@@ -53,3 +57,4 @@ Compare market-based and nonmarket approaches to externalities; study life-cycle
 ## Revision history
 
 - **2026-11-16 — v0.1, `in_progress`:** Initial extraction from the author's article. Draft only; no approval, no manifesto integration.
+- **2026-11-16 — v0.2, `in_progress`:** Added historical research leads without adopting or approving them; proposed manifesto entry unchanged.

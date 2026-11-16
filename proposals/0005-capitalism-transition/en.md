@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0005 |
 | Status | `in_progress` |
-| Working version | 0.1 |
+| Working version | 0.2 |
 | Approved version | None |
 | Scope | Political, economic or institutional option |
 | Decision record | None |
@@ -46,6 +46,10 @@ Anarchopoeia examines the possibility of moving beyond capitalism by transformin
 
 Define the competing meanings of capitalism; identify testable claims about exploitation and inequality; compare historical transformations and institutional alternatives; analyze interactions with property, money and governance.
 
+### Historical notes to investigate — not adopted
+
+The [introduction](../../txt/intro.txt), [critiques](../../txt/critiques.txt) and [moral notes](../../txt/morale.txt) question profit imperatives, social narratives of individual success and compulsory market participation. Their claims about the intentions of social classes, universal exploitation and population majorities are **unverified**. Distinguish structural incentives from moralized collective stereotypes, and investigate whether alternatives create new hierarchies.
+
 ## References
 
 **Initial source:** Author-supplied draft article, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discussed on 16 November 2026. **External references:** to be identified, checked and added; hypotheses above are not presented as established findings.
@@ -53,3 +57,4 @@ Define the competing meanings of capitalism; identify testable claims about expl
 ## Revision history
 
 - **2026-11-16 — v0.1, `in_progress`:** Initial extraction from the author's article. Draft only; no approval, no manifesto integration.
+- **2026-11-16 — v0.2, `in_progress`:** Added research leads from historical notes without adopting their claims; proposed manifesto entry unchanged.

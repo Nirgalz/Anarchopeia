@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0006 |
 | Statut | `in_progress` |
-| Version de travail | 0.1 |
+| Version de travail | 0.2 |
 | Version approuvée | Aucune |
 | Portée | Option politique, économique ou institutionnelle |
 | Décision | Aucune |
@@ -46,6 +46,10 @@ Les pouvoirs politiques, économiques et organisationnels doivent être distribu
 
 Examiner la distinction entre délégation et domination ; comparer les gouvernances polycentriques et les mécanismes de responsabilité ; étudier les concentrations informelles et les exceptions d'urgence ; relier à AP-0003.
 
+### Notes historiques à examiner — non adoptées
+
+Les [notes éco-politiques](../../txt/ecopolitique.txt) esquissent **une personne, une voix**, l'initiative populaire et la délégation révocable texte par texte à des experts ou représentants. Les votes mensuels et le seuil de soutien de 2 % sont **des exemples, non des règles adoptées** ; étudier accès, participation, protection des minorités, confidentialité et manipulation. La [critique de l'identification politique](../../txt/critiques.txt) invite à examiner les arguments plutôt que les personnalités. Voir la nouvelle proposition de vote délégatif.
+
 ## Références
 
 **Source initiale :** projet d'article fourni par son auteur, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discuté le 16 novembre 2026. **Références externes :** à rechercher, vérifier et ajouter ; les hypothèses ci-dessus ne sont pas considérées comme démontrées.
@@ -53,3 +57,4 @@ Examiner la distinction entre délégation et domination ; comparer les gouverna
 ## Historique des révisions
 
 - **2026-11-16 — v0.1, `in_progress` :** Première extraction du texte de l'auteur. Brouillon non approuvé, non intégré au manifeste.
+- **2026-11-16 — v0.2, `in_progress` :** Ajout de pistes de recherche issues des notes historiques sans adopter leurs affirmations ; texte proposé pour le manifeste inchangé.
