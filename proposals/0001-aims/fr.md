@@ -8,7 +8,7 @@
 | Catégorie principale | [Anarchopeia](../categories/anarchopeia/fr.md) (`anarchopeia`) |
 | Catégories secondaires | Aucune |
 | Statut | `in_progress` |
-| Version de travail | 0.3 |
+| Version de travail | 0.4 |
 | Version approuvée | Aucune |
 | Portée | Finalités fondamentales et démarche |
 | Origine | Échanges avec l'initiateur, 16 novembre 2026 ; ancien [document de discussion](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/fr/foundations/aims-emancipation-and-non-domination.md) |
@@ -26,22 +26,24 @@ Clarifier ce que le projet cherche à favoriser, la place de l'idéal anarchique
 
 ## Proposition
 
-L'initiateur a défini **deux finalités fondamentales** :
+L'initiateur a défini **deux finalités fondamentales, distinctes et de même importance** :
 
 1. **L'émancipation des individus et des collectifs.**
 2. **La disparition des rapports de domination.**
 
 Ces finalités sont liées mais distinctes. Supprimer une domination ne fournit pas automatiquement toutes les conditions de l'émancipation. Accroître l'autonomie collective n'émancipe pas nécessairement tous les membres d'un groupe.
 
-**L'anarchie est considérée comme un idéal théorique**, et non comme un plan institutionnel définitif. L'impossibilité avancée concerne sa **stabilisation définitive** : des conditions réalisant éventuellement l'idéal à un instant donné ne peuvent être garanties pour toujours. Cela ne signifie *pas* qu'une réalisation momentanée serait impossible.
+**Aucune finalité ne prévaut par principe sur l'autre.** Lorsqu'elles entrent en tension, les arbitrages doivent considérer leur contexte, les personnes concernées, les effets attendus et les alternatives. Leurs raisons doivent être explicites ; les arbitrages restent discutables, contestables et révisables. Un progrès selon une finalité ne doit pas masquer une régression selon l'autre, mais il n'est pas présupposé que les deux progressent nécessairement ensemble.
 
-Les sociétés, les connaissances, les technologies et les environnements évoluant, les conditions de l'émancipation et de la non-domination changent également. Anarchopoeia est donc conçu comme un **processus permanent** de recherche et de transformation sociale, avec des avancées, des reculs et des effets imprévus, plutôt que comme une transition temporaire vers un système définitivement stabilisé.
+**L'anarchie constitue un horizon théorique**, et non un modèle institutionnel définitif. Sa réalisation à un moment donné n'est pas exclue, mais sa stabilisation permanente ne peut être garantie. L'absence de garantie ne démontre pas une impossibilité absolue : l'évolution des individus, des sociétés et de leurs environnements peut modifier les conditions de l'émancipation et faire apparaître de nouveaux rapports de domination.
 
-Le projet vise à examiner **les systèmes économiques, politiques et organisationnels** ainsi que les relations qu'ils structurent. Il doit en étudier les mécanismes, concevoir des alternatives et, lorsque c'est approprié, les expérimenter et les évaluer. Sa gouvernance, ses décisions et son autorité éditoriale doivent rester critiquables et modifiables.
+Anarchopoeia constitue un **processus permanent de recherche, de discussion et de transformation sociale**, susceptible d'avancées, de reculs, de contradictions et de conséquences imprévues. La révision n'est pas une fin en soi : il peut être pertinent de **maintenir, modifier, abandonner ou rétablir** une institution selon l'évaluation de ses effets. La nouveauté ne constitue pas, à elle seule, un progrès.
 
-Le **manifeste** est une synthèse lisible des propositions approuvées. Il ne constitue pas un dogme initial. Toute modification substantielle de ses finalités, définitions, principes et propositions institutionnelles suit le même workflow.
+Le projet examine les **systèmes politiques, économiques, sociaux, informationnels et organisationnels**, ainsi que les relations qu'ils structurent. Il recherche et confronte des alternatives ; lorsque cela est pertinent et assorti de garanties, il peut les expérimenter et les évaluer. Sa propre gouvernance, ses décisions et son autorité éditoriale doivent rester ouvertes à la critique, à la contestation et à la modification.
 
-Propositions liées : [Émancipation](../0002-emancipation/fr.md) et [Domination](../0003-domination/fr.md).
+Le **manifeste** est une synthèse lisible des propositions approuvées, et non un dogme initial. Toute modification substantielle de ses finalités, définitions, principes et propositions institutionnelles suit le même workflow.
+
+Propositions liées : [Émancipation](../0002-emancipation/fr.md), [Domination](../0003-domination/fr.md) et [Transition proto-anarchique expérimentale](../0019-proto-anarchic-experimentation/fr.md).
 
 ## Alternatives
 
@@ -53,31 +55,35 @@ Ces options sont à comparer, et non considérées comme déjà réfutées.
 
 ## Critiques et limites
 
-- Un processus sans terme défini peut manquer de priorités stables ou de critères d'évaluation.
-- L'impossibilité de stabilisation définitive est une hypothèse philosophique de travail, non une loi universelle empiriquement démontrée.
-- Les deux finalités peuvent entrer en tension, notamment lorsque l'autonomie d'un groupe limite l'émancipation de certains membres.
-- Une ouverture affichée peut dissimuler un pouvoir réel : les responsables du dépôt contrôlent actuellement les fusions et paramètres GitHub.
-- Les expérimentations peuvent nuire aux personnes concernées sans garanties relatives aux droits, au consentement, au contrôle et aux possibilités de sortie.
+- **Indétermination des arbitrages :** deux finalités générales, sans règle universelle de priorité, pourraient justifier des choix contradictoires. Les raisons, les conséquences et les alternatives doivent être explicitées et soumises à la contestation.
+- **Manque de repères stables :** un processus sans terme défini peut manquer de priorités suffisamment claires ou de critères d'évaluation des avancées et des reculs.
+- **Confusion entre incertitude et impossibilité :** l'absence de garantie de stabilisation définitive de l'anarchie ne démontre pas une impossibilité ; il s'agit d'une prudence philosophique, non d'une loi empirique.
+- **Valorisation excessive du changement :** la transformation permanente pourrait privilégier la nouveauté indépendamment des résultats. Maintenir ou restaurer une institution peut être préférable à sa transformation.
+- **Contradiction interne possible :** l'objectif de réduire les dominations coexiste actuellement avec une autorité éditoriale centralisée. Les responsables du dépôt contrôlent notamment les fusions et paramètres GitHub. Cette concentration doit rester visible, contestable et susceptible d'évolution.
+- **Risques de l'expérimentation :** des dispositifs présentés comme émancipateurs peuvent nuire aux personnes concernées, y compris aux non-participants. Les droits, le consentement lorsqu'il est pertinent, les mécanismes de contrôle, de recours et les possibilités de sortie doivent être examinés.
 
 ## Évaluation
 
-Questions possibles pour évaluer le projet et les propositions futures :
+Pour évaluer une proposition ou une transformation, examiner **séparément** ses effets sur les deux finalités :
 
-- Une transformation accroît-elle l'émancipation tout en réduisant des pouvoirs arbitraires et incontestables ?
-- Fait-elle apparaître de nouvelles dépendances ou concentrations de pouvoir, même non exercées ?
-- Les personnes concernées peuvent-elles réellement contester, modifier ou annuler les décisions ?
-- Les résultats, incertitudes, désaccords et dommages imprévus sont-ils visibles ?
-- Le fonctionnement d'Anarchopoeia peut-il être révisé lorsqu'il contredit ses propres finalités ?
+- **Émancipation :** quels sont ses effets sur l'émancipation individuelle et collective et sur les possibilités effectives de définir et poursuivre ses propres finalités ?
+- **Domination :** quels rapports de domination existants ou potentiels sont réduits, maintenus ou créés, y compris sans exercice effectif du pouvoir arbitraire ?
+- **Arbitrages :** quelles tensions ou contradictions apparaissent entre les finalités ? Qui bénéficie de la transformation et qui en supporte les conséquences ? Quelles alternatives sont disponibles ?
+- **Effets imprévus :** quelles conséquences directes et indirectes, notamment pour les personnes non participantes, nécessitent un suivi et d'éventuelles corrections ?
+- **Contestation et correction :** les personnes concernées peuvent-elles réellement contester les décisions, demander des comptes et obtenir leur maintien, leur modification, leur abandon ou leur révision ?
+- **Cohérence interne :** la gouvernance et l'autorité éditoriale d'Anarchopoeia peuvent-elles être contestées et transformées lorsqu'elles contredisent les finalités du projet ?
 
-Aucun score universel ni progrès nécessairement linéaire n'est présupposé.
+Aucun progrès simultané des deux finalités n'est présupposé, pas plus qu'un score universel ou une évolution nécessairement linéaire.
 
 ## Texte proposé pour le manifeste
 
-Anarchopoeia poursuit deux finalités fondamentales : **l'émancipation des individus et des collectifs** et **la disparition des rapports de domination**. Ces finalités sont liées mais distinctes ; aucune ne prime automatiquement sur l'autre.
+Anarchopoeia poursuit deux finalités fondamentales, distinctes et de même importance : **l'émancipation des individus et des collectifs** et **la disparition des rapports de domination**. Aucune ne prévaut par principe sur l'autre. Lorsqu'elles entrent en tension, les arbitrages doivent être explicités, discutés et rester contestables et révisables.
 
-L'anarchie constitue un horizon théorique, non un modèle institutionnel définitif. Sa réalisation à un instant donné n'est pas exclue, mais sa stabilisation permanente ne peut être garantie à mesure que les personnes, les sociétés, les connaissances, les technologies et les environnements évoluent.
+**L'anarchie constitue un horizon théorique**, et non un modèle institutionnel définitif. Sa réalisation à un moment donné n'est pas exclue, mais sa stabilisation permanente ne peut être garantie. L'évolution des individus, des sociétés et de leurs environnements peut modifier les conditions de l'émancipation et faire apparaître de nouveaux rapports de domination.
 
-Anarchopoeia étudie les systèmes économiques, politiques et organisationnels, élabore et examine des alternatives, puis évalue leurs effets sur l'émancipation et la domination. Son manifeste, ses méthodes et sa gouvernance demeurent ouverts à la critique et à la révision.
+Pour poursuivre ces finalités, Anarchopoeia examine les systèmes politiques, économiques, sociaux et informationnels ainsi que les relations qu'ils structurent. Le projet recherche, confronte et expérimente, lorsque cela est pertinent, des alternatives dont il évalue les effets et les limites. Cette démarche admet les avancées, les reculs, les contradictions et les conséquences imprévues.
+
+**Aucune institution, méthode ou proposition n'est considérée comme définitive.** Le manifeste et la gouvernance d'Anarchopoeia restent ouverts à la critique, à la contestation et à la révision.
 
 ## Recherche
 
@@ -88,6 +94,9 @@ Pistes à approfondir *dans cette proposition*, et non dans des fichiers de rech
 - Étudier des situations historiques où des réformes émancipatrices ont reproduit de nouvelles hiérarchies.
 - Élaborer des critères d'avancée ou de recul sans imposer une conception universelle de la vie bonne.
 - Distinguer les finalités affichées d'une organisation et les pouvoirs effectivement exercés en son sein.
+- Examiner des procédures d'arbitrage entre les finalités : expliciter les raisons, prendre en compte les personnes concernées, comparer les alternatives et prévoir des recours.
+- Étudier les critères permettant de maintenir, modifier, abandonner ou rétablir des institutions, sans assimiler le changement au progrès.
+- Examiner les moyens de rendre effectivement contestable une autorité éditoriale initialement concentrée.
 
 Distinguer engagements normatifs et affirmations empiriques ; sourcer les généralisations historiques avant de les adopter.
 
@@ -104,3 +113,4 @@ L'[introduction historique](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af
 - **2026-11-16 — v0.1, `in_progress` :** extraction des finalités du projet, de l'idéal anarchique et de la démarche itérative à partir du document commun. Aucune approbation consignée.
 - **2026-11-16 — v0.2, `in_progress` :** remplacement de la synthèse de recherche par un **texte proposé pour le manifeste**, directement publiable après approbation. Aucune approbation consignée.
 - **2026-11-16 — v0.3, `in_progress` :** Ajout de pistes de recherche issues des notes historiques sans adopter leurs affirmations ; texte proposé pour le manifeste inchangé.
+- **2026-11-16 — v0.4, `in_progress` :** arbitrages, horizon anarchique et pertinence de la révision clarifiés ; critiques et évaluation renforcées ; nouveau texte candidat validé comme brouillon par l'initiateur. Aucune approbation formelle ni intégration au manifeste.
