@@ -7,14 +7,14 @@
 | ID | AP-0003 |
 | Primary category | [Anarchopeia](../categories/anarchopeia/en.md) (`anarchopeia`) |
 | Secondary categories | [Governance](../categories/governance/en.md) (`governance`) |
-| Status | `in_progress` |
+| Status | `awaiting_approval` |
 | Working version | 0.4 |
 | Approved version | None |
 | Scope | Foundational concept — domination |
 | Origin | Initiator discussion, 16 November 2026; earlier combined [discussion paper](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/en/foundations/aims-emancipation-and-non-domination.md) |
 | Translation | [Français](fr.md) |
 
-**Editorial status:** working version 0.4 is a revised draft incorporating analytical research informed by the Trialectic Method. No editorial approval has been recorded; the candidate text is not part of the manifesto.
+**Editorial status:** working version 0.4 has been submitted for formal editorial approval after a final conceptual review. It is **not approved**; its candidate entry has **not** been incorporated into the manifesto.
 
 ## Problem
 
@@ -142,3 +142,4 @@ The [older founding principles](https://github.com/Nirgalz/Anarchopeia/blob/0d89
 - **2026-11-16 — v0.2, `in_progress`:** Replaced the research summary with a publication-ready **Proposed Manifesto Entry**. No approval recorded.
 - **2026-11-16 — v0.3, `in_progress`:** Added research leads from historical notes without adopting their claims; proposed manifesto entry unchanged.
 - **2026-11-16 — v0.4, `in_progress`:** refined arbitrariness, classification versus intensity, potential and systemic domination, mechanisms and effective remedies; added scenarios and recursive reassessment informed by the Trialectic Method (`dev`, pinned reference), a hypothetical example and evidence safeguards. Candidate text revised; no approval.
+- **2026-11-16 — v0.4, `awaiting_approval`:** Submitted unchanged v0.4 for formal editorial approval after confirming that the criteria for arbitrary power and the distinction between classification and intensity are explicit; the threshold for sufficient safeguards remains an acknowledged open question. No approval or manifesto integration.
