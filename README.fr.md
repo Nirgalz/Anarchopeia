@@ -27,7 +27,7 @@ La **proposition** est l'unité de recherche, de débat et de décision. Son doc
 
 Chaque proposition figure dans une seule catégorie principale ; les pages thématiques listent également les propositions associées par catégorie secondaire. Le [catalogue complet](proposals/README.fr.md) présente aussi les statuts.
 
-Les 25 propositions sont au statut `in_progress`. Leur création ne vaut pas approbation.
+Parmi les 25 propositions, 24 sont au statut `in_progress` et AP-0001 est au statut `awaiting_approval`. La soumission à approbation ne vaut pas approbation.
 
 Utiliser les [Issues](https://github.com/Nirgalz/Anarchopeia/issues) pour les questions, critiques et alternatives, et les pull requests pour modifier les textes.
 

@@ -7,14 +7,14 @@
 | ID | AP-0001 |
 | Primary category | [Anarchopeia](../categories/anarchopeia/en.md) (`anarchopeia`) |
 | Secondary categories | None |
-| Status | `in_progress` |
+| Status | `awaiting_approval` |
 | Working version | 0.4 |
 | Approved version | None |
 | Scope | Foundational aims and method |
 | Origin | Initiator discussion, 16 November 2026; earlier combined [discussion paper](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/en/foundations/aims-emancipation-and-non-domination.md) |
 | Translation | [Français](fr.md) |
 
-**Editorial status:** the initiator clarified these orientations in conversation, but this proposal has not yet passed the project's approval workflow. No text from it is included in the manifesto merely by being published here.
+**Editorial status:** working version 0.4 has been submitted for formal approval at the initiator's request. It is not approved, and its candidate text has not been included in the manifesto.
 
 ## Problem
 
@@ -114,3 +114,4 @@ The [historical introduction](https://github.com/Nirgalz/Anarchopeia/blob/0d8963
 - **2026-11-16 — v0.2, `in_progress`:** Replaced the research summary with a publication-ready **Proposed Manifesto Entry**. No approval recorded.
 - **2026-11-16 — v0.3, `in_progress`:** Added research leads from historical notes without adopting their claims; proposed manifesto entry unchanged.
 - **2026-11-16 — v0.4, `in_progress`:** clarified trade-offs, anarchic horizon and when revision is warranted; strengthened criticism and evaluation; revised candidate manifesto entry accepted by the initiator as a draft. No formal approval or manifesto integration.
+- **2026-11-16 — v0.4, `awaiting_approval`:** Submitted the unchanged v0.4 candidate for formal editorial approval at the initiator's request. No approval decision or manifesto publication.

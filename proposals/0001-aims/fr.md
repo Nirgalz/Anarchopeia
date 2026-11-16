@@ -7,14 +7,14 @@
 | ID | AP-0001 |
 | Catégorie principale | [Anarchopeia](../categories/anarchopeia/fr.md) (`anarchopeia`) |
 | Catégories secondaires | Aucune |
-| Statut | `in_progress` |
+| Statut | `awaiting_approval` |
 | Version de travail | 0.4 |
 | Version approuvée | Aucune |
 | Portée | Finalités fondamentales et démarche |
 | Origine | Échanges avec l'initiateur, 16 novembre 2026 ; ancien [document de discussion](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/fr/foundations/aims-emancipation-and-non-domination.md) |
 | Traduction | [English](en.md) |
 
-**Statut éditorial :** ces orientations ont été précisées par l'initiateur au cours de discussions, mais la proposition n'a pas encore suivi le processus d'approbation du projet. Sa publication ici ne suffit pas à l'intégrer au manifeste.
+**Statut éditorial :** la version de travail 0.4 a été soumise à approbation formelle à la demande de l'initiateur. Elle n'est pas approuvée et son texte candidat n'a pas été intégré au manifeste.
 
 ## Problème
 
@@ -114,3 +114,4 @@ L'[introduction historique](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af
 - **2026-11-16 — v0.2, `in_progress` :** remplacement de la synthèse de recherche par un **texte proposé pour le manifeste**, directement publiable après approbation. Aucune approbation consignée.
 - **2026-11-16 — v0.3, `in_progress` :** Ajout de pistes de recherche issues des notes historiques sans adopter leurs affirmations ; texte proposé pour le manifeste inchangé.
 - **2026-11-16 — v0.4, `in_progress` :** arbitrages, horizon anarchique et pertinence de la révision clarifiés ; critiques et évaluation renforcées ; nouveau texte candidat validé comme brouillon par l'initiateur. Aucune approbation formelle ni intégration au manifeste.
+- **2026-11-16 — v0.4, `awaiting_approval` :** Soumission de la version candidate 0.4 inchangée à l'approbation éditoriale formelle, à la demande de l'initiateur. Aucune décision d'approbation ni publication dans le manifeste.
