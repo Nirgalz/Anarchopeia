@@ -14,10 +14,6 @@ Tous les fondements — y compris les finalités, les principes et les définiti
 
 ## Propositions en cours
 
-Les éléments suivants **ne sont pas adoptés** ; ils servent de navigation, et non de contenu du manifeste :
+[Consulter le catalogue complet des propositions](../proposals/README.fr.md) pour les brouillons et leurs statuts. **Aucun de ces textes n'est approuvé ou intégré au manifeste.**
 
-- [AP-0001 — Finalités](../proposals/0001-aims/fr.md) — `in_progress`
-- [AP-0002 — Émancipation](../proposals/0002-emancipation/fr.md) — `in_progress`
-- [AP-0003 — Domination](../proposals/0003-domination/fr.md) — `in_progress`
-
-Voir le [workflow éditorial](../WORKFLOW.fr.md). Lorsqu'une révision est en cours, la dernière synthèse approuvée demeure dans le manifeste jusqu'à l'approbation d'une version révisée.
+Voir le [workflow éditorial](../WORKFLOW.fr.md). Lorsqu'une révision est en cours, la dernière entrée approuvée reste en vigueur jusqu'à l'approbation d'une révision.

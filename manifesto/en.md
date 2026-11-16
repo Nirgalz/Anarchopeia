@@ -12,10 +12,6 @@ All foundations—including aims, principles and definitions—are subject to th
 
 ## Working proposals
 
-The following are **not adopted** and are listed for navigation, not as manifesto content:
+[Consult the complete proposal catalogue](../proposals/README.md) for all drafts and their statuses. **None of the drafts is approved or included in the manifesto.**
 
-- [AP-0001 — Aims](../proposals/0001-aims/en.md) — `in_progress`
-- [AP-0002 — Emancipation](../proposals/0002-emancipation/en.md) — `in_progress`
-- [AP-0003 — Domination](../proposals/0003-domination/en.md) — `in_progress`
-
-See the [editorial workflow](../WORKFLOW.md). When a revision is in progress, the last approved manifesto summary stays in effect until a revision is approved.
+See the [editorial workflow](../WORKFLOW.md). When a revision is in progress, the last approved manifesto entry stays in effect until a revision is approved.
