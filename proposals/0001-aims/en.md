@@ -7,14 +7,16 @@
 | ID | AP-0001 |
 | Primary category | [Anarchopeia](../categories/anarchopeia/en.md) (`anarchopeia`) |
 | Secondary categories | None |
-| Status | `awaiting_approval` |
+| Status | `approved` |
 | Working version | 0.4 |
-| Approved version | None |
+| Approved version | 0.4 |
+| Decision | Explicit approval by the initiator, 16 November 2026 ([PR #13](https://github.com/Nirgalz/Anarchopeia/pull/13)) |
+| Approved-version snapshot | [v0.4 submitted for approval](https://github.com/Nirgalz/Anarchopeia/blob/f89fc77244546047f83e01d71b05ea5bdbfc7b41/proposals/0001-aims/en.md) |
 | Scope | Foundational aims and method |
 | Origin | Initiator discussion, 16 November 2026; earlier combined [discussion paper](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/en/foundations/aims-emancipation-and-non-domination.md) |
 | Translation | [Français](fr.md) |
 
-**Editorial status:** working version 0.4 has been submitted for formal approval at the initiator's request. It is not approved, and its candidate text has not been included in the manifesto.
+**Editorial status:** version 0.4 was **explicitly approved by the initiator on 16 November 2026** and its candidate entry was added to the [manifesto](../../manifesto/en.md). This editorial decision is not a collective ratification; future revision remains possible.
 
 ## Problem
 
@@ -115,3 +117,14 @@ The [historical introduction](https://github.com/Nirgalz/Anarchopeia/blob/0d8963
 - **2026-11-16 — v0.3, `in_progress`:** Added research leads from historical notes without adopting their claims; proposed manifesto entry unchanged.
 - **2026-11-16 — v0.4, `in_progress`:** clarified trade-offs, anarchic horizon and when revision is warranted; strengthened criticism and evaluation; revised candidate manifesto entry accepted by the initiator as a draft. No formal approval or manifesto integration.
 - **2026-11-16 — v0.4, `awaiting_approval`:** Submitted the unchanged v0.4 candidate for formal editorial approval at the initiator's request. No approval decision or manifesto publication.
+- **2026-11-16 — v0.4, `approved`:** Explicitly approved by the initiator; candidate text published in the manifesto, with limitations recorded.
+
+### Approval decision — 16 November 2026
+
+- **Decision:** the initiator of Anarchopoeia explicitly approves **AP-0001 v0.4**, previously submitted as `awaiting_approval`. It becomes the first approved proposal, and its candidate text is published in the manifesto.
+- **Authority:** the project initiator, the sole current editorial approver under provisional governance. **No collective ratification is claimed.**
+- **Rationale:** two distinct and equally important aims; explicit and revisable trade-offs; an anarchic horizon without a guarantee of permanent stabilization; an approach that can preserve, change or discontinue institutions based on their effects.
+- **Alternatives considered:** give one aim precedence; prescribe a definitive anarchic institutional blueprint; treat transition as a finite endpoint; regard institutional change as an end in itself. These remain discussable options, not adopted positions.
+- **Unresolved objections and limitations:** no universal rule for trade-offs; risks from concentrated editorial power; challenges of evaluating complex effects; potential harms of experimentation. Approval does not imply these concerns are solved.
+- **Revision:** substantive changes to the approved version must follow the workflow without silently replacing the operative manifesto entry.
+- **Traceability:** [AP-0001 v0.4 before approval](https://github.com/Nirgalz/Anarchopeia/blob/f89fc77244546047f83e01d71b05ea5bdbfc7b41/proposals/0001-aims/en.md); approval recorded by [PR #13](https://github.com/Nirgalz/Anarchopeia/pull/13).
