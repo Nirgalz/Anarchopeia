@@ -8,52 +8,53 @@
 | Catégorie principale | [Anarchopeia](../categories/anarchopeia/fr.md) (`anarchopeia`) |
 | Catégories secondaires | [Gouvernance](../categories/governance/fr.md) (`governance`), [Information](../categories/information/fr.md) (`information`) |
 | Statut | `in_progress` |
-| Version de travail | 0.3 |
+| Version de travail | 0.4 |
 | Version approuvée | Aucune |
 | Portée | Concept fondamental — émancipation |
 | Origine | Échanges avec l'initiateur, 16 novembre 2026 ; ancien [document de discussion](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/fr/foundations/aims-emancipation-and-non-domination.md) |
 | Traduction | [English](en.md) |
 
-**Statut éditorial :** ces orientations ont été précisées par l'initiateur au cours de discussions, mais la proposition n'a pas encore suivi le processus d'approbation du projet. Sa publication ici ne suffit pas à l'intégrer au manifeste.
+**Statut éditorial :** la version de travail **0.4** intègre les choix conceptuels validés par l'initiateur ainsi qu'une recherche comparative sourcée. **Elle reste `in_progress` : aucune approbation formelle ni intégration au manifeste.**
 
 ## Problème
 
-Si l'émancipation est réduite à un état atteint, à un modèle imposé d'individu émancipé ou à la simple absence d'autorité extérieure, le projet risque de négliger les contraintes intériorisées, les conditions matérielles et les conflits entre individus et collectifs.
+Limiter l'émancipation à l'affranchissement des contraintes et dominations néglige le **développement positif de possibilités effectives d'autodétermination**, dont l'acquisition d'outils pour analyser ses croyances et représentations. Mais assimiler toute ressource nouvelle ou toute instruction à une émancipation risquerait de prescrire un idéal intellectuel ou un mode de vie. Il faut distinguer l'émancipation individuelle, l'émancipation collective, les conditions de leurs transformations et leurs effets, sans réduire cette finalité à la disparition des rapports de domination définie dans AP-0003.
 
 ## Objectifs
 
-Définir l'émancipation comme un **processus**, distinguer ses dimensions individuelle et collective, identifier les conditions qui la rendent possible et prévenir toute contrainte exercée en son nom.
+Définir un processus **individuel ou collectif, évolutif et récursif** d'autodétermination ; intégrer l'autonomie réflexive sans imposer de croyances ni de seuil intellectuel ; reconnaître la possibilité pour un collectif de **conserver** ses normes après examen ; évaluer séparément ses transformations, celles de ses membres et les rapports de domination.
 
 ## Proposition
 
 ### Définition de travail
 
-> **Émancipation :** processus **individuel et collectif**, évolutif et non nécessairement linéaire, par lequel les individus et les collectifs s'affranchissent des contraintes, des rapports de domination, des dépendances et des effets limitants des croyances et normes intériorisées qui restreignent leur liberté de penser, de se construire, de définir leurs propres finalités, de conduire leur existence ou de transformer leur organisation collective.
+> **L'émancipation** est un processus individuel ou collectif, évolutif et non nécessairement linéaire, par lequel des personnes ou des collectifs développent ou retrouvent leurs **possibilités effectives de définir, poursuivre et réviser leurs propres finalités**, d'orienter leurs choix et d'agir sur leurs conditions d'existence, notamment en examinant et, lorsque cela est pertinent, en transformant les contraintes et relations qui limitent ces possibilités.
 
-L'émancipation **n'est pas un état final**. Elle est contextuelle et multidimensionnelle ; avancées, reculs et tensions sont possibles au fil de l'évolution des personnes et de leurs environnements.
+L'émancipation possède une dimension **positive** : elle ne se réduit ni à l'affranchissement de toute contrainte ni à la disparition des dominations. Une amélioration matérielle peut constituer une émancipation sans en épuiser toutes les dimensions. Une domination peut disparaître sans que toutes les conditions de l'émancipation soient réunies ; de nouvelles possibilités d'action peuvent aussi émerger malgré une domination persistante. Les deux finalités d'[AP-0001](../0001-aims/fr.md) demeurent distinctes et également importantes.
 
-**L'émancipation individuelle** concerne les processus par lesquels les personnes deviennent plus libres de penser, d'interroger leurs convictions, de construire leur existence et de poursuivre des finalités qu'elles définissent elles-mêmes.
+### Autonomie réflexive individuelle
 
-**L'émancipation collective** concerne les groupes qui transforment les conditions sociales, économiques, politiques, culturelles et institutionnelles limitant leurs membres, et acquièrent la possibilité de définir et de réviser leur organisation.
+**L'autonomie réflexive constitue une dimension de l'émancipation, et non seulement une condition externe.** Elle désigne les possibilités d'acquérir et de mobiliser des outils pour examiner ses croyances, représentations, interprétations, présupposés, influences sociales et finalités ; confronter des perspectives ; distinguer des faits, hypothèses et arguments ; puis maintenir ou réviser ses convictions. Elle ne se réduit pas à la quantité de savoirs possédés : elle concerne aussi les cadres d'interprétation.
 
-Ces processus interagissent mais ne sont pas identiques. Un groupe peut s'affranchir d'une domination extérieure tout en maintenant des dominations internes ; l'émancipation du collectif n'implique pas automatiquement celle de chacun de ses membres.
+**Les droits, la dignité et la légitimité des choix d'une personne ne dépendent d'aucun niveau de compétence ou d'instruction.** Favoriser la réflexion ne confère pas aux experts ou éducateurs le pouvoir de prescrire les « bonnes » convictions. Une personne qui conserve une croyance après examen ne démontre pas, de ce seul fait, une absence d'émancipation.
 
-### Des conditions, pas une définition
+### Autonomie réflexive collective
 
-**L'autonomie** et **les possibilités effectives d'agir** sont des conditions de réalisation de l'émancipation, **et non sa définition**. Les conditions matérielles, intellectuelles, sociales et environnementales comptent selon les contextes.
+**L'émancipation collective** est un processus par lequel un collectif développe ses possibilités effectives de définir, poursuivre et réviser ses finalités, d'organiser son fonctionnement et de transformer ses conditions d'existence. Elle comprend une **réflexivité collective** : ses membres développent des moyens d'examiner leurs croyances, représentations et interprétations partagées, leurs normes, coutumes et habitudes, ainsi que les **pressions sociales qu'ils exercent ou subissent**.
 
-Le projet cherche à favoriser **les conditions de la réflexion critique** : accès à des connaissances diversifiées, confrontation des arguments et liberté d'examiner et de réviser ses convictions. Il ne décide **pas** quelles croyances une personne devrait abandonner ni quelles conclusions seraient prescrites.
+Un collectif peut décider de **maintenir, modifier ou abandonner** une pratique. **La conservation d'une norme à la suite d'un examen critique peut participer à l'émancipation** autant que sa transformation. Cela ne garantit ni la liberté réelle de la discussion ni l'absence de domination : une majorité peut conserver une coutume en exerçant une pression sur des minorités. Examiner les conditions de participation, de désaccord, de contestation et de révision ; l'unanimité n'est pas imposée.
 
-Le développement ou l'expression de potentialités individuelles peut résulter de l'émancipation, sans devenir une obligation de perfectionnement imposée par autrui.
+Les finalités collectives procèdent des relations, interactions et règles de décision de leurs membres, sans supposer une volonté indépendante du collectif. **L'émancipation du groupe n'implique pas automatiquement celle de chaque membre** : les effets individuels et les rapports de domination internes et externes sont évalués séparément.
 
-### Deux précautions à conserver
+### Conditions, processus et effets récursifs
 
-1. **Toute croyance, norme, dépendance ou influence sociale n'est pas intrinsèquement aliénante.** Certaines fournissent des repères, renforcent l'autonomie et permettent la coopération. Leurs effets éventuellement limitants doivent être étudiés en contexte.
-2. **L'émancipation ne peut justifier l'imposition d'une croyance, d'une valeur ou d'un mode de vie.** Anarchopoeia ne doit pas reproduire la domination au nom de la libération.
+Distinguer **analytiquement** les conditions (ressources, temps, sécurité, connaissances, échanges contradictoires), le processus (apprentissage, examen, délibération, choix, transformations) et les effets (possibilités nouvelles, représentations révisées, institutions modifiées). Leurs rôles changent avec le temps : **un effet peut devenir la condition d'une nouvelle émancipation**, mais également créer des obstacles, pressions ou régressions. L'autonomie et les possibilités d'agir peuvent ainsi être conditions, dimensions ou effets selon le contexte. Aucun score, état final ou progression continue n'est présupposé.
 
-Ces précautions s'appliquent aussi aux échanges entre les participants au projet.
+### Précautions
 
-Propositions liées : [Finalités](../0001-aims/fr.md) et [Domination](../0003-domination/fr.md).
+**Toute croyance, dépendance, norme, coutume ou influence sociale n'est pas intrinsèquement aliénante.** Certaines soutiennent les personnes et les collectifs. Leur rôle s'analyse en contexte. L'émancipation ne prescrit aucune identité ni aucun mode de vie, et n'exige ni indépendance absolue ni perfectionnement permanent. Les outils de réflexion doivent être rendus accessibles, non transformés en critères de reconnaissance des droits. Les projets dits émancipateurs doivent eux-mêmes rester contestables au regard d'[AP-0003](../0003-domination/fr.md).
+
+Propositions liées : [Finalités](../0001-aims/fr.md) (approuvée v0.4), [Domination](../0003-domination/fr.md) (approuvée v0.5), [Délibération publique](../0025-deliberation-information/fr.md) (en cours).
 
 ## Alternatives
 
@@ -64,6 +65,8 @@ Propositions liées : [Finalités](../0001-aims/fr.md) et [Domination](../0003-d
 
 Ces conceptions restent à comparer avec celle d'un processus.
 
+**Comparaison des alternatives théoriques :** l'affranchissement **juridique** reconnaît des droits mais ne garantit pas leurs conditions d'exercice ; l'émancipation **humaine** chez Marx interroge les rapports sociaux au-delà des droits ; **Freire** lie conscientisation, dialogue et action ; **Rancière** présuppose l'égalité intellectuelle plutôt que l'obtention d'un niveau de savoir ; **Castoriadis** relie autonomie et auto-institution réfléchie de la société ; les **capabilités** portent sur les possibilités réelles et l'**autonomie relationnelle** sur leurs conditions sociales. Ces approches ne sont pas adoptées globalement ; leurs convergences et différences figurent en Recherche.
+
 ## Critiques et limites
 
 - La qualification d'une croyance comme « limitante » peut être contestée ; des observateurs peuvent prendre à tort des convictions librement assumées pour de l'aliénation.
@@ -71,6 +74,13 @@ Ces conceptions restent à comparer avec celle d'un processus.
 - Un processus ouvert se mesure moins aisément qu'un état final défini.
 - L'émancipation individuelle et l'émancipation collective peuvent entrer en conflit.
 - Favoriser la pensée critique ne doit pas se transformer en formation idéologique.
+
+- **Concept trop large :** une connaissance, un droit ou une ressource supplémentaire ne signifie pas automatiquement une émancipation ; examiner leur lien avec les possibilités de définir, poursuivre et réviser ses finalités.
+- **Paternalisme :** prétendre enseigner la « bonne » manière de penser peut réinstaurer une hiérarchie d'autorité. L'égalité de droits n'est pas subordonnée à une compétence réflexive certifiée.
+- **Préférences intériorisées :** une norme oppressive peut être défendue après réflexion ; mais un tiers ne peut pas déclarer « aliéné » tout individu qui la défend. Les conceptions procédurales et substantielles de l'autonomie divergent sur ce point.
+- **Collectif non homogène :** une décision présentée comme réflexive peut masquer des silences contraints, des pressions majoritaires et des membres exclus.
+- **Récursivité ambivalente :** de nouvelles possibilités peuvent créer des dominations ou diminuer d'autres possibilités. La nouveauté comme la conservation ne suffisent pas à établir un progrès.
+- **Inégalités d'accès :** temps, ressources, langues, outils d'éducation, accès à l'information, sécurité et protection du dissentiment doivent être pris en compte.
 
 ## Évaluation
 
@@ -82,15 +92,41 @@ Questions possibles à examiner, sans indicateurs déjà adoptés :
 - De nouvelles dépendances ou pressions apparaissent-elles durant une transformation présentée comme émancipatrice ?
 - Peut-on analyser les changements matériels, sociaux et cognitifs sans présupposer un progrès linéaire ?
 
+**Situations limites supplémentaires :** droits formels sans moyens matériels ; ressources accrues mais interdiction de questionner une croyance ; même coutume maintenue après délibération libre ou sous forte pression sociale ; groupe devenu autonome mais excluant certains membres ; formation technique ne changeant pas les choix disponibles. Pour chaque situation, distinguer changements matériels, réflexivité, autonomie du collectif, possibilités des membres et domination ; identifier les effets susceptibles de devenir de nouvelles conditions. Il ne s'agit pas d'indicateurs empiriquement validés, et certains jugements resteront indéterminés.
+
 ## Texte proposé pour le manifeste
 
-**L'émancipation** est un **processus individuel et collectif**, évolutif et non nécessairement linéaire, par lequel les personnes et les collectifs s'affranchissent des contraintes, des rapports de domination, des dépendances et des effets limitants des croyances et normes intériorisées qui restreignent leur liberté de penser, de construire leur existence, de définir leurs propres finalités ou de transformer leur organisation collective.
+**L'émancipation** est un processus individuel ou collectif, évolutif et non nécessairement linéaire, par lequel les personnes et les collectifs développent ou retrouvent leurs possibilités effectives de définir, poursuivre et réviser leurs propres finalités, d'orienter leurs choix et d'agir sur leurs conditions d'existence. Elle ne se réduit ni à l'affranchissement des contraintes ni à la disparition des rapports de domination.
 
-L'autonomie et les possibilités effectives d'agir sont **des conditions de l'émancipation**, et non sa définition. Toute croyance, norme, dépendance ou influence sociale n'est pas nécessairement une entrave à l'émancipation. Anarchopoeia cherche à favoriser les conditions de la réflexion critique sans prescrire les croyances à abandonner, les conclusions à adopter ou les modes de vie à suivre.
+Elle comporte une **dimension réflexive** : la possibilité d'acquérir et de mobiliser des outils pour examiner ses croyances, représentations, interprétations et leurs influences sur ses choix. Pour un collectif, elle comprend aussi l'examen de ses normes, coutumes, habitudes et des pressions sociales qu'il exerce ou subit. Cette démarche peut conduire à maintenir, modifier ou abandonner des pratiques après réflexion.
 
-Émancipation individuelle et collective peuvent se renforcer, mais l'émancipation d'un collectif ne garantit pas automatiquement celle de chacun de ses membres.
+L'émancipation ne prescrit aucune croyance, aucun mode de vie ni aucun niveau intellectuel à atteindre. Les conditions matérielles, sociales et institutionnelles et les possibilités de réflexion interagissent : **les effets d'une émancipation peuvent devenir les conditions de nouvelles émancipations**. L'émancipation d'un collectif ne garantit pas celle de ses membres ; leurs possibilités et les rapports de domination doivent être examinés séparément.
 
 ## Recherche
+
+
+### Recherche comparative sur les définitions d'émancipation — 16 novembre 2026
+
+L'[Académie française](https://www.dictionnaire-academie.fr/article/A9E0843) distingue les sens juridique, social et intellectuel de l'émancipation ; **Simon Susen** décrit des passages de l'hétéronomie à l'autonomie ou de la dépendance à la liberté, sans soutenir une définition universelle ([résumé de l'éditeur](https://onlinelibrary.wiley.com/doi/10.1002/9781118474396.wbept0307)). AP-0002 conserve le sens d'affranchissement mais **étend le concept à l'autodétermination positive, réflexive et récursive**.
+
+| Courant | Convergence avec AP-0002 | Différence / objection |
+|---|---|---|
+| **Marx** — émancipation politique/humaine [3] | Les droits formels ne suffisent pas à transformer les rapports sociaux. | Perspective historique et critique socioéconomique plus déterminée qu'AP-0002. |
+| **Théorie critique** [4] | Réflexion critique et transformation des rapports sociaux et formes d'aliénation. | Certaines conceptions privilégient les transformations globales ; AP-0002 admet des changements partiels et réversibles. |
+| **Freire** — conscientisation et praxis [5] | Dialogue, analyse des représentations et boucle réflexion/action. | Orientée vers la transformation des oppressions ; AP-0002 reconnaît aussi un choix réfléchi de **conserver** une norme. |
+| **Rancière** — émancipation intellectuelle [6] | Critique des hiérarchies éducatives et de la soumission à l'expert. | L'égalité intellectuelle est un **point de départ**, pas un résultat d'une formation. Les outils réflexifs ne deviennent pas un préalable à la reconnaissance de droits. |
+| **Castoriadis** — autonomie et auto-institution [7] | Proximité importante : une société interroge ses propres règles, coutumes, institutions et finalités. | Ses exigences d'auto-institution démocratique sont plus spécifiées ; AP-0002 distingue groupe et membres. |
+| **Sen / Nussbaum** — capabilités [8] | Différencier droits, ressources, possibilités réelles et réalisations ; considérer les facteurs de conversion. | L'approche étudie surtout les possibilités, tandis qu'AP-0002 définit un **processus réflexif** ; aucune mesure par capabilités n'est adoptée. |
+| **Autonomie relationnelle** [9] | Importance de la socialisation, de la reconnaissance et des pressions sur les choix. | Désaccord entre autonomie **procédurale** et **substantielle** lorsque les normes intériorisées sont volontairement maintenues. |
+| **Théories féministes du pouvoir** [10] | Distinction entre pouvoir exercé sur autrui et possibilités d'agir ; rôle des normes intériorisées. | AP-0002 préserve l'indépendance de la définition de domination d'AP-0003. |
+| **Normes sociales** [11] | Les habitudes, attentes et sanctions sont reproduites collectivement. | Un vote ou une prise de conscience proclamée ne garantit pas l'absence de pression sur les dissentiments. |
+| **Intentionnalité collective** [12] | Les objectifs et décisions collectifs émergent de mécanismes de coordination. | Ne pas attribuer au groupe une volonté indépendante de ses membres. |
+
+**Conclusions de l'analyse :** la définition n'est pas sans précédent : elle se rapproche surtout de Castoriadis, de Freire et des conceptions de l'autonomie relationnelle. Elle se distingue par l'articulation explicite entre **autodétermination positive**, **réflexivité individuelle et collective**, **possibilité de conserver les normes après examen**, **récursivité** et **évaluation séparée de l'émancipation du groupe et de celle des membres**. Ces caractéristiques ne constituent pas à elles seules une originalité scientifique démontrée.
+
+**Orientations explicitement validées par l'initiateur :** dimension positive ; autonomie réflexive constitutive sans seuil intellectuel ni conclusions prescrites ; récursivité des conditions et des effets ; distinction collectif/membres ; examen collectif des croyances, normes, coutumes, habitudes et pressions, y compris la décision de les maintenir. **Validation conceptuelle ne signifie pas approbation éditoriale d'AP-0002.**
+
+**Limites :** revue bibliographique qualitative, non systématique ; textes intégraux non consultés pour plusieurs ouvrages ; sources secondaires à distinguer des œuvres originales. Les désaccords sont des analyses d'AP-0002, non des citations exhaustives ni une validation empirique.
 
 Pistes de recherche à développer dans cette proposition :
 
@@ -106,10 +142,24 @@ Le [texte ancien sur potentiel et action](https://github.com/Nirgalz/Anarchopeia
 
 ## Références
 
-**Pistes de lecture, et non données vérifiées :** Karl Marx sur l'émancipation humaine ; Paulo Freire sur l'éducation critique et dialogique ; Jacques Rancière sur l'émancipation intellectuelle ; Cornelius Castoriadis sur l'autonomie ; travaux sur l'autonomie relationnelle ; Amartya Sen et Martha Nussbaum sur les capabilités ; théorie critique sur les dominations intériorisées. Les ouvrages précis, les affirmations, les éditions et les données devront être vérifiés.
+Sources consultées le **16 novembre 2026**. Numéros du tableau comparatif ; indiquer les limites de vérification.
+
+1. [Académie française, « Émancipation »](https://www.dictionnaire-academie.fr/article/A9E0843), *Dictionnaire de l'Académie française*, 9e édition (2024), sens juridique, social, intellectuel.
+2. **Simon Susen** (2014), « [Emancipation](https://onlinelibrary.wiley.com/doi/10.1002/9781118474396.wbept0307) », *Encyclopedia of Political Thought*, DOI 10.1002/9781118474396.wbept0307 : **résumé uniquement**, pas le texte intégral.
+3. **Karl Marx** (1844), « [On the Jewish Question](https://www.marxists.org/archive/marx/works/1844/jewish-question/) » (*Zur Judenfrage*), texte primaire en traduction anglaise, sur émancipation politique et humaine.
+4. *Stanford Encyclopedia of Philosophy*, « [Critical Theory (Frankfurt School)](https://plato.stanford.edu/archives/sum2026/entries/critical-theory/) », section sur l'émancipation ; synthèse de positions non homogènes.
+5. *Freire Institute*, « [Paulo Freire's Key Concepts Explained](https://freire.org/concepts-used-by-paulo-freire/68-praxis-action-reflection) », conscientisation et praxis : **synthèse secondaire**, pas lecture intégrale de l'œuvre.
+6. **Jacques Rancière**, « [Émancipation et éducation](https://www.questionsdeclasses.org/emancipation-et-education/) », entretien publié en ligne, sur l'égalité comme point de départ et l'émancipation intellectuelle.
+7. *Internet Encyclopedia of Philosophy*, « [Castoriadis, Cornelius](https://iep.utm.edu/cornelius-castoriadis/) », autonomie et institutions : **synthèse secondaire**.
+8. *Stanford Encyclopedia of Philosophy*, « [The Capability Approach](https://plato.stanford.edu/entries/capability-approach/) », révision du 17 avril 2025, Sen et Nussbaum.
+9. *Stanford Encyclopedia of Philosophy*, « [Autonomy in Moral and Political Philosophy](https://plato.stanford.edu/entries/autonomy-moral/) », autonomie relationnelle.
+10. *Stanford Encyclopedia of Philosophy*, « [Feminist Perspectives on Power](https://plato.stanford.edu/entries/feminist-power/) », synthèse de différentes approches.
+11. *Stanford Encyclopedia of Philosophy*, « [Social Norms](https://plato.stanford.edu/entries/social-norms/) », internalisation et reproduction des normes.
+12. *Stanford Encyclopedia of Philosophy*, « [Collective Intentionality](https://plato.stanford.edu/entries/collective-intentionality/) », mécanismes d'action collective.
 
 ## Historique des révisions
 
 - **2026-11-16 — v0.1, `in_progress` :** extraction des distinctions conceptuelles et précautions discutées dans le document commun. Aucune approbation consignée.
 - **2026-11-16 — v0.2, `in_progress` :** remplacement de la synthèse de recherche par un **texte proposé pour le manifeste**, directement publiable après approbation. Aucune approbation consignée.
 - **2026-11-16 — v0.3, `in_progress` :** Ajout de pistes de recherche issues des notes historiques sans adopter leurs affirmations ; texte proposé pour le manifeste inchangé.
+- **2026-11-16 — v0.4, `in_progress` :** nouvelle définition d'autodétermination positive, autonomies réflexives individuelles et collectives, conservation possible des normes après examen, récursivité et distinction collectif/membres ; comparaisons académiques sourcées, objections, cas limites et texte candidat révisé. **Aucune approbation ni publication au manifeste.**
