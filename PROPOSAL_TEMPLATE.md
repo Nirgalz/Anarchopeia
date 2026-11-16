@@ -5,6 +5,8 @@
 | Field | Value |
 | --- | --- |
 | ID | AP-NNNN |
+| Primary category | Choose one: `anarchopeia`, `governance`, `economy`, `information` (see [categories](proposals/README.md)) |
+| Secondary categories | None, or comma-separated distinct values from the same list |
 | Status | `in_progress` |
 | Working version | 0.1 |
 | Approved version | None |

@@ -5,6 +5,8 @@
 | Field | Value |
 | --- | --- |
 | ID | AP-0006 |
+| Primary category | [Governance](../categories/governance/en.md) (`governance`) |
+| Secondary categories | [Economy](../categories/economy/en.md) (`economy`) |
 | Status | `in_progress` |
 | Working version | 0.2 |
 | Approved version | None |

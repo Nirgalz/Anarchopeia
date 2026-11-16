@@ -5,6 +5,8 @@
 | Champ | Valeur |
 | --- | --- |
 | ID | AP-0018 |
+| Catégorie principale | [Information](../categories/information/fr.md) (`information`) |
+| Catégories secondaires | Aucune |
 | Statut | `in_progress` |
 | Version de travail | 0.2 |
 | Version approuvée | Aucune |

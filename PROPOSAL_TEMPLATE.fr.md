@@ -5,6 +5,8 @@
 | Champ | Valeur |
 | --- | --- |
 | ID | AP-NNNN |
+| Catégorie principale | Choisir : `anarchopeia`, `governance`, `economy`, `information` (voir les [catégories](proposals/README.fr.md)) |
+| Catégories secondaires | Aucune, ou liste séparée par des virgules parmi les autres catégories |
 | Statut | `in_progress` |
 | Version de travail | 0.1 |
 | Version approuvée | Aucune |

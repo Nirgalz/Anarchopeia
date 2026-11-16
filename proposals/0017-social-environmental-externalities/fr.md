@@ -5,6 +5,8 @@
 | Champ | Valeur |
 | --- | --- |
 | ID | AP-0017 |
+| Catégorie principale | [Économie](../categories/economy/fr.md) (`economy`) |
+| Catégories secondaires | [Information](../categories/information/fr.md) (`information`) |
 | Statut | `in_progress` |
 | Version de travail | 0.2 |
 | Version approuvée | Aucune |

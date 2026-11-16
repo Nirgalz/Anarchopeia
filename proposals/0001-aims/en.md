@@ -5,6 +5,8 @@
 | Field | Value |
 |---|---|
 | ID | AP-0001 |
+| Primary category | [Anarchopeia](../categories/anarchopeia/en.md) (`anarchopeia`) |
+| Secondary categories | None |
 | Status | `in_progress` |
 | Working version | 0.3 |
 | Approved version | None |

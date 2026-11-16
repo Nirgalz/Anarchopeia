@@ -5,6 +5,8 @@
 | Champ | Valeur |
 | --- | --- |
 | ID | AP-0014 |
+| Catégorie principale | [Économie](../categories/economy/fr.md) (`economy`) |
+| Catégories secondaires | [Gouvernance](../categories/governance/fr.md) (`governance`) |
 | Statut | `in_progress` |
 | Version de travail | 0.2 |
 | Version approuvée | Aucune |

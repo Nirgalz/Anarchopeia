@@ -5,6 +5,8 @@
 | Field | Value |
 | --- | --- |
 | ID | AP-0018 |
+| Primary category | [Information](../categories/information/en.md) (`information`) |
+| Secondary categories | None |
 | Status | `in_progress` |
 | Working version | 0.2 |
 | Approved version | None |

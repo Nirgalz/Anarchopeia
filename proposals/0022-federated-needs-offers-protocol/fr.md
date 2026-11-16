@@ -5,6 +5,8 @@
 | Champ | Valeur |
 | --- | --- |
 | ID | AP-0022 |
+| Catégorie principale | [Information](../categories/information/fr.md) (`information`) |
+| Catégories secondaires | [Économie](../categories/economy/fr.md) (`economy`) |
 | Statut | `in_progress` |
 | Version de travail | 0.1 |
 | Version approuvée | Aucune |

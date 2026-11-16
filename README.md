@@ -16,13 +16,16 @@ One **proposal** is the unit of research, debate and decision. Its own document 
 
 - [Manifesto — English](manifesto/en.md) / [Manifeste — français](manifesto/fr.md): concise synthesis of **approved** proposals only.
 - [Proposal catalogue](proposals/README.md): working drafts and their current status.
-- [AP-0001 — Aims](proposals/0001-aims/en.md) ([FR](proposals/0001-aims/fr.md))
-- [AP-0002 — Emancipation](proposals/0002-emancipation/en.md) ([FR](proposals/0002-emancipation/fr.md))
-- [AP-0003 — Domination](proposals/0003-domination/en.md) ([FR](proposals/0003-domination/fr.md))
-- [AP-0004 — Licensing and contributors' rights](proposals/0004-licensing/en.md) ([FR](proposals/0004-licensing/fr.md))
-- [AP-0005 to AP-0019 — Political, economic and institutional proposals](proposals/README.md) (all drafts, based on the initiating article)
-- [AP-0020 to AP-0025 — New drafts from the historical notes](proposals/README.md) (participation, economic information and equitable access)
 - [Translation guide](i18n/README.md)
+
+## Proposals by category
+
+- **[Anarchopeia](proposals/categories/anarchopeia/en.md)** — Aims, foundational principles, concepts, methods, operations and organization of the project itself. (4 primary proposals.)
+- **[Governance](proposals/categories/governance/en.md)** — Organization of collective decision-making, distribution of powers, institutions, participation, delegation, oversight and transformation of governance systems. (3 primary proposals.)
+- **[Economy](proposals/categories/economy/en.md)** — Organization of production, labor, exchanges, money, ownership, resources and the satisfaction of material needs. Ecological issues and the material conditions of life are given primary consideration. (15 primary proposals.)
+- **[Information](proposals/categories/information/en.md)** — Creation, acquisition, transmission, processing, sharing and use of information and knowledge. This includes education, sciences, media, communication, the quality of public debate, critical thinking, information systems and digital tools. (3 primary proposals.)
+
+Each proposal appears under one primary category; category pages also list proposals associated through secondary categories. The [full catalogue](proposals/README.md) also shows statuses.
 
 All 25 proposals are marked `in_progress`. Their creation does not constitute approval.
 

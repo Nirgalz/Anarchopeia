@@ -5,6 +5,8 @@
 | Champ | Valeur |
 | --- | --- |
 | ID | AP-0019 |
+| Catégorie principale | [Gouvernance](../categories/governance/fr.md) (`governance`) |
+| Catégories secondaires | [Économie](../categories/economy/fr.md) (`economy`), [Information](../categories/information/fr.md) (`information`) |
 | Statut | `in_progress` |
 | Version de travail | 0.2 |
 | Version approuvée | Aucune |
