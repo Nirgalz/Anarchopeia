@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0012 |
 | Statut | `in_progress` |
-| Version de travail | 0.1 |
+| Version de travail | 0.2 |
 | Version approuvée | Aucune |
 | Portée | Option politique, économique ou institutionnelle |
 | Décision | Aucune |
@@ -46,6 +46,10 @@ Anarchopoeia examine des formes collectives et coopératives de propriété et d
 
 Étudier propriété, usage et gouvernance ; comparer les expériences coopératives et communautaires ; analyser financement, transition et protection des minorités.
 
+### Notes historiques à examiner — non adoptées
+
+Les [notes éco-politiques](../../txt/ecopolitique.txt) envisagent des moyens de production **mis à disposition de plusieurs projets**, avec réservation temporaire selon des règles collectives. Distinguer propriété du bien, droits d'usage, priorités d'accès et entretien. Examiner la capture des équipements par certains projets, comparer gestion fédérée et gestion centrale. L'ancienne idée de rendre les coopératives obligatoires constitue une hypothèse politique distincte et contestable.
+
 ## Références
 
 **Source initiale :** projet d'article fourni par son auteur, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discuté le 16 novembre 2026. **Références externes :** à rechercher, vérifier et ajouter. Aucune affirmation empirique n'a encore été validée dans ces brouillons.
@@ -53,3 +57,4 @@ Anarchopoeia examine des formes collectives et coopératives de propriété et d
 ## Historique des révisions
 
 - **2026-11-16 — v0.1, `in_progress` :** Première extraction du texte de l'auteur. Brouillon non approuvé, non intégré au manifeste.
+- **2026-11-16 — v0.2, `in_progress` :** Ajout de questions issues des notes historiques ; texte proposé pour le manifeste inchangé.

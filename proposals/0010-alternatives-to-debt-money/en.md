@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0010 |
 | Status | `in_progress` |
-| Working version | 0.1 |
+| Working version | 0.2 |
 | Approved version | None |
 | Scope | Political, economic or institutional option |
 | Decision record | None |
@@ -46,6 +46,10 @@ Anarchopoeia investigates alternatives to monetary creation through bank credit,
 
 Establish a precise glossary for money, bank deposits, credit and debt; document actual institutional arrangements; study historical and proposed alternatives.
 
+### Historical notes to investigate — not adopted
+
+The [economic-political notes](../../txt/ecopolitique.txt) distinguish credit-based money creation from a possible **advance against future voluntary allocations**, through project subscriptions or commitments. This might still create enforceable obligations and financial risk; it should **not** be presented as eliminating every form of debt. Clarify unit of account, liability, default, right to revoke pledges, and consistency with the proposal on investment rights.
+
 ## References
 
 **Initial source:** Author-supplied draft article, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discussed on 16 November 2026. **External references:** to be identified, checked and added; hypotheses above are not presented as established findings.
@@ -53,3 +57,4 @@ Establish a precise glossary for money, bank deposits, credit and debt; document
 ## Revision history
 
 - **2026-11-16 — v0.1, `in_progress`:** Initial extraction from the author's article. Draft only; no approval, no manifesto integration.
+- **2026-11-16 — v0.2, `in_progress`:** Added research questions from historic notes; proposed manifesto entry unchanged.

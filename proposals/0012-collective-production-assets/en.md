@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0012 |
 | Status | `in_progress` |
-| Working version | 0.1 |
+| Working version | 0.2 |
 | Approved version | None |
 | Scope | Political, economic or institutional option |
 | Decision record | None |
@@ -46,6 +46,10 @@ Anarchopoeia examines collective and cooperative forms of ownership and governan
 
 Study ownership versus use and governance; compare experience in coops and community enterprises; analyze investment, transition and minority protections.
 
+### Historical notes to investigate — not adopted
+
+The [economic-political notes](../../txt/ecopolitique.txt) suggest productive tools could be made **available to different projects**, with temporary reservation according to collective allocation rules. Separate title to an asset from rights to use it, scheduling priorities and maintenance obligations. Investigate whether project sponsors could monopolize shared equipment, and compare federated stewardship against central management. A historical demand to make cooperatives compulsory is a separate, contested policy hypothesis.
+
 ## References
 
 **Initial source:** Author-supplied draft article, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discussed on 16 November 2026. **External references:** to be identified, checked and added. No empirical claim has yet been validated through these draft documents.
@@ -53,3 +57,4 @@ Study ownership versus use and governance; compare experience in coops and commu
 ## Revision history
 
 - **2026-11-16 — v0.1, `in_progress`:** Initial extraction from the author's article. Draft only; no approval, no manifesto integration.
+- **2026-11-16 — v0.2, `in_progress`:** Added research questions from historic notes; proposed manifesto entry unchanged.

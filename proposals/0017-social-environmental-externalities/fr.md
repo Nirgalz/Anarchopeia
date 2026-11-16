@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0017 |
 | Statut | `in_progress` |
-| Version de travail | 0.1 |
+| Version de travail | 0.2 |
 | Version approuvée | Aucune |
 | Portée | Option politique, économique ou institutionnelle |
 | Décision | Aucune |
@@ -46,6 +46,10 @@ Anarchopoeia étudie comment les décisions économiques peuvent prendre en comp
 
 Comparer les instruments marchands et non marchands ; étudier l'analyse des cycles de vie, la justice environnementale et les dommages incertains ou irréversibles.
 
+### Notes historiques à examiner — non adoptées
+
+Le [brouillon éco-politique](../../txt/ecopolitique.txt) propose des **prix de ressources localisés** intégrant extraction, transformation, transport et réparation des dommages environnementaux (exemple du reboisement après défrichement). Ce sont des cas de modélisation utiles, non la preuve que tout dommage est entièrement compensable. Étudier **irréversibilité, effets de seuil, consentement collectif et limites de la substitution monétaire**. La transparence des chaînes de production peut aussi révéler des dommages invisibles dans les prix.
+
 ## Références
 
 **Source initiale :** projet d'article fourni par son auteur, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discuté le 16 novembre 2026. **Références externes :** à rechercher, vérifier et ajouter. Aucune affirmation empirique n'a encore été validée dans ces brouillons.
@@ -53,3 +57,4 @@ Comparer les instruments marchands et non marchands ; étudier l'analyse des cyc
 ## Historique des révisions
 
 - **2026-11-16 — v0.1, `in_progress` :** Première extraction du texte de l'auteur. Brouillon non approuvé, non intégré au manifeste.
+- **2026-11-16 — v0.2, `in_progress` :** Ajout de pistes historiques sans les adopter ou approuver ; texte proposé pour le manifeste inchangé.

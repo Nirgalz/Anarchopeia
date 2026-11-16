@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0015 |
 | Status | `in_progress` |
-| Working version | 0.1 |
+| Working version | 0.2 |
 | Approved version | None |
 | Scope | Political, economic or institutional option |
 | Decision record | None |
@@ -46,6 +46,10 @@ Anarchopoeia explores collective financing mechanisms through which people can s
 
 Examine crowdfunding, mutual finance, participatory budgets and cooperative funds; compare allocation criteria, legal constraints and safeguards against donor capture.
 
+### Historical notes to investigate — not adopted
+
+The [economic-political proposal notes](../../txt/ecopolitique.txt) detail **equal, periodically allocated investment credits** used to prioritize citizen-proposed projects, without a monetary return; projects may receive one-off allocations or recurring subscriptions. Distinguish these credits from consumption money and document whether transfer of allocation rights to a third party is allowed, how such delegation is audited and how minorities get funding. Consider large infrastructure funded by future commitments, but examine revocability, non-performance and obligations. Cross-reference the independent proposal for collective investment rights.
+
 ## References
 
 **Initial source:** Author-supplied draft article, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discussed on 16 November 2026. **External references:** to be identified, checked and added. No empirical claim has yet been validated through these draft documents.
@@ -53,3 +57,4 @@ Examine crowdfunding, mutual finance, participatory budgets and cooperative fund
 ## Revision history
 
 - **2026-11-16 — v0.1, `in_progress`:** Initial extraction from the author's article. Draft only; no approval, no manifesto integration.
+- **2026-11-16 — v0.2, `in_progress`:** Added historical research leads without adopting or approving them; proposed manifesto entry unchanged.

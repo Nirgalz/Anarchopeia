@@ -6,7 +6,7 @@
 |---|---|
 | ID | AP-0001 |
 | Status | `in_progress` |
-| Working version | 0.2 |
+| Working version | 0.3 |
 | Approved version | None |
 | Scope | Foundational aims and method |
 | Origin | Initiator discussion, 16 November 2026; earlier combined [discussion paper](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/en/foundations/aims-emancipation-and-non-domination.md) |
@@ -89,6 +89,10 @@ Topics to investigate *within this proposal*, rather than in separate research f
 
 Separate normative commitments from empirical claims and cite evidence before drawing historical generalizations.
 
+### Historical notes to investigate — not adopted
+
+The [historical introduction](../../txt/intro.txt) explores networks of alternative organizations and cross-border cooperation as possible responses to concentrated power and external pressure. Its stark contrast between hierarchical and cooperative societies is a rhetorical hypothesis, **not** a proven historical dichotomy. The [older moral notes](../../txt/morale.txt) seek common ethical norms, which must be confronted with the current refusal to impose a single worldview.
+
 ## References
 
 **Reading leads, not yet reviewed sources:** Cornelius Castoriadis on collective autonomy and self-institution; Karl Marx on human and political emancipation; traditions of critical theory; Philip Pettit on non-domination. Exact works, editions and relevant arguments are to be verified and documented as research develops.
@@ -97,3 +101,4 @@ Separate normative commitments from empirical claims and cite evidence before dr
 
 - **2026-11-16 — v0.1, `in_progress`:** Extracted the project's aims, anarchic horizon and iterative approach from the combined discussion paper. No approval decision recorded.
 - **2026-11-16 — v0.2, `in_progress`:** Replaced the research summary with a publication-ready **Proposed Manifesto Entry**. No approval recorded.
+- **2026-11-16 — v0.3, `in_progress`:** Added research leads from historical notes without adopting their claims; proposed manifesto entry unchanged.

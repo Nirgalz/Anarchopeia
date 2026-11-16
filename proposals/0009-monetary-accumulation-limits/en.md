@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0009 |
 | Status | `in_progress` |
-| Working version | 0.1 |
+| Working version | 0.2 |
 | Approved version | None |
 | Scope | Political, economic or institutional option |
 | Decision record | None |
@@ -46,6 +46,10 @@ Anarchopoeia examines monetary mechanisms such as depreciation, expiry or cancel
 
 Compare historical demurrage schemes and monetary models; examine distributional effects, asset substitution and interactions with universal income.
 
+### Historical notes to investigate — not adopted
+
+The [economic-political draft](../../txt/ecopolitique.txt) describes an **age-dependent depreciation of individual monetary units** until expiry; “a 50% loss of value per month” is a numerical illustration, not a recommended parameter. Compare individual-unit depreciation with inflation and taxes: these mechanisms work differently. Model effects on savings, the ability to plan, payment systems and substitution into real assets. The [founding notes](../../txt/principes%20fondateurs.txt) call for proactive prevention and prompt correction of loopholes; such rule changes also need contestable governance.
+
 ## References
 
 **Initial source:** Author-supplied draft article, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discussed on 16 November 2026. **External references:** to be identified, checked and added; hypotheses above are not presented as established findings.
@@ -53,3 +57,4 @@ Compare historical demurrage schemes and monetary models; examine distributional
 ## Revision history
 
 - **2026-11-16 — v0.1, `in_progress`:** Initial extraction from the author's article. Draft only; no approval, no manifesto integration.
+- **2026-11-16 — v0.2, `in_progress`:** Added research questions from historic notes; proposed manifesto entry unchanged.

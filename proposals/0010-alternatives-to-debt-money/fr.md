@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0010 |
 | Statut | `in_progress` |
-| Version de travail | 0.1 |
+| Version de travail | 0.2 |
 | Version approuvée | Aucune |
 | Portée | Option politique, économique ou institutionnelle |
 | Décision | Aucune |
@@ -46,6 +46,10 @@ Anarchopoeia étudie des alternatives à la création monétaire par le crédit 
 
 Établir un vocabulaire précis de la monnaie, des dépôts bancaires, du crédit et de la dette ; documenter les institutions existantes ; étudier les expériences et alternatives proposées.
 
+### Notes historiques à examiner — non adoptées
+
+Les [notes éco-politiques](../../txt/ecopolitique.txt) distinguent la création monétaire par crédit d'une **avance sur des allocations volontaires futures**, par engagements ou abonnements à des projets. Celle-ci pourrait malgré tout créer des obligations exigibles et des risques financiers ; elle ne doit **pas** être présentée comme une suppression de toute dette. Préciser unité de compte, responsabilité, défaut, droit de révoquer les engagements et articulation avec la proposition sur les droits d'investissement.
+
 ## Références
 
 **Source initiale :** projet d'article fourni par son auteur, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discuté le 16 novembre 2026. **Références externes :** à rechercher, vérifier et ajouter ; les hypothèses ci-dessus ne sont pas considérées comme démontrées.
@@ -53,3 +57,4 @@ Anarchopoeia étudie des alternatives à la création monétaire par le crédit 
 ## Historique des révisions
 
 - **2026-11-16 — v0.1, `in_progress` :** Première extraction du texte de l'auteur. Brouillon non approuvé, non intégré au manifeste.
+- **2026-11-16 — v0.2, `in_progress` :** Ajout de questions issues des notes historiques ; texte proposé pour le manifeste inchangé.

@@ -6,7 +6,7 @@
 |---|---|
 | ID | AP-0001 |
 | Statut | `in_progress` |
-| Version de travail | 0.2 |
+| Version de travail | 0.3 |
 | Version approuvée | Aucune |
 | Portée | Finalités fondamentales et démarche |
 | Origine | Échanges avec l'initiateur, 16 novembre 2026 ; ancien [document de discussion](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/fr/foundations/aims-emancipation-and-non-domination.md) |
@@ -89,6 +89,10 @@ Pistes à approfondir *dans cette proposition*, et non dans des fichiers de rech
 
 Distinguer engagements normatifs et affirmations empiriques ; sourcer les généralisations historiques avant de les adopter.
 
+### Notes historiques à examiner — non adoptées
+
+L'[introduction historique](../../txt/intro.txt) envisage les réseaux d'organisations alternatives et la coopération transfrontalière face aux pouvoirs concentrés et aux pressions extérieures. Son opposition entre sociétés hiérarchiques et coopératives est une hypothèse rhétorique, **pas** une dichotomie historique démontrée. Les [anciennes notes morales](../../txt/morale.txt) cherchent des normes éthiques communes, à confronter au refus actuel d'imposer une vision unique du monde.
+
 ## Références
 
 **Pistes de lecture, non encore vérifiées :** Cornelius Castoriadis sur l'autonomie collective et l'auto-institution ; Karl Marx sur l'émancipation humaine et politique ; traditions de la théorie critique ; Philip Pettit sur la non-domination. Les ouvrages exacts, éditions et arguments pertinents restent à vérifier et documenter.
@@ -97,3 +101,4 @@ Distinguer engagements normatifs et affirmations empiriques ; sourcer les géné
 
 - **2026-11-16 — v0.1, `in_progress` :** extraction des finalités du projet, de l'idéal anarchique et de la démarche itérative à partir du document commun. Aucune approbation consignée.
 - **2026-11-16 — v0.2, `in_progress` :** remplacement de la synthèse de recherche par un **texte proposé pour le manifeste**, directement publiable après approbation. Aucune approbation consignée.
+- **2026-11-16 — v0.3, `in_progress` :** Ajout de pistes de recherche issues des notes historiques sans adopter leurs affirmations ; texte proposé pour le manifeste inchangé.

@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0009 |
 | Statut | `in_progress` |
-| Version de travail | 0.1 |
+| Version de travail | 0.2 |
 | Version approuvée | Aucune |
 | Portée | Option politique, économique ou institutionnelle |
 | Décision | Aucune |
@@ -46,6 +46,10 @@ Anarchopoeia examine des mécanismes monétaires tels que la dépréciation, l'e
 
 Comparer les expériences historiques de monnaie fondante et les modèles monétaires ; étudier les effets distributifs, les substitutions d'actifs et les relations avec le revenu inconditionnel.
 
+### Notes historiques à examiner — non adoptées
+
+Le [brouillon éco-politique](../../txt/ecopolitique.txt) décrit une **dépréciation dépendant de l'âge de chaque unité monétaire** jusqu'à disparition ; « 50 % par mois » est une illustration chiffrée, non un paramètre recommandé. Distinguer dépréciation unitaire, inflation et fiscalité. Modéliser effets sur l'épargne, la planification, les paiements et le report vers des actifs réels. Les [principes historiques](../../txt/principes%20fondateurs.txt) proposent prévention des contournements et correction rapide des failles ; la modification de ces règles doit elle-même être contestable.
+
 ## Références
 
 **Source initiale :** projet d'article fourni par son auteur, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discuté le 16 novembre 2026. **Références externes :** à rechercher, vérifier et ajouter ; les hypothèses ci-dessus ne sont pas considérées comme démontrées.
@@ -53,3 +57,4 @@ Comparer les expériences historiques de monnaie fondante et les modèles monét
 ## Historique des révisions
 
 - **2026-11-16 — v0.1, `in_progress` :** Première extraction du texte de l'auteur. Brouillon non approuvé, non intégré au manifeste.
+- **2026-11-16 — v0.2, `in_progress` :** Ajout de questions issues des notes historiques ; texte proposé pour le manifeste inchangé.

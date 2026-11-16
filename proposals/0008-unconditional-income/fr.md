@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0008 |
 | Statut | `in_progress` |
-| Version de travail | 0.1 |
+| Version de travail | 0.2 |
 | Version approuvée | Aucune |
 | Portée | Option politique, économique ou institutionnelle |
 | Décision | Aucune |
@@ -46,6 +46,10 @@ Anarchopoeia explore un revenu individuel inconditionnel comme moyen possible de
 
 Examiner les modèles comparés et les études empiriques sur le revenu de base ; distinguer universalité et inconditionnalité ; étudier différents financements fiscaux et monétaires.
 
+### Notes historiques à examiner — non adoptées
+
+Les [notes éco-politiques](../../txt/ecopolitique.txt) associent monnaie de consommation distribuée périodiquement et revenu universel. Comparer ce financement avec la redistribution fiscale et les prestations en nature ; une allocation nominale identique ne répond pas nécessairement aux besoins différents. L'[ancienne discussion de l'équité](../../txt/puissance%20pouvoir%20et%20resolution.txt) souligne handicap, accessibilité et diversité des besoins matériels. Examiner l'articulation entre revenu et accès garanti aux biens essentiels (voir nouvelle proposition).
+
 ## Références
 
 **Source initiale :** projet d'article fourni par son auteur, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discuté le 16 novembre 2026. **Références externes :** à rechercher, vérifier et ajouter ; les hypothèses ci-dessus ne sont pas considérées comme démontrées.
@@ -53,3 +57,4 @@ Examiner les modèles comparés et les études empiriques sur le revenu de base 
 ## Historique des révisions
 
 - **2026-11-16 — v0.1, `in_progress` :** Première extraction du texte de l'auteur. Brouillon non approuvé, non intégré au manifeste.
+- **2026-11-16 — v0.2, `in_progress` :** Ajout de questions issues des notes historiques ; texte proposé pour le manifeste inchangé.

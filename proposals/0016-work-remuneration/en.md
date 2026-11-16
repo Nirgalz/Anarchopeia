@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0016 |
 | Status | `in_progress` |
-| Working version | 0.1 |
+| Working version | 0.2 |
 | Approved version | None |
 | Scope | Political, economic or institutional option |
 | Decision record | None |
@@ -46,6 +46,10 @@ Anarchopoeia examines fair remuneration systems that take account of working con
 
 Review wage-setting theories and collective bargaining mechanisms; define risk and hardship indicators; examine conflicts between income guarantees and differentiated pay.
 
+### Historical notes to investigate — not adopted
+
+The [older text on potentials and conditions](../../txt/puissance%20pouvoir%20et%20resolution.txt) and the [economic model](../../txt/ecopolitique.txt) suggest using **skill rarity, training time, task urgency, hardship, danger and social usefulness** as remuneration signals. These criteria may conflict: higher compensation for danger must not replace risk prevention; collective usefulness rankings can marginalize minority activities. The notes distinguish **equity from identical treatment**, including different support needs. Study whether an adaptive system can be fair, legible and contestable without measuring human worth.
+
 ## References
 
 **Initial source:** Author-supplied draft article, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discussed on 16 November 2026. **External references:** to be identified, checked and added. No empirical claim has yet been validated through these draft documents.
@@ -53,3 +57,4 @@ Review wage-setting theories and collective bargaining mechanisms; define risk a
 ## Revision history
 
 - **2026-11-16 — v0.1, `in_progress`:** Initial extraction from the author's article. Draft only; no approval, no manifesto integration.
+- **2026-11-16 — v0.2, `in_progress`:** Added historical research leads without adopting or approving them; proposed manifesto entry unchanged.

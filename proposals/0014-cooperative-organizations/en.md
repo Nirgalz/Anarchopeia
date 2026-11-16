@@ -6,7 +6,7 @@
 | --- | --- |
 | ID | AP-0014 |
 | Status | `in_progress` |
-| Working version | 0.1 |
+| Working version | 0.2 |
 | Approved version | None |
 | Scope | Political, economic or institutional option |
 | Decision record | None |
@@ -46,6 +46,10 @@ Anarchopoeia explores the expansion of cooperative work and production, enabling
 
 Compare worker and multistakeholder cooperatives; study conversion barriers, investment finance and democratic practice; examine economic performance and internal inequalities.
 
+### Historical notes to investigate — not adopted
+
+The [historical founding principles](../../txt/principes%20fondateurs.txt) and [moral essay](../../txt/morale.txt) imagine a **cooperative-only legal regime** for enterprises. Treat this as an **unapproved, restrictive option** requiring comparison with voluntary adoption, worker codetermination, public provision and protection of freedom of association. The [economic-political draft](../../txt/ecopolitique.txt) suggests federating workers by project; examine flexible participation, internal democratic rights and how nonmembers are affected.
+
 ## References
 
 **Initial source:** Author-supplied draft article, *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »*, discussed on 16 November 2026. **External references:** to be identified, checked and added. No empirical claim has yet been validated through these draft documents.
@@ -53,3 +57,4 @@ Compare worker and multistakeholder cooperatives; study conversion barriers, inv
 ## Revision history
 
 - **2026-11-16 — v0.1, `in_progress`:** Initial extraction from the author's article. Draft only; no approval, no manifesto integration.
+- **2026-11-16 — v0.2, `in_progress`:** Added historical research leads without adopting or approving them; proposed manifesto entry unchanged.

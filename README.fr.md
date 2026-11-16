@@ -21,9 +21,10 @@ La **proposition** est l'unité de recherche, de débat et de décision. Son doc
 - [AP-0003 — Domination](proposals/0003-domination/fr.md) ([EN](proposals/0003-domination/en.md))
 - [AP-0004 — Licence et droits des contributeurs](proposals/0004-licensing/fr.md) ([EN](proposals/0004-licensing/en.md))
 - [AP-0005 à AP-0019 — Propositions politiques, économiques et institutionnelles](proposals/README.fr.md) (brouillons issus du texte initial)
+- [AP-0020 à AP-0025 — Nouveaux brouillons issus des notes historiques](proposals/README.fr.md) (participation, information économique et équité)
 - [Guide de traduction](i18n/README.fr.md)
 
-Les 19 propositions sont au statut `in_progress`. Leur création ne vaut pas approbation.
+Les 25 propositions sont au statut `in_progress`. Leur création ne vaut pas approbation.
 
 Utiliser les [Issues](https://github.com/Nirgalz/Anarchopeia/issues) pour les questions, critiques et alternatives, et les pull requests pour modifier les textes.
 

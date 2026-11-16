@@ -23,8 +23,16 @@ A **proposal** contains its claim or institutional design, its argumentation, ev
 | AP-0017 | [Accounting for social and environmental externalities](0017-social-environmental-externalities/en.md) | `in_progress` | None |
 | AP-0018 | [Emancipatory education](0018-emancipatory-education/en.md) | `in_progress` | None |
 | AP-0019 | [Experimental proto-anarchic transition](0019-proto-anarchic-experimentation/en.md) | `in_progress` | None |
+| AP-0020 | [Citizen initiative and revocable delegated voting](0020-revocable-delegated-democracy/en.md) | `in_progress` | None |
+| AP-0021 | [Equal, non-exchangeable civic investment rights](0021-equal-investment-credits/en.md) | `in_progress` | None |
+| AP-0022 | [Federated needs-and-offers information network](0022-federated-needs-offers-protocol/en.md) | `in_progress` | None |
+| AP-0023 | [Effective access to essential needs and equitable support](0023-essential-needs-equitable-access/en.md) | `in_progress` | None |
+| AP-0024 | [Interconnected accounting for projects, resources, work and production](0024-economic-coordination/en.md) | `in_progress` | None |
+| AP-0025 | [Public deliberation, semantic clarity and information integrity](0025-deliberation-information/en.md) | `in_progress` | None |
 
 **Proposals AP-0005–AP-0019** are separate draft options extracted from the author's article *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »* (conversation of 16 November 2026). Their assertions require research; no listed mechanism has been adopted.
+
+**Proposals AP-0020–AP-0025** arose from reviewing all ten files in the historical [`txt/` archive](../txt/). They are **independent hypotheses to test**, not approved positions. Proposals AP-0001–AP-0003 and AP-0005–AP-0019 also contain clearly marked historical research leads; their proposed manifesto entries were not changed during this review. The older trialist terminology, psychological typologies and absolute claims about authority or beliefs are **not imported as settled project foundations**.
 
 The three status values are `in_progress`, `awaiting_approval`, and `approved`. A revision uses the **same** cycle; `revision_approved` is a decision event, not a fourth status. Unapproved versions are never placed in the manifesto.
 
