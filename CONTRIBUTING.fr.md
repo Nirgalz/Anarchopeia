@@ -1,27 +1,21 @@
-# Contribuer à Anarchopeia
+# Contribuer à Anarchopoeia
 
-**Règles de travail révisables, et non constitution définitive.**
+Toutes les contributions, y compris les objections aux concepts fondateurs, sont bienvenues. L'adhésion aux propositions du projet **n'est pas** une condition.
 
-Les contributeurs peuvent remettre en cause toute proposition, tout diagnostic, toute hypothèse ou finalité. L'adhésion à une orientation idéologique n'est **pas** une condition de participation.
+## La proposition est l'unité de travail
 
-## Participer
+Pour toute modification substantielle du manifeste, y compris de ses finalités, principes, définitions ou règles de gouvernance, créer ou réviser une [proposition](proposals/README.fr.md) numérotée selon le [modèle](PROPOSAL_TEMPLATE.fr.md). Chaque proposition réunit problème, objectifs, mécanisme proposé, alternatives, critiques, évaluation, synthèse, recherche, références et historique **dans le même document**.
 
-1. Rechercher les [Issues](https://github.com/Nirgalz/Anarchopeia/issues) existantes avant d'ouvrir une question, une objection, une alternative, une source ou une critique de la gouvernance.
-2. Expliquer le problème et son importance. Distinguer **valeurs**, **observations**, **hypothèses causales** et **propositions** ; citer les sources et les incertitudes lorsque c'est pertinent.
-3. Utiliser une pull request pour proposer des modifications textuelles. Lier les Issues pertinentes et préciser les traductions concernées.
-4. L'examen porte sur la clarté, la pertinence, les preuves, les dommages possibles et la qualité du processus documenté, non sur la conformité idéologique.
-5. Les modifications éditoriales importantes doivent être expliquées et, si nécessaire, inscrites au [journal des décisions](content/fr/decisions/README.md) avec les objections persistantes.
+1. Consulter les [Issues](https://github.com/Nirgalz/Anarchopeia/issues) avant de soulever une question, une objection, une alternative ou un problème documenté.
+2. Distinguer faits, valeurs et hypothèses ; citer les sources, exposer loyalement les éléments contraires et signaler les incertitudes.
+3. Ouvrir une pull request pour modifier les textes, en expliquer les motifs, lier les Issues et signaler les traductions à revoir.
+4. Passer une version candidate à `awaiting_approval` pour solliciter une décision. L'initiateur est actuellement le seul responsable éditorial ; il ne s'agit pas d'une ratification collective.
+5. Après **approbation explicite**, actualiser la version, la décision et la synthèse dans le [manifeste](manifesto/fr.md). La fusion d'un brouillon **ne vaut pas approbation**.
 
-Critiquer les arguments, non les personnes. Respecter autrui, attribuer fidèlement les sources et accepter les corrections. Ne pas présenter les anciennes notes `txt/` comme des positions adoptées.
+Critiquer les arguments plutôt que les personnes. Protéger la participation respectueuse et la possibilité de remettre en question les fondements du projet.
 
-## Langues
-
-L'anglais est la **référence éditoriale** pour la cohérence entre traductions. Les contributions en français ou dans d'autres langues sont les bienvenues ; conserver leur formulation originale durant les débats. Suivre les [règles de traduction](i18n/README.fr.md) et signaler les traductions à réviser. Une traduction ne doit pas modifier silencieusement une position.
-
-## Outils et gouvernance
-
-Les Issues permettent les recherches et objections ; les pull requests, les propositions de modification ; l'historique Git, leur traçabilité. GitHub Discussions n'est actuellement pas activé. Voir la [gouvernance provisoire](GOVERNANCE.fr.md) pour les modalités éditoriales et questions ouvertes.
+Lire le [workflow](WORKFLOW.fr.md), la [gouvernance provisoire](GOVERNANCE.fr.md) et le [guide des traductions](i18n/README.fr.md). Les notes [`txt/`](txt/) sont préservées pour plus tard, sans adoption.
 
 ## Licence
 
-Le dépôt ne contient actuellement aucune licence déclarée. Ne pas présumer que les textes peuvent être librement réutilisés sous une licence ouverte avant qu'une licence ne soit explicitement choisie.
+Aucune licence n'est encore déclarée ; ne pas présumer que la réutilisation des contenus est libre.

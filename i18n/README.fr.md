@@ -1,25 +1,19 @@
 # Traduction et internationalisation
 
-**Langue éditoriale de référence :** anglais (`en`). Le français (`fr`) est la première traduction. La langue ne détermine pas la légitimité des idées.
+**L'anglais (`en`) est la référence éditoriale ; le français (`fr`) est la première traduction.** Les contributions peuvent naître dans toute langue.
 
-## Conventions de fichiers
+## Chemins
 
-- Accueil : `README.md` et `README.<code-BCP-47>.md` (par exemple `README.fr.md`).
-- Gouvernance à la racine : `CONTRIBUTING.md`, `GOVERNANCE.md` et leurs variantes `.<code>.md`.
-- Contenu : `content/en/<chemin>.md`, `content/fr/<chemin>.md` et `content/<code>/<chemin>.md`.
-- Conserver **les mêmes noms anglais de fichiers et de dossiers** pour chaque langue ; traduire les titres et le texte, pas les chemins.
-- Utiliser les codes BCP 47 courts, par exemple `es`, `de` ou `pt-BR`.
-- Le dossier `txt/` contient des matériaux historiques à examiner ultérieurement, et ne fait pas encore l'objet d'une traduction.
+- Accueil : `README.md`, `README.fr.md`, puis `README.<code-BCP-47>.md`.
+- Manifeste : `manifesto/en.md`, `manifesto/fr.md`, puis `manifesto/<code>.md`.
+- Propositions : `proposals/0001-aims/en.md`, `proposals/0001-aims/fr.md`, puis `proposals/0001-aims/<code>.md` ; conserver le **même dossier numéroté avec un nom anglais** dans chaque langue.
+- Gouvernance, workflow et contributions : fichiers anglais à la racine, avec variantes `.fr.md` et suffixes linguistiques ultérieurs.
+- Le dossier historique `txt/` n'est pas une cible de traduction.
 
-## Ajouter une langue
+Utiliser des codes BCP 47 comme `es`, `de`, `pt-BR`. Les traductions partielles sont possibles : signaler ce qui manque ou n'est plus à jour, plutôt que produire de faux documents achevés. Relier les accueils traduits.
 
-1. Créer `content/<code>/` en reprenant les chemins des pages anglaises traduites. Les traductions partielles sont bienvenues ; éviter les pages fictives qui semblent achevées.
-2. Ajouter `README.<code>.md` et lier cette page depuis les accueils anglais et traduits.
-3. Commencer chaque fichier traduit par un commentaire identifiant sa source anglaise : `<!-- Translation of content/en/... -->`.
-4. Préserver le sens ; signaler les notions ambiguës ou contestées au lieu de modifier discrètement des affirmations politiques.
-5. Lorsqu'un texte anglais change, identifier les traductions à revoir. La présence d'un fichier ne suffit pas à garantir sa synchronisation.
-6. Proposer traductions et mises à jour par pull request, avec un lien vers les discussions en cas de divergence d'interprétation.
+## Synchronisation
 
-Une contribution peut naître dans toute langue. Préserver ses formulations originales et élaborer au besoin une version éditoriale anglaise en collaboration.
+La proposition anglaise approuvée est la référence éditoriale, mais cela ne privilégie pas les contributeurs anglophones. Conserver les contributions dans leur langue d'origine. Traduire fidèlement et signaler les notions contestées. Une approbation doit s'accompagner de traductions actualisées ou d'une indication claire de leur retard. La présence d'un fichier ne garantit pas qu'il corresponde à la dernière version approuvée.
 
-L'anglais est la référence pour **la synchronisation**, pas une condition de participation.
+Recherches et références restent **dans chaque fichier de proposition traduit**. Les changements de fond, même proposés initialement dans une traduction, suivent le [workflow des propositions](../WORKFLOW.fr.md).

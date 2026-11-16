@@ -1,25 +1,19 @@
 # Translation and internationalization
 
-**Canonical editorial language:** English (`en`). French (`fr`) is the first translation. Language does not determine the legitimacy of ideas.
+**English (`en`) is the canonical editorial version; French (`fr`) is the first translation.** Contributions can originate in any language.
 
-## File conventions
+## Paths
 
-- Root navigation: `README.md` and `README.<BCP-47-tag>.md` (for example `README.fr.md`).
-- Root governance: `CONTRIBUTING.md`, `GOVERNANCE.md`, plus `.<tag>.md` variants.
-- Content: `content/en/<path>.md`, `content/fr/<path>.md`, and `content/<tag>/<path>.md`.
-- Keep the **same English slugs and directory paths** in all languages; translate visible headings and body text, not filenames.
-- Use short BCP 47 tags such as `es`, `de`, or `pt-BR`.
-- The existing `txt/` is historical material reserved for later consideration, not currently a translation target.
+- Home: `README.md`, `README.fr.md`, later `README.<BCP-47-tag>.md`.
+- Manifesto: `manifesto/en.md`, `manifesto/fr.md`, then `manifesto/<tag>.md`.
+- Proposals: `proposals/0001-aims/en.md`, `proposals/0001-aims/fr.md`, then `proposals/0001-aims/<tag>.md`; keep the **same numbered English-slug directory** across languages.
+- Governance, workflow and contribution guidance: English root files with `.fr.md` and later language-suffixed variants.
+- The historical `txt/` folder is not a translation target.
 
-## Adding another language
+Use standard BCP 47 codes such as `es`, `de`, `pt-BR`. Partial translations are allowed: label missing or outdated translations, rather than producing apparently finished placeholders. Link translated landing pages.
 
-1. Create `content/<tag>/` mirroring the paths of English pages that you translate. Partial translations are welcome; do not publish placeholders that appear complete.
-2. Add `README.<tag>.md` and link it from English and translated landing pages.
-3. Begin each translated content file with a comment identifying its English source: `<!-- Translation of content/en/... -->`.
-4. Preserve meaning; flag ambiguous or contested terminology instead of silently changing political claims.
-5. When English content changes, identify translated counterparts requiring review. File presence alone does not prove that it is synchronized.
-6. Propose translations and updates in pull requests, linking discussions about disagreements in interpretation.
+## Synchronization
 
-Contributions may originate in any language. Preserve original formulations and collaborate on the English editorial text if needed.
+English approved proposal text is the editorial reference, but this does not privilege English-language contributors. Retain original contributions in their original language. Translate meaning faithfully; flag contested terminology. An approval should be accompanied by updated translations or a clear note that a translation lags behind. File existence alone does not indicate that a translation matches the latest approved version.
 
-English is the point of reference for **synchronization**, not a requirement for participation.
+All research and references remain **inside the corresponding proposal file**, in each language. Changes of substance, even when first suggested in a translation, require the [proposal workflow](../WORKFLOW.md).
