@@ -38,7 +38,7 @@ How could the claimed effects be assessed? Which conditions would indicate failu
 
 ## Proposed Manifesto Entry
 
-Write the **exact, self-contained text proposed for inclusion in the manifesto** if this version is approved. Present the position or institutional proposal directly, in publication-ready prose. Do **not** summarize the research, describe the editorial process, or include approval-status disclaimers in this section. It is a candidate entry until an explicit approval decision. Keep it immediately after Evaluation.
+Write the **exact, self-contained text proposed for inclusion in the manifesto** if this version is approved. Present the position or institutional proposal directly, in publication-ready prose. Do **not** summarize the research, describe the editorial process, or include approval-status disclaimers in this section. It is a candidate entry until an explicit approval decision.
 
 ## Research
 
