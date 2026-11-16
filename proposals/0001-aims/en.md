@@ -8,7 +8,7 @@
 | Primary category | [Anarchopeia](../categories/anarchopeia/en.md) (`anarchopeia`) |
 | Secondary categories | None |
 | Status | `in_progress` |
-| Working version | 0.3 |
+| Working version | 0.4 |
 | Approved version | None |
 | Scope | Foundational aims and method |
 | Origin | Initiator discussion, 16 November 2026; earlier combined [discussion paper](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/en/foundations/aims-emancipation-and-non-domination.md) |
@@ -26,22 +26,24 @@ Clarify what the project is trying to advance, how its anarchic horizon relates 
 
 ## Proposal
 
-The initiator identifies **two fundamental aims**:
+The initiator identifies **two fundamental aims, distinct and of equal importance**:
 
-1. **Emancipation of individuals and collectives.**
+1. **The emancipation of individuals and collectives.**
 2. **The disappearance of relations of domination.**
 
-These aims are related but distinct. Removing domination does not automatically supply every condition of emancipation. Enlarging collective autonomy does not necessarily emancipate all members of a group.
+These aims are related but distinct. Removing domination does not automatically provide every condition of emancipation. Increasing collective autonomy does not necessarily emancipate all members of a group.
 
-**Anarchy is treated as a theoretical ideal**, not a final institutional blueprint. The claimed impossibility is that of **definitive stabilization**: conditions that might satisfy the ideal at one point in time cannot be guaranteed forever. This does *not* imply that reaching such conditions momentarily is impossible.
+**Neither aim takes precedence over the other as a matter of principle.** When they are in tension, trade-offs must take account of context, affected people, expected effects and alternatives. Their rationale must be explicit, and decisions must remain open to discussion, challenge and revision. Progress toward one aim must not hide regression on the other; neither is assumed to advance automatically alongside the other.
 
-As societies, technologies, knowledge and environments evolve, the conditions for emancipation and non-domination also change. Anarchopoeia is therefore conceived as an **ongoing process** of research and social transformation, with advances, setbacks and unintended effects, rather than as a temporary transition toward a permanently settled system.
+**Anarchy is a theoretical horizon**, not a definitive institutional blueprint. Its realization at a given moment is not ruled out, but its permanent stabilization cannot be guaranteed. The absence of a guarantee is not proof of absolute impossibility: evolving individuals, societies and environments may change the conditions of emancipation and give rise to new relations of domination.
 
-The project seeks to examine **economic, political and organizational systems** and the relationships they shape. It should investigate their mechanisms and design alternatives, including by testing and evaluating them when appropriate. Its own decision-making, editorial authority and governance must remain open to criticism and change.
+Anarchopoeia is an **ongoing process of research, discussion and social transformation**, allowing for advances, setbacks, contradictions and unintended consequences. Revision is not an end in itself: depending on evaluation, it can be appropriate to **preserve, modify, discontinue or restore** an institution. Novelty alone does not constitute progress.
 
-The **manifesto** is a readable synthesis of approved proposals. It is not the project's starting dogma. All substantive changes to its aims, definitions, principles, and institutional suggestions pass through the same proposal workflow.
+The project examines **political, economic, social, informational and organizational systems** and the relationships they structure. It researches and compares alternatives and may, when appropriate and with safeguards, experiment with and evaluate them. Its own governance, decisions and editorial authority must remain open to criticism, challenge and change.
 
-Related working proposals: [Emancipation](../0002-emancipation/en.md) and [Domination](../0003-domination/en.md).
+The **manifesto** is a readable synthesis of approved proposals, not an initial dogma. Any substantive change to its aims, definitions, principles or institutional suggestions follows the same workflow.
+
+Related proposals: [Emancipation](../0002-emancipation/en.md), [Domination](../0003-domination/en.md) and [Experimental proto-anarchic transition](../0019-proto-anarchic-experimentation/en.md).
 
 ## Alternatives
 
@@ -53,31 +55,35 @@ These are approaches to compare, not positions already refuted.
 
 ## Criticism and limitations
 
-- A perpetual process may lack stable priorities or clear criteria for progress.
-- The impossibility of definitive stabilization is a philosophical working hypothesis, not an empirically demonstrated universal theorem.
-- Pursuing two aims can involve tradeoffs, including tension between group autonomy and individual emancipation.
-- Claims to openness may conceal actual power: maintainers currently control GitHub merges and settings.
-- Experimentation can harm affected people if rights, consent, oversight or exit conditions are ignored.
+- **Underdetermined trade-offs:** two general aims without a universal priority rule may justify conflicting choices. Reasons, consequences and alternatives should be made explicit and open to challenge.
+- **Lack of stable benchmarks:** an open-ended process may lack clear priorities or adequate criteria for assessing advances and setbacks.
+- **Confusing uncertainty with impossibility:** the absence of a guarantee of permanent stabilization does not demonstrate impossibility; it is philosophical caution, not an empirical law.
+- **Overvaluing change:** ongoing transformation may reward novelty irrespective of outcomes. Preserving or restoring an institution may be preferable to changing it.
+- **Possible internal contradiction:** an aim of reducing domination currently coexists with centralized editorial authority. Repository maintainers control merges and certain GitHub settings. This concentration must remain visible, challengeable and open to change.
+- **Risks of experimentation:** arrangements presented as emancipatory may harm affected people, including nonparticipants. Rights, consent where relevant, oversight, remedies and meaningful exit options require examination.
 
 ## Evaluation
 
-Possible questions for assessing the project and future proposals:
+When evaluating a proposal or change, examine its effects on **each aim separately**:
 
-- Can a change demonstrably expand emancipation while reducing arbitrary, uncontestable power?
-- Are new dependencies or power concentrations created, including powers not exercised?
-- Can affected people contest, change, or reverse decisions in practice?
-- Are outcomes, uncertainty, disagreements, and unintended harms visible?
-- Can Anarchopoeia's own governance be modified when its practice contradicts its aims?
+- **Emancipation:** how does it affect individual and collective emancipation and people's effective opportunities to define and pursue their own ends?
+- **Domination:** which existing or potential relations of domination are reduced, maintained or created, even without the exercise of arbitrary power?
+- **Trade-offs:** what tensions or contradictions arise between the aims? Who benefits and who bears the consequences? What alternatives are available?
+- **Unintended effects:** which direct and indirect consequences, including effects on nonparticipants, require monitoring and possible correction?
+- **Challenge and correction:** can affected people meaningfully challenge decisions, demand accountability and seek the preservation, modification, discontinuation or revision of arrangements?
+- **Internal consistency:** can Anarchopoeia's governance and editorial authority be challenged and changed when they contradict its aims?
 
-No universal progress score or inevitable linear path is assumed.
+No simultaneous advance on both aims, universal score or necessarily linear evolution is presumed.
 
 ## Proposed Manifesto Entry
 
-Anarchopoeia pursues two fundamental aims: **the emancipation of individuals and collectives** and **the disappearance of relations of domination**. These aims are related but distinct; neither automatically takes precedence over the other.
+Anarchopoeia pursues two fundamental aims, distinct and of equal importance: **the emancipation of individuals and collectives** and **the disappearance of relations of domination**. Neither takes precedence over the other as a matter of principle. When they come into tension, trade-offs must be made explicit, discussed, and remain open to challenge and revision.
 
-Anarchy is a theoretical horizon, not a definitive institutional model. Its realization at a particular moment is not ruled out, but its permanent stabilization cannot be guaranteed as people, societies, knowledge, technologies and environments evolve.
+**Anarchy is a theoretical horizon**, not a definitive institutional model. Its realization at a particular point in time is not ruled out, but its permanent stabilization cannot be guaranteed. As individuals, societies, and their environments evolve, the conditions of emancipation may change and new relations of domination may emerge.
 
-Anarchopoeia investigates economic, political and organizational systems, develops and examines alternatives, and evaluates their effects on emancipation and domination. Its manifesto, methods and governance remain open to criticism and revision.
+To pursue these aims, Anarchopoeia examines political, economic, social, and information systems and the relationships they structure. The project researches, compares, and, where appropriate, experiments with alternatives, assessing their effects and limitations. This approach acknowledges advances, setbacks, contradictions, and unintended consequences.
+
+**No institution, method, or proposal is regarded as definitive.** Anarchopoeia's manifesto and governance remain open to criticism, challenge, and revision.
 
 ## Research
 
@@ -88,6 +94,9 @@ Topics to investigate *within this proposal*, rather than in separate research f
 - Evaluate historical cases in which liberating institutional reforms reproduced new hierarchies.
 - Develop ways to identify progress and regressions without assuming one universally good form of life.
 - Examine the difference between the proclaimed aims of a collective and the power actually exercised in its governance.
+- Examine procedures for trade-offs between aims: make reasons explicit, involve affected people, compare alternatives and provide avenues for appeal.
+- Study criteria for preserving, changing, discontinuing or restoring institutions without equating change with progress.
+- Explore how initially concentrated editorial authority can become effectively challengeable.
 
 Separate normative commitments from empirical claims and cite evidence before drawing historical generalizations.
 
@@ -104,3 +113,4 @@ The [historical introduction](https://github.com/Nirgalz/Anarchopeia/blob/0d8963
 - **2026-11-16 — v0.1, `in_progress`:** Extracted the project's aims, anarchic horizon and iterative approach from the combined discussion paper. No approval decision recorded.
 - **2026-11-16 — v0.2, `in_progress`:** Replaced the research summary with a publication-ready **Proposed Manifesto Entry**. No approval recorded.
 - **2026-11-16 — v0.3, `in_progress`:** Added research leads from historical notes without adopting their claims; proposed manifesto entry unchanged.
+- **2026-11-16 — v0.4, `in_progress`:** clarified trade-offs, anarchic horizon and when revision is warranted; strengthened criticism and evaluation; revised candidate manifesto entry accepted by the initiator as a draft. No formal approval or manifesto integration.
