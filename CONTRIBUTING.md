@@ -1,27 +1,21 @@
 # Contributing to Anarchopeia
 
-**Working guidelines: open to revision, not a final constitution.**
+All contributions—including objections to foundational concepts—are welcome. Agreement with the project's proposals is **not** required.
 
-Contributors may question any proposal, diagnosis, assumption, or aim. Agreement with an ideological position is **not** a requirement for participation.
+## Proposals are the unit of work
 
-## Participation
+For any substantive amendment to the manifesto, including its aims, principles, definitions or governance, create or revise a numbered [proposal](proposals/README.md) using the [template](PROPOSAL_TEMPLATE.md). Each proposal contains its problem, objectives, proposed change, alternatives, criticism, evaluation, summary, research, references and revision history **in the same document**.
 
-1. Search [Issues](https://github.com/Nirgalz/Anarchopeia/issues) before opening a question, objection, alternative, source, or governance concern.
-2. Describe the issue and why it matters. Distinguish **values**, **observations**, **causal hypotheses**, and **proposals**; cite sources and uncertainties where appropriate.
-3. Use a pull request for suggested text changes. Link related Issues and specify affected translations.
-4. Review should assess clarity, relevance, evidence, possible harm, and the integrity of the documented process rather than ideological conformity.
-5. Significant editorial changes should be explained and, where applicable, entered in the [decision log](content/en/decisions/README.md) together with unresolved objections.
+1. Search [Issues](https://github.com/Nirgalz/Anarchopeia/issues) before opening a question, objection, alternative or evidence-based concern.
+2. Distinguish factual claims from values and hypotheses, cite sources, represent opposing evidence fairly and make uncertainties visible.
+3. Open a pull request for changes. Explain why, link relevant issues and mark translations needing review.
+4. Mark a candidate `awaiting_approval` when seeking a decision. The initiator currently acts as sole editorial approver; no collective ratification is implied.
+5. After **explicit approval**, update the proposal version, approval record and [manifesto](manifesto/en.md) summary. Merging a draft does **not** constitute approval.
 
-Critique arguments, not people. Be respectful, accurate in attribution, and open to correction. Do not treat older `txt/` notes as adopted positions.
+Criticize arguments rather than people. Protect respectful participation and the ability to challenge project assumptions.
 
-## Languages
+Read the [workflow](WORKFLOW.md), [provisional governance](GOVERNANCE.md), and [translation guide](i18n/README.md). The [`txt/` notes](txt/) are preserved for later use, not adopted.
 
-English is the **canonical editorial version** for cross-language consistency. Contributions in French and other languages are welcome; retain their original wording during discussion. Follow [translation guidelines](i18n/README.md), and indicate when a translation needs review. Translations must not silently alter positions.
+## License
 
-## Tools and governance
-
-Issues support investigation and objections; pull requests support reviews and edits; Git history supports traceability. GitHub Discussions is not enabled at present. See [provisional governance](GOVERNANCE.md) for the current editorial process and unanswered questions.
-
-## Licensing
-
-The repository currently has no declared license. Do not presume that the material is freely reusable under an open-content license until a license has been explicitly chosen.
+No license has yet been declared; do not assume open reuse rights.

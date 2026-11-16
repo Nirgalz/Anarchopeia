@@ -1,27 +1,19 @@
-# Project governance — provisional framework
+# Provisional governance
 
-**Status: proposed / experimental; not collectively ratified.**
+**Status:** editorial working rules; not collectively ratified.
 
-Anarchopeia aims to explore distributed responsibility and revisable decisions through its own operations. This aim does not make existing GitHub permissions democratic.
+The project is presently maintained by its initiator. That person controls GitHub merges and currently makes approval decisions. This factual authority must not be portrayed as distributed governance.
 
-## Current authority
+## Decisions and accountability
 
-Maintainers have actual control over repository settings and merges. This editorial authority must be visible, explainable, and open to contestation. No binding voting system, quorum, definition of membership, or appeal process has yet been adopted.
+- All substantive manifesto additions or amendments, **including changes to these governance rules**, require a proposal and the [editorial workflow](WORKFLOW.md).
+- Approval is an **explicit, recorded decision** concerning a specific version, not a side effect of publishing a draft or merging a pull request.
+- Document the decision-maker, date, reasons, alternatives, unresolved objections, and relevant GitHub issue/PR.
+- Only approved versions may be summarized in the [manifesto](manifesto/en.md). Unapproved revisions must not silently replace current approved text.
+- Reasons for withdrawing, rejecting or superseding a proposal must be traceable and open to challenge.
 
-## Working cycle
+## Future governance questions
 
-1. **Raise** an issue, alternative, objection, evidence, or concern in a GitHub Issue.
-2. **Investigate** with sources, affected perspectives, competing arguments, and open questions. Silence is not consent.
-3. **Propose** a change through a pull request, explaining its rationale and expected effects.
-4. **Review and decide** transparently. Maintainers document acceptance, revision requests, or refusal. A merge means inclusion in the current draft, **not universal endorsement**.
-5. **Document and revisit** consequential decisions, reasons, and dissent in the decision log. Reopen a decision when evidence or good arguments warrant it.
+Contributor decision rights; delegation and rotation; accessibility across languages and unequal expertise; conflicts of interest; appeal and independent review; moderation and protection from harassment; criteria for changing the governance process.
 
-## Governance questions to research
-
-- Participation, moderation, exclusion, and safeguards against harassment.
-- Whether and how contributors gain decision rights, rotate responsibilities, or delegate.
-- Barriers related to language, time, expertise, access, or influence.
-- Conflict of interest, appeals, minority positions, and due process.
-- What metrics could assess governance experiments and justify revision or termination.
-
-**Open question:** How can responsibility be distributed without concealing who ultimately controls merging and moderation?
+These are research questions—not mechanisms already in operation. The project should evaluate whether its own practices create arbitrary or insufficiently contestable authority.

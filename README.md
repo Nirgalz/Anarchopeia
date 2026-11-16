@@ -1,32 +1,30 @@
 # Anarchopeia
 
-**A living manifesto developed through collective research, discussion, criticism, and revision.**
+**A living, revisable manifesto developed through collective research and discussion.**
 
-Anarchopeia explores political, economic, and social institutions that could reduce domination and support a dignified, cooperative, ecologically durable society. This is **not** a finished political program or a declaration of collective consensus. Proposals, diagnoses, and even foundational assumptions remain open to challenge.
+Anarchopeia is a project exploring emancipation of individuals and collectives and the disappearance of relations of domination. Its working ideas, including its foundational concepts and methods, are open to criticism and revision. Its initiator understands anarchy as a theoretical horizon whose definitive stabilization cannot be guaranteed, not as a final institution.
 
-**Languages:** English (canonical editorial text) · [Français](README.fr.md). Other translations are welcome; see [internationalization](i18n/README.md).
+**Languages:** English (canonical editorial language) · [Français](README.fr.md). Translations in other languages are welcome.
 
-## Explore the project
+## The editorial workflow
 
-- [Living manifesto — working outline](content/en/manifesto.md)
-- [Aims, emancipation and non-domination — discussion paper](content/en/foundations/aims-emancipation-and-non-domination.md)
-- [Purpose, principles, and definitions](content/en/foundations/README.md)
-- [Research dossiers](content/en/research/README.md)
-- [Articles](content/en/articles/README.md)
-- [Proposals](content/en/proposals/README.md)
-- [Sources and evidence](content/en/sources/README.md)
-- [Decisions and revisions](content/en/decisions/README.md)
-- [Contributing](CONTRIBUTING.md)
-- [Provisional governance](GOVERNANCE.md)
+One **proposal** is the unit of research, debate and decision. Its own document contains the proposal, limitations, evaluation, summary, research, references, and revision history. Every substantive change to the manifesto—including its aims, principles and definitions—must pass through a proposal.
 
-## A living process
+**[Read the editorial workflow](WORKFLOW.md) · [How to contribute](CONTRIBUTING.md) · [Provisional governance](GOVERNANCE.md)**
 
-Research informs articles and proposals; criticism and evidence can change them. The manifesto summarizes the evolving results rather than prescribing predetermined conclusions. Significant changes, unresolved disagreements, and decision rationales should be documented.
+## Read and discuss
 
-Use [GitHub Issues](https://github.com/Nirgalz/Anarchopeia/issues) for questions, objections and ideas, and pull requests for proposed edits. Project governance is itself open to revision.
+- [Manifesto — English](manifesto/en.md) / [Manifeste — français](manifesto/fr.md): concise synthesis of **approved** proposals only.
+- [Proposal catalogue](proposals/README.md): working drafts and their current status.
+- [AP-0001 — Aims](proposals/0001-aims/en.md) ([FR](proposals/0001-aims/fr.md))
+- [AP-0002 — Emancipation](proposals/0002-emancipation/en.md) ([FR](proposals/0002-emancipation/fr.md))
+- [AP-0003 — Domination](proposals/0003-domination/en.md) ([FR](proposals/0003-domination/fr.md))
+- [Translation guide](i18n/README.md)
 
-## Earlier notes
+These first three documents are marked `in_progress`. Their creation does not constitute approval.
 
-The existing [`txt/` folder](txt/) is preserved **unchanged** as historical reflection material to examine later. Its contents are neither automatically validated nor adopted as positions of this project.
+Use [Issues](https://github.com/Nirgalz/Anarchopeia/issues) for questions, criticisms and alternatives and pull requests for substantive text changes.
 
-English is the reference for synchronizing publications, **not** a requirement for participating or a privileged language for ideas. Contributions may begin in any language.
+## Earlier materials
+
+The [`txt/` folder](txt/) is preserved **unchanged** as a collection of reflection notes for later use. Prior draft research indexes and foundation pages were removed from the active layout during the workflow refactor; their contents remain retrievable through the repository's Git history (prior `main` commit `1239be9`). They should not be treated as approved manifesto sections.
