@@ -5,6 +5,8 @@
 | Field | Value |
 | --- | --- |
 | ID | AP-0008 |
+| Primary category | [Economy](../categories/economy/en.md) (`economy`) |
+| Secondary categories | None |
 | Status | `in_progress` |
 | Working version | 0.2 |
 | Approved version | None |

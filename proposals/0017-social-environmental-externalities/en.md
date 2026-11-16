@@ -5,6 +5,8 @@
 | Field | Value |
 | --- | --- |
 | ID | AP-0017 |
+| Primary category | [Economy](../categories/economy/en.md) (`economy`) |
+| Secondary categories | [Information](../categories/information/en.md) (`information`) |
 | Status | `in_progress` |
 | Working version | 0.2 |
 | Approved version | None |

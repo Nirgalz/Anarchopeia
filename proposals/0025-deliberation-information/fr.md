@@ -5,6 +5,8 @@
 | Champ | Valeur |
 | --- | --- |
 | ID | AP-0025 |
+| Catégorie principale | [Information](../categories/information/fr.md) (`information`) |
+| Catégories secondaires | [Gouvernance](../categories/governance/fr.md) (`governance`) |
 | Statut | `in_progress` |
 | Version de travail | 0.1 |
 | Version approuvée | Aucune |

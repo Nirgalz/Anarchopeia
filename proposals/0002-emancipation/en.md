@@ -5,6 +5,8 @@
 | Field | Value |
 |---|---|
 | ID | AP-0002 |
+| Primary category | [Anarchopeia](../categories/anarchopeia/en.md) (`anarchopeia`) |
+| Secondary categories | [Governance](../categories/governance/en.md) (`governance`), [Information](../categories/information/en.md) (`information`) |
 | Status | `in_progress` |
 | Working version | 0.3 |
 | Approved version | None |

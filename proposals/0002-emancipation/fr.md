@@ -5,6 +5,8 @@
 | Champ | Valeur |
 |---|---|
 | ID | AP-0002 |
+| Catégorie principale | [Anarchopeia](../categories/anarchopeia/fr.md) (`anarchopeia`) |
+| Catégories secondaires | [Gouvernance](../categories/governance/fr.md) (`governance`), [Information](../categories/information/fr.md) (`information`) |
 | Statut | `in_progress` |
 | Version de travail | 0.3 |
 | Version approuvée | Aucune |

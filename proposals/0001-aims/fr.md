@@ -5,6 +5,8 @@
 | Champ | Valeur |
 |---|---|
 | ID | AP-0001 |
+| Catégorie principale | [Anarchopeia](../categories/anarchopeia/fr.md) (`anarchopeia`) |
+| Catégories secondaires | Aucune |
 | Statut | `in_progress` |
 | Version de travail | 0.3 |
 | Version approuvée | Aucune |

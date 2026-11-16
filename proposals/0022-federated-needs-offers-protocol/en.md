@@ -5,6 +5,8 @@
 | Field | Value |
 | --- | --- |
 | ID | AP-0022 |
+| Primary category | [Information](../categories/information/en.md) (`information`) |
+| Secondary categories | [Economy](../categories/economy/en.md) (`economy`) |
 | Status | `in_progress` |
 | Working version | 0.1 |
 | Approved version | None |

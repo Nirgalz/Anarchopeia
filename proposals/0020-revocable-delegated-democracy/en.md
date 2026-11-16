@@ -5,6 +5,8 @@
 | Field | Value |
 | --- | --- |
 | ID | AP-0020 |
+| Primary category | [Governance](../categories/governance/en.md) (`governance`) |
+| Secondary categories | [Information](../categories/information/en.md) (`information`) |
 | Status | `in_progress` |
 | Working version | 0.1 |
 | Approved version | None |

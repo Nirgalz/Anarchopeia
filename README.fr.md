@@ -16,13 +16,16 @@ La **proposition** est l'unité de recherche, de débat et de décision. Son doc
 
 - [Manifeste — français](manifesto/fr.md) / [Manifesto — English](manifesto/en.md) : synthèse des seules propositions **approuvées**.
 - [Catalogue des propositions](proposals/README.fr.md) : documents de travail et statuts.
-- [AP-0001 — Finalités](proposals/0001-aims/fr.md) ([EN](proposals/0001-aims/en.md))
-- [AP-0002 — Émancipation](proposals/0002-emancipation/fr.md) ([EN](proposals/0002-emancipation/en.md))
-- [AP-0003 — Domination](proposals/0003-domination/fr.md) ([EN](proposals/0003-domination/en.md))
-- [AP-0004 — Licence et droits des contributeurs](proposals/0004-licensing/fr.md) ([EN](proposals/0004-licensing/en.md))
-- [AP-0005 à AP-0019 — Propositions politiques, économiques et institutionnelles](proposals/README.fr.md) (brouillons issus du texte initial)
-- [AP-0020 à AP-0025 — Nouveaux brouillons issus des notes historiques](proposals/README.fr.md) (participation, information économique et équité)
 - [Guide de traduction](i18n/README.fr.md)
+
+## Propositions par catégorie
+
+- **[Anarchopeia](proposals/categories/anarchopeia/fr.md)** — Finalités, principes fondamentaux, concepts, méthodes, fonctionnement et organisation du projet lui-même. (4 propositions principales.)
+- **[Gouvernance](proposals/categories/governance/fr.md)** — Organisation des décisions collectives, distribution des pouvoirs, institutions, participation, délégation, contrôle et transformation des systèmes de gouvernance. (3 propositions principales.)
+- **[Économie](proposals/categories/economy/fr.md)** — Organisation de la production, du travail, des échanges, de la monnaie, de la propriété, des ressources et de la satisfaction des besoins matériels. Sont pris en considération première les enjeux écologiques et les conditions matérielles de vie. (15 propositions principales.)
+- **[Information](proposals/categories/information/fr.md)** — Création, acquisition, transmission, traitement, partage et utilisation de l'information et des connaissances. Cela inclut l'éducation, les sciences, les médias, la communication, la qualité du débat public, la réflexion critique, les systèmes d'information et les outils numériques. (3 propositions principales.)
+
+Chaque proposition figure dans une seule catégorie principale ; les pages thématiques listent également les propositions associées par catégorie secondaire. Le [catalogue complet](proposals/README.fr.md) présente aussi les statuts.
 
 Les 25 propositions sont au statut `in_progress`. Leur création ne vaut pas approbation.
 
