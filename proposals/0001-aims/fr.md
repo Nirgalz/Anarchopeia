@@ -7,14 +7,16 @@
 | ID | AP-0001 |
 | Catégorie principale | [Anarchopeia](../categories/anarchopeia/fr.md) (`anarchopeia`) |
 | Catégories secondaires | Aucune |
-| Statut | `awaiting_approval` |
+| Statut | `approved` |
 | Version de travail | 0.4 |
-| Version approuvée | Aucune |
+| Version approuvée | 0.4 |
+| Décision | Approbation explicite de l'initiateur, 16 novembre 2026 (lien vers la PR de décision à ajouter) |
+| Version approuvée archivée | [v0.4 soumise à approbation](https://github.com/Nirgalz/Anarchopeia/blob/f89fc77244546047f83e01d71b05ea5bdbfc7b41/proposals/0001-aims/fr.md) |
 | Portée | Finalités fondamentales et démarche |
 | Origine | Échanges avec l'initiateur, 16 novembre 2026 ; ancien [document de discussion](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/fr/foundations/aims-emancipation-and-non-domination.md) |
 | Traduction | [English](en.md) |
 
-**Statut éditorial :** la version de travail 0.4 a été soumise à approbation formelle à la demande de l'initiateur. Elle n'est pas approuvée et son texte candidat n'a pas été intégré au manifeste.
+**Statut éditorial :** la version 0.4 a été **explicitement approuvée par l'initiateur le 16 novembre 2026** et son texte candidat a été intégré au [manifeste](../../manifesto/fr.md). Cette décision est éditoriale, non une ratification collective ; une révision ultérieure restera possible.
 
 ## Problème
 
@@ -115,3 +117,14 @@ L'[introduction historique](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af
 - **2026-11-16 — v0.3, `in_progress` :** Ajout de pistes de recherche issues des notes historiques sans adopter leurs affirmations ; texte proposé pour le manifeste inchangé.
 - **2026-11-16 — v0.4, `in_progress` :** arbitrages, horizon anarchique et pertinence de la révision clarifiés ; critiques et évaluation renforcées ; nouveau texte candidat validé comme brouillon par l'initiateur. Aucune approbation formelle ni intégration au manifeste.
 - **2026-11-16 — v0.4, `awaiting_approval` :** Soumission de la version candidate 0.4 inchangée à l'approbation éditoriale formelle, à la demande de l'initiateur. Aucune décision d'approbation ni publication dans le manifeste.
+- **2026-11-16 — v0.4, `approved`:** Approbation explicite par l'initiateur ; texte candidat publié dans le manifeste, avec limites documentées.
+
+### Décision d'approbation — 16 novembre 2026
+
+- **Décision :** l'initiateur d'Anarchopoeia approuve explicitement **AP-0001 v0.4**, préalablement soumise au statut `awaiting_approval`. Elle devient la première proposition approuvée et son texte candidat est publié dans le manifeste.
+- **Autorité :** initiateur du projet, seul responsable éditorial selon la gouvernance provisoire. **Aucune ratification collective n'est revendiquée.**
+- **Motifs :** reconnaissance des deux finalités distinctes et de même importance ; arbitrages explicites et révisables ; horizon anarchique sans garantie de stabilisation permanente ; démarche capable de maintenir, transformer ou abandonner une institution selon ses effets.
+- **Alternatives examinées :** donner priorité à une seule finalité ; fixer une architecture anarchique définitive ; concevoir la transition comme une étape achevée ; imposer le changement institutionnel comme fin en soi. Ces options restent discutables, sans être adoptées.
+- **Objections et limites non résolues :** absence de critère universel d'arbitrage ; risques de pouvoirs éditoriaux concentrés ; difficulté à évaluer des effets complexes ; dommages possibles de l'expérimentation. La décision n'établit pas que ces questions sont résolues.
+- **Révision :** toute modification substantielle de la version approuvée suit le workflow, sans remplacer tacitement le texte en vigueur.
+- **Traçabilité :** version candidate [AP-0001 v0.4 avant approbation](https://github.com/Nirgalz/Anarchopeia/blob/f89fc77244546047f83e01d71b05ea5bdbfc7b41/proposals/0001-aims/fr.md) ; décision GitHub liée dans les métadonnées une fois la PR créée.
