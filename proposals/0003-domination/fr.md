@@ -62,6 +62,18 @@ Propositions liées : [Finalités](../0001-aims/fr.md) (approuvée v0.4), [Éman
 
 Ces alternatives doivent être examinées à partir de cas concrets et de contre-exemples, plutôt que réputées déjà réfutées.
 
+### Approches théoriques comparées — recherches non adoptées
+
+La recherche distingue également des conceptions rivales qui ne correspondent pas exactement aux alternatives ci-dessus :
+
+- **Républicanisme néoclassique (Philip Pettit) :** la domination dépend surtout d'un pouvoir d'interférence discrétionnaire ou insuffisamment contrôlé, même non exercé. AP-0003 s'en rapproche, mais ajoute un vocabulaire de justification dont la place dans le critère d'arbitraire doit être clarifiée. [Synthèse académique](https://plato.stanford.edu/entries/republicanism/).
+- **Conception de Frank Lovett :** la domination combine **dépendance dans une relation sociale** et pouvoir arbitraire ; les **coûts de sortie** aident à caractériser la dépendance. AP-0003 considère celle-ci comme un facteur fréquent, non comme une condition explicitement nécessaire. [Ouvrage et résumés des chapitres](https://academic.oup.com/book/6656).
+- **Conception institutionnelle et participative (Iris Marion Young) :** la domination se manifeste quand les personnes ne participent pas effectivement à la détermination de leurs actions ou de leurs conditions d'action. AP-0003 privilégie les limites et recours contre l'arbitraire, sans faire de la codétermination un critère suffisant ou nécessaire. [Ouvrage](https://www.jstor.org/stable/j.ctvcm4g4q).
+- **Conception sociologique de l'autorité (Max Weber, `Herrschaft`) :** un ordre de domination peut être décrit par l'obéissance à une autorité tenue pour légitime, sans postuler qu'il soit moralement injuste. AP-0003 réserve le mot « domination » à un pouvoir arbitraire et politiquement critiquable. [Synthèse SEP](https://plato.stanford.edu/entries/weber/).
+- **Droit à la justification (Rainer Forst) et approches normatives :** l'absence d'égalité dans la participation à la justification des normes est centrale. AP-0003 mentionne des justifications sans préciser un droit égal des personnes concernées à les demander et à les contester. [Présentation critique et comparative](https://plato.stanford.edu/archives/win2025/entries/domination/).
+
+Ces orientations sont **des objets de comparaison**, non des fondements nouvellement approuvés. Voir la section Recherche pour les convergences, divergences et limites documentaires.
+
 ## Critiques et limites
 
 - **Critères normatifs discutables :** qui juge qu'une justification, une limite ou un recours est « suffisant » ? Une majorité, une autorité spécialisée ou une procédure légale peuvent elles-mêmes dominer une minorité. La définition ne fournit pas encore de test universel de légitimité.
@@ -72,6 +84,17 @@ Ces alternatives doivent être examinées à partir de cas concrets et de contre
 - **Recours formels insuffisants :** des délais, coûts, risques de représailles ou informations inaccessibles peuvent rendre la contestation illusoire. Un recours effectif après coup ne répare pas nécessairement toutes les atteintes.
 - **Effets des remèdes :** des dispositifs de protection peuvent créer de nouveaux pouvoirs administratifs, des dépendances ou des contraintes affectant d'autres personnes.
 - **Limites de la Méthode :** les NEEDs, CANs et évaluations de Pouvoir facilitent la structuration d'hypothèses, mais ne prouvent ni le caractère arbitraire d'une relation ni l'efficacité réelle d'une réforme ; les algorithmes et la validation empirique du cadre restent en développement.
+
+### Objections complémentaires issues de la littérature
+
+- **Dépendance nécessaire ou circonstancielle ?** Pour Lovett, le coût d'une sortie crédible est central ; sans condition minimale de dépendance, AP-0003 pourrait qualifier de domination des menaces ou interférences graves mais ponctuelles, que d'autres théories classent autrement. Rendre la dépendance nécessaire risquerait inversement d'écarter certains mécanismes systémiques.
+- **Arbitraire procédural ou substantiel ?** Le républicanisme distingue des critères de contrôle procédural et de contrôle démocratique. AP-0003 combine contrôle, limites et justification : il reste à déterminer si de bonnes raisons invoquées par l'autorité peuvent compenser un défaut de contrôle des personnes affectées, ou si un contrôle procédural suffit face à des règles substantiellement injustes.
+- **Participation effective ou simple recours ?** Young et certaines théories du droit à la justification accordent un rôle constitutif à l'influence des personnes sur les règles qui les gouvernent. Une voie d'appel accessible peut ne pas donner la moindre prise sur la définition initiale de ces règles.
+- **Portée normative du mot « domination » :** chez Weber, `Herrschaft` est d'abord un objet sociologique et peut être dit légitime ; AP-0003 emploie un concept politiquement négatif. Il faut éviter de prétendre que l'existence d'une autorité au sens wébérien réfute ou prouve une domination au sens d'AP-0003.
+- **Pouvoir diffus, normalisation et domination :** les approches foucaldiennes et féministes étudient aussi la constitution des conduites, les normes intériorisées et des relations durablement verrouillées. Le seul langage d'interférence et de recours pourrait négliger certains mécanismes de pouvoir, sans que toute influence culturelle soit pour autant une domination.
+- **Sur-extension de la définition :** la possibilité de peser sur des choix mineurs n'est pas automatiquement équivalente à une vulnérabilité grave. Examiner la portée, la crédibilité, les coûts de sortie, le statut social et les effets durables afin d'éviter de qualifier toutes les interactions ordinaires de domination.
+
+Ces objections sont documentées pour l'examen de la version candidate **sans modification de son texte**. Elles ne sont ni résolues par la consultation des sources ni automatiquement transformées en nouvelles conditions de la définition.
 
 ## Évaluation
 
@@ -87,6 +110,19 @@ Ces alternatives doivent être examinées à partir de cas concrets et de contre
 
 **Traçabilité des affirmations :** indiquer pour chaque conclusion importante ses hypothèses, les éléments probants et contradictoires, leurs limites, les autres explications possibles et ce qui demeure indéterminé. Une déduction valide dans un modèle n'est pas automatiquement une démonstration empirique. Aucun score global ou classement automatique des scénarios n'est présupposé.
 
+### Tests comparatifs inspirés de la recherche
+
+En complément des opérations précédentes, soumettre la définition à des **contre-exemples opposant les écoles étudiées** :
+
+- **Pouvoir non exercé :** une autorité dispose d'une faculté d'intervention arbitraire crédible mais ne l'utilise pas. AP-0003 la qualifie-t-elle sans inférer l'exercice de cette faculté ?
+- **Faibles coûts de sortie :** une personne peut quitter aisément une relation où une interférence arbitraire est possible. L'absence de dépendance change-t-elle la qualification, l'intensité, ou seulement les dommages anticipés ? Comparer avec Lovett.
+- **Contrôle sans participation :** une personne dispose d'un recours individuel indépendant, mais n'a aucune influence sur les règles collectives qui définissent sa situation. Comparer les diagnostics issus des critères de contrôle et de participation (Young, Pettit).
+- **Règle légale mais contestée :** une autorité reconnue comme légitime par certains applique une règle défavorable à d'autres. Distinguer légitimité sociologique (Weber), justification normative et protections effectives.
+- **Pouvoir intériorisé :** une norme sociale réduit durablement les options de certains groupes sans décision explicite d'un agent unique. Identifier les relations, les mécanismes et les preuves plutôt que présumer l'arbitraire.
+- **Interférence ponctuelle :** un dommage ou une menace isolée est grave sans instituer de relation durable. Examiner si toute interférence injuste doit être qualifiée de domination ou si d'autres notions sont nécessaires.
+
+Pour chaque test, conserver **plusieurs interprétations concurrentes**, préciser quelles observations permettraient de les départager et conclure `indéterminé` si la preuve ou le critère normatif ne permet pas de trancher. Ne pas confondre accord avec une école, validation scientifique et approbation éditoriale.
+
 ## Texte proposé pour le manifeste
 
 **La domination** est une relation ou une configuration systémique dans laquelle un individu ou un groupe est exposé à un pouvoir arbitraire, effectivement exercé ou susceptible de l'être de manière crédible, sur ses possibilités d'action ou ses conditions d'existence, sans disposer de garanties suffisamment effectives pour le contrôler, le limiter ou le contester.
@@ -100,6 +136,35 @@ La domination peut être interpersonnelle, institutionnelle ou systémique. Elle
 La disparition des rapports de domination implique d'identifier et de transformer les mécanismes qui permettent l'exercice de pouvoirs arbitraires. Les transformations envisagées doivent être évaluées selon leurs effets sur les personnes et les groupes concernés, notamment lorsqu'elles créent de nouvelles dépendances ou concentrations de pouvoir.
 
 ## Recherche
+
+### Recherche comparative sur les définitions de « domination » — 16 novembre 2026
+
+**Question :** dans quelle mesure la définition candidate d'AP-0003 v0.4 se distingue-t-elle des conceptions reconnues en philosophie politique, sociologie et théorie critique ? Cette comparaison est **descriptive et critique** ; elle n'adopte aucune théorie externe et ne modifie ni la définition proposée ni son statut éditorial.
+
+**Synthèse :** la définition d'AP-0003 se rattache surtout à la **non-domination néorépublicaine** (pouvoir arbitraire potentiellement non exercé), tout en accueillant des **configurations systémiques** et en ajoutant explicitement des **justifications, limites et recours effectifs**. Cette combinaison est cohérente comme proposition normative, mais ne correspond pas exactement à une définition académique unique. La documentation de Richard C. McCammon distingue notamment les théories normatives ou descriptives, fondées ou non sur les normes sociales, ainsi que les débats sur les agents et les structures. [Stanford Encyclopedia of Philosophy, révision 2025](https://plato.stanford.edu/archives/win2025/entries/domination/).
+
+| Approche | Définition ou critère privilégié | Convergence avec AP-0003 | Divergence ou question laissée ouverte |
+| --- | --- | --- | --- |
+| **Philip Pettit / néorépublicanisme** | Exposition à un pouvoir d'interférence discrétionnaire, insuffisamment contrôlé, même inexercé | Très forte : pouvoir potentiel et garanties pratiques | AP-0003 met aussi l'accent sur les justifications ; comment concilier contrôle procédural, contrôle des personnes concernées et justification substantielle ? |
+| **Frank Lovett** | Dépendance relationnelle et pouvoir arbitraire ; importance des coûts de sortie | Forte : dépendances, crédibilité, caractère non exercé du pouvoir | La dépendance n'est **pas une condition nécessaire explicite** dans AP-0003 ; son absence peut élargir la définition |
+| **Iris Marion Young** | Structures empêchant une participation réciproque à la détermination des actions et de leurs conditions | Forte pour la domination systémique et l'absence de contrôle | AP-0003 ne fait pas de la **codétermination** un critère propre ; un recours pourrait être réel sans participation aux règles |
+| **Michel Foucault** | Distinction entre relations de pouvoir mobiles et états de domination où les rapports se figent et deviennent très difficilement réversibles | Proximité : refus de confondre tout pouvoir avec domination ; attention aux relations et aux mécanismes | AP-0003 explicite davantage l'arbitraire normatif, et moins les mécanismes de normalisation et la fermeture des pratiques de liberté |
+| **Rainer Forst / droit à la justification** | Déni de l'égalité des personnes comme destinataires et coauteurs des justifications des règles qui les affectent | Proximité : importance de la justification et de la contestation | AP-0003 ne définit pas encore les exigences **d'égalité justificative** ou de participation aux décisions |
+| **Max Weber / `Herrschaft`** | Rapport d'autorité et probabilité d'obéissance à des commandements considérés comme légitimes, étudiés sociologiquement | Intérêt pour l'analyse de l'obéissance et des mécanismes de légitimation | Différence **fondamentale de sens** : un ordre wébérien peut être « légitime » sociologiquement, alors qu'AP-0003 désigne une domination normativement condamnable |
+| **Approches féministes et structurelles** | Rapports de subordination et systèmes de normes liés au genre, à la classe ou à d'autres positions sociales ; certaines étudient l'intériorisation et la production des sujets | Proximité : sources systémiques, absence d'intention, effets sur des groupes | Une approche centrée sur l'interférence et les recours peut sous-décrire certaines formes de subordination culturellement reproduites |
+
+**Précisions sur les sources :** Pettit est présenté ici à travers les synthèses de la SEP ; Lovett à travers les résumés éditoriaux accessibles de son ouvrage (l'intégralité du livre n'a pas été vérifiée) ; Young à travers le résumé éditorial et les analyses académiques ; Foucault à travers l'entretien de 1984 publié en traduction ; Forst est présenté par la synthèse de McCammon et non par un examen intégral de sa théorie ; Weber à travers la synthèse de la SEP. Les approches féministes ne constituent pas une définition homogène. Les sources et leurs limites figurent en Références.
+
+#### Principales différences à conserver à l'examen
+
+1. **Dépendance : condition ou facteur ?** La définition d'AP-0003 peut inclure une menace arbitraire crédible même si la personne dispose d'une voie de sortie relativement peu coûteuse. Chez Lovett, la dépendance est constitutive de la domination. Il faut chercher des contre-exemples plutôt que décider par intuition.
+2. **Contrôle, justification et participation :** AP-0003 juxtapose ces garanties sans encore expliciter lesquelles sont nécessaires ou suffisantes. Les approches procédurales (contrôle effectif), démocratiques (contrôle des personnes concernées) et fondées sur l'égalité justificative ne conduisent pas nécessairement au même diagnostic.
+3. **Domination systémique sans « maître » identifiable :** AP-0003 admet des mécanismes sans contrôleur unique. C'est plus large que certaines formulations dyadiques néorépublicaines, mais compatible avec des travaux sur les structures. Il faut identifier les règles, pratiques et relations plutôt que personnifier tout un système.
+4. **Domination et oppression :** Young distingue ces notions qui se recoupent sans être identiques ; un préjudice ou une privation ne prouve pas, à lui seul, une domination au sens d'AP-0003. Cette distinction doit être confrontée à la notion d'émancipation d'AP-0002.
+5. **Domination et légitimité :** le même mot désigne des objets de recherche différents chez Weber et dans AP-0003. La proposition doit affirmer le caractère normatif de son propre usage, sans traiter les catégories wébériennes comme des réfutations.
+6. **Seuil et portée :** une possibilité minime de gêner un choix banal peut être contrôlée de façon imparfaite sans constituer nécessairement une domination significative. La crédibilité, les intérêts affectés, la dépendance, les possibilités de sortie et les effets durables contribuent à la mise à l'épreuve de la qualification.
+
+**Conclusion de recherche :** les sources ne justifient **aucune modification automatique** du texte candidat déjà soumis. Le dossier devrait garder ouvertes, lors de l'approbation, au moins trois décisions : statut exact de la **dépendance**, articulation entre **justification et contrôle**, rôle éventuel de la **participation à l'élaboration des règles**. L'acceptation d'une définition propre à Anarchopoeia relève d'un choix explicite et révisable, pas d'une prétendue unanimité des auteurs.
 
 ### Cadre d'investigation contextualisée — adaptation expérimentale
 
@@ -132,6 +197,21 @@ Les [anciens principes fondateurs](https://github.com/Nirgalz/Anarchopeia/blob/0
 
 ## Références
 
+### Sources académiques identifiées et consultées
+
+- **Richard C. McCammon (2025), « Domination »**, *Stanford Encyclopedia of Philosophy*, édition hiver 2025, première publication 2018, révision substantielle 26 septembre 2025. [Texte stable](https://plato.stanford.edu/archives/win2025/entries/domination/). **Source de synthèse principale** : agents/structures, domination potentielle, quatre familles de définitions et débats d'arbitraire.
+- **« Republicanism »**, *Stanford Encyclopedia of Philosophy*, révision 12 août 2026. [Article](https://plato.stanford.edu/entries/republicanism/), surtout sections 1.2 et 2.2. **Synthèse secondaire** de Pettit, Lovett et des critères procéduraux et démocratiques de non-arbitraire.
+- **Frank Lovett (2010), *A General Theory of Domination and Justice***, Oxford University Press. [Présentation de l'ouvrage](https://academic.oup.com/book/6656) ; [résumé du chapitre sur la dépendance](https://academic.oup.com/book/6656/chapter-abstract/150686500). **Résumé éditorial consulté seulement** : dépendance, pouvoir arbitraire, coûts de sortie ; le livre complet n'a pas été examiné.
+- **Iris Marion Young (1990), *Justice and the Politics of Difference***, Princeton University Press. [Présentation et données bibliographiques](https://www.jstor.org/stable/j.ctvcm4g4q). **Source primaire identifiée**, interprétation institutionnelle et participative corroborée par la synthèse de McCammon ; l'ouvrage intégral n'a pas été examiné.
+- **Michel Foucault (entretien du 20 janvier 1984), « The Ethics of the Concern for Self as a Practice of Freedom »**, repris en traduction dans *Ethics: Subjectivity and Truth* (1997). [Texte de l'entretien, extrait universitaire](https://pages.uoregon.edu/koopman/events_readings/cgc/foucault_ethics_concern_for_self.pdf). **Extrait consulté** : distinction entre rapports de pouvoir mobiles et états de domination figés.
+- **« Max Weber »**, *Stanford Encyclopedia of Philosophy*, section 6.1 « Domination and Legitimacy ». [Article](https://plato.stanford.edu/entries/weber/). **Source secondaire** sur `Herrschaft`, la légitimité sociologique et les trois formes typiques d'autorité.
+- **« Feminist Perspectives on Power »**, *Stanford Encyclopedia of Philosophy*, révision 2021. [Article](https://plato.stanford.edu/entries/feminist-power/). **Synthèse secondaire** des approches féministes, intersectionnelles et poststructuralistes, sans leur attribuer une thèse commune.
+- **Rainer Forst**, concept du droit à la justification, **présenté indirectement par McCammon (2025)**. [Synthèse et positionnement](https://plato.stanford.edu/archives/win2025/entries/domination/). Lecture de l'œuvre primaire et comparaison exacte de ses critères à poursuivre.
+
+**Portée des vérifications :** les pages citées ont été consultées pour cette comparaison ; les résumés et articles encyclopédiques **ne remplacent pas la lecture intégrale des ouvrages**. Aucune donnée empirique indépendante n'a été recueillie sur la prévalence ou les effets de rapports de domination. Les formulations françaises résument les positions et ne constituent pas des citations littérales.
+
+
+
 **Pistes de lecture, non encore vérifiées :** Philip Pettit sur la liberté comme non-domination ; théories critiques des dominations structurelles ; Michel Foucault sur les mécanismes de pouvoir ; recherches sur la responsabilité institutionnelle, la contestabilité et la gouvernance polycentrique. Les ouvrages, éditions, arguments précis et éléments empiriques pertinents doivent encore être vérifiés.
 
 **Référence méthodologique consultée (distincte des preuves empiriques) :** [Trialectic Method — Reference, branche `dev`, commit `3c3b5c8`](https://github.com/Nirgalz/trialectic/blob/3c3b5c831ce3afd86d7a5c654b167fe97502d30e/reference/trialectic-method.md) ; [guide pratique français](https://github.com/Nirgalz/trialectic/blob/3c3b5c831ce3afd86d7a5c654b167fe97502d30e/docs/fr/guide-pratique.md) ; [modèle d'évaluation du Pouvoir](https://github.com/Nirgalz/trialectic/blob/3c3b5c831ce3afd86d7a5c654b167fe97502d30e/reference/power-evaluation.md). Le cadre est en développement et **n'est pas scientifiquement validé**.
@@ -143,3 +223,4 @@ Les [anciens principes fondateurs](https://github.com/Nirgalz/Anarchopeia/blob/0
 - **2026-11-16 — v0.3, `in_progress` :** Ajout de pistes de recherche issues des notes historiques sans adopter leurs affirmations ; texte proposé pour le manifeste inchangé.
 - **2026-11-16 — v0.4, `in_progress` :** définition de l'arbitraire, distinction qualification/intensité, domination potentielle et systémique, analyse des mécanismes et recours effectifs ; scénarios et réévaluation récursive inspirés de la Méthode trialectique (`dev`, référence datée), exemple hypothétique et critères de preuve. Texte candidat remplacé ; aucune approbation.
 - **2026-11-16 — v0.4, `awaiting_approval` :** soumission de la version 0.4 inchangée à l'approbation éditoriale après vérification des critères d'arbitraire et de la distinction entre qualification et intensité ; le seuil de suffisance des garanties reste une question ouverte reconnue. Aucune approbation ni intégration au manifeste.
+- **2026-11-16 — v0.4, `awaiting_approval` :** ajout d'une recherche bibliographique comparative sourcée dans Alternatives, Critiques, Évaluation, Recherche et Références ; distinction des apports et divergences (Pettit, Lovett, Young, Foucault, Forst, Weber) et des limites de vérification. Définition, texte candidat, version et statut inchangés.
