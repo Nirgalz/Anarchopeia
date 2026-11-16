@@ -7,6 +7,7 @@ A **proposal** contains its claim or institutional design, its argumentation, ev
 | AP-0001 | [Aims](0001-aims/en.md) | `in_progress` | None |
 | AP-0002 | [Emancipation](0002-emancipation/en.md) | `in_progress` | None |
 | AP-0003 | [Domination](0003-domination/en.md) | `in_progress` | None |
+| AP-0004 | [Licensing and contributors' rights](0004-licensing/en.md) | `in_progress` | None |
 
 The three status values are `in_progress`, `awaiting_approval`, and `approved`. A revision uses the **same** cycle; `revision_approved` is a decision event, not a fourth status. Unapproved versions are never placed in the manifesto.
 

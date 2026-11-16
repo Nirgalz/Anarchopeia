@@ -7,6 +7,7 @@ Une **proposition** rassemble son énoncé ou mécanisme institutionnel, son arg
 | AP-0001 | [Finalités](0001-aims/fr.md) | `in_progress` | Aucune |
 | AP-0002 | [Émancipation](0002-emancipation/fr.md) | `in_progress` | Aucune |
 | AP-0003 | [Domination](0003-domination/fr.md) | `in_progress` | Aucune |
+| AP-0004 | [Licence et droits des contributeurs](0004-licensing/fr.md) | `in_progress` | Aucune |
 
 Les trois statuts sont `in_progress`, `awaiting_approval` et `approved`. Une révision recommence le **même** cycle ; `revision_approved` est un événement de décision, pas un quatrième statut. Une version non approuvée n'entre jamais dans le manifeste.
 
