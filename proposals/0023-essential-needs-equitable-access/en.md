@@ -16,7 +16,7 @@
 
 ## Problem
 
-The [historical foundational notes](../../txt/principes%20fondateurs.txt) declare housing, safe food and water, education and freedom to develop activities to be basic conditions of a decent life. The [older equity discussion](../../txt/puissance%20pouvoir%20et%20resolution.txt) distinguishes **identical allocation** from assistance adapted to different needs, including disability. Their designation as universally enforceable rights requires further institutional and legal design.
+The [historical foundational notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/principes%20fondateurs.txt) declare housing, safe food and water, education and freedom to develop activities to be basic conditions of a decent life. The [older equity discussion](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/puissance%20pouvoir%20et%20resolution.txt) distinguishes **identical allocation** from assistance adapted to different needs, including disability. Their designation as universally enforceable rights requires further institutional and legal design.
 
 ## Objectives
 
@@ -44,11 +44,11 @@ Anarchopoeia examines ways to ensure everyone can effectively access the conditi
 
 ## Research
 
-The [historical founding principles](../../txt/principes%20fondateurs.txt) use the language of inalienable rights; the [older text on potentials and equity](../../txt/puissance%20pouvoir%20et%20resolution.txt) argues that equal treatment may require unequal assistance. Separate legal rights, ethical aspirations and practical guarantees. Examine universal versus needs-sensitive allocation, the cost of social infrastructure and fair procedures for resolving conflicts among legitimate needs.
+The [historical founding principles](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/principes%20fondateurs.txt) use the language of inalienable rights; the [older text on potentials and equity](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/puissance%20pouvoir%20et%20resolution.txt) argues that equal treatment may require unequal assistance. Separate legal rights, ethical aspirations and practical guarantees. Examine universal versus needs-sensitive allocation, the cost of social infrastructure and fair procedures for resolving conflicts among legitimate needs.
 
 ## References
 
-**Historical leads:** [principes fondateurs.txt](../../txt/principes%20fondateurs.txt); [puissance pouvoir et resolution.txt](../../txt/puissance%20pouvoir%20et%20resolution.txt). **External research:** to develop on minimum social guarantees, accessibility, disability rights, public services and distributive justice.
+**Historical leads:** [principes fondateurs.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/principes%20fondateurs.txt); [puissance pouvoir et resolution.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/puissance%20pouvoir%20et%20resolution.txt). **External research:** to develop on minimum social guarantees, accessibility, disability rights, public services and distributive justice.
 
 ## Revision history
 

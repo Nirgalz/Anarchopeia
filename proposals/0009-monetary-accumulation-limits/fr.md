@@ -48,7 +48,7 @@ Comparer les expériences historiques de monnaie fondante et les modèles monét
 
 ### Notes historiques à examiner — non adoptées
 
-Le [brouillon éco-politique](../../txt/ecopolitique.txt) décrit une **dépréciation dépendant de l'âge de chaque unité monétaire** jusqu'à disparition ; « 50 % par mois » est une illustration chiffrée, non un paramètre recommandé. Distinguer dépréciation unitaire, inflation et fiscalité. Modéliser effets sur l'épargne, la planification, les paiements et le report vers des actifs réels. Les [principes historiques](../../txt/principes%20fondateurs.txt) proposent prévention des contournements et correction rapide des failles ; la modification de ces règles doit elle-même être contestable.
+Le [brouillon éco-politique](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) décrit une **dépréciation dépendant de l'âge de chaque unité monétaire** jusqu'à disparition ; « 50 % par mois » est une illustration chiffrée, non un paramètre recommandé. Distinguer dépréciation unitaire, inflation et fiscalité. Modéliser effets sur l'épargne, la planification, les paiements et le report vers des actifs réels. Les [principes historiques](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/principes%20fondateurs.txt) proposent prévention des contournements et correction rapide des failles ; la modification de ces règles doit elle-même être contestable.
 
 ## Références
 

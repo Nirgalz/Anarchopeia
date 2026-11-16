@@ -48,7 +48,7 @@ Examine the distinction between delegation and domination; compare polycentric g
 
 ### Historical notes to investigate — not adopted
 
-The [economic-political notes](../../txt/ecopolitique.txt) propose **one person, one vote**, citizen-initiated texts and issue-by-issue, revocable delegation to experts or representatives. Monthly votes and a 2% endorsement threshold are **illustrations, not adopted rules**; study access, turnout, minority protections, confidentiality and manipulation risk. The [critique of political identification](../../txt/critiques.txt) favors examining arguments over personalities. Cross-reference the new delegated-voting proposal.
+The [economic-political notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) propose **one person, one vote**, citizen-initiated texts and issue-by-issue, revocable delegation to experts or representatives. Monthly votes and a 2% endorsement threshold are **illustrations, not adopted rules**; study access, turnout, minority protections, confidentiality and manipulation risk. The [critique of political identification](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/critiques.txt) favors examining arguments over personalities. Cross-reference the new delegated-voting proposal.
 
 ## References
 

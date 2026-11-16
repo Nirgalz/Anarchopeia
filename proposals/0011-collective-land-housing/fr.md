@@ -48,7 +48,7 @@ Comparer les formes juridiques et pratiques ; étudier l'occupation, l'indemnisa
 
 ### Notes historiques à examiner — non adoptées
 
-Les [principes fondateurs](../../txt/principes%20fondateurs.txt) évoquent une limite d'**un logement par personne**, la gestion collective des logements de mobilité ou faiblement occupés, un contrôle public et des restrictions d'héritage. Ce sont **des hypothèses politiques fortes**, non des règles validées. Étudier droits au logement, indemnisation, gouvernance des habitants, situations familiales, mobilité, succession, vacance et dommages possibles. Ne pas confondre résidence, propriété et occupation.
+Les [principes fondateurs](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/principes%20fondateurs.txt) évoquent une limite d'**un logement par personne**, la gestion collective des logements de mobilité ou faiblement occupés, un contrôle public et des restrictions d'héritage. Ce sont **des hypothèses politiques fortes**, non des règles validées. Étudier droits au logement, indemnisation, gouvernance des habitants, situations familiales, mobilité, succession, vacance et dommages possibles. Ne pas confondre résidence, propriété et occupation.
 
 ## Références
 

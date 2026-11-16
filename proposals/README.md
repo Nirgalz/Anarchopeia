@@ -32,7 +32,7 @@ A **proposal** contains its claim or institutional design, its argumentation, ev
 
 **Proposals AP-0005–AP-0019** are separate draft options extracted from the author's article *« Pour sortir du capitalisme et instaurer une gouvernance proto-anarchique »* (conversation of 16 November 2026). Their assertions require research; no listed mechanism has been adopted.
 
-**Proposals AP-0020–AP-0025** arose from reviewing all ten files in the historical [`txt/` archive](../txt/). They are **independent hypotheses to test**, not approved positions. Proposals AP-0001–AP-0003 and AP-0005–AP-0019 also contain clearly marked historical research leads; their proposed manifesto entries were not changed during this review. The older trialist terminology, psychological typologies and absolute claims about authority or beliefs are **not imported as settled project foundations**.
+**Proposals AP-0020–AP-0025** arose from reviewing all ten files in the historical [`txt/` archive](https://github.com/Nirgalz/Anarchopeia/tree/0d8963af515be54957f767531017aff3d6881955/txt). They are **independent hypotheses to test**, not approved positions. Proposals AP-0001–AP-0003 and AP-0005–AP-0019 also contain clearly marked historical research leads; their proposed manifesto entries were not changed during this review. The older trialist terminology, psychological typologies and absolute claims about authority or beliefs are **not imported as settled project foundations**.
 
 The three status values are `in_progress`, `awaiting_approval`, and `approved`. A revision uses the **same** cycle; `revision_approved` is a decision event, not a fourth status. Unapproved versions are never placed in the manifesto.
 

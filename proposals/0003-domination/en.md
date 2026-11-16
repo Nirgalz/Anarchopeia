@@ -92,7 +92,7 @@ Research to develop within this proposal:
 
 ### Historical notes to investigate — not adopted
 
-The [older founding principles](../../txt/principes%20fondateurs.txt) restrict specialized or emergency authority to expertise and limited scope. Compare this with the current definition: **expertise alone does not legitimate arbitrary authority**. The [moral essay](../../txt/morale.txt) sometimes rejects *every* authority, conflicting with the more precise distinction between legitimate coordination and domination. Investigate the tension rather than adopting either absolute claim; also consider informal prestige and personality cults.
+The [older founding principles](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/principes%20fondateurs.txt) restrict specialized or emergency authority to expertise and limited scope. Compare this with the current definition: **expertise alone does not legitimate arbitrary authority**. The [moral essay](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/morale.txt) sometimes rejects *every* authority, conflicting with the more precise distinction between legitimate coordination and domination. Investigate the tension rather than adopting either absolute claim; also consider informal prestige and personality cults.
 
 ## References
 

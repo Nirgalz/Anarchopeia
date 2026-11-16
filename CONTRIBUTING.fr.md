@@ -14,7 +14,7 @@ Pour toute modification substantielle du manifeste, y compris de ses finalités,
 
 Critiquer les arguments plutôt que les personnes. Protéger la participation respectueuse et la possibilité de remettre en question les fondements du projet.
 
-Lire le [workflow](WORKFLOW.fr.md), la [gouvernance provisoire](GOVERNANCE.fr.md) et le [guide des traductions](i18n/README.fr.md). Les notes [`txt/`](txt/) sont préservées pour plus tard, sans adoption.
+Lire le [workflow](WORKFLOW.fr.md), la [gouvernance provisoire](GOVERNANCE.fr.md) et le [guide des traductions](i18n/README.fr.md). Les anciennes notes de travail ont été retirées de l'arborescence active ; les propositions peuvent citer les versions historiques sans en présumer l'adoption.
 
 ## Licence
 

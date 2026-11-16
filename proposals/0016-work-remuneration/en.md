@@ -48,7 +48,7 @@ Review wage-setting theories and collective bargaining mechanisms; define risk a
 
 ### Historical notes to investigate — not adopted
 
-The [older text on potentials and conditions](../../txt/puissance%20pouvoir%20et%20resolution.txt) and the [economic model](../../txt/ecopolitique.txt) suggest using **skill rarity, training time, task urgency, hardship, danger and social usefulness** as remuneration signals. These criteria may conflict: higher compensation for danger must not replace risk prevention; collective usefulness rankings can marginalize minority activities. The notes distinguish **equity from identical treatment**, including different support needs. Study whether an adaptive system can be fair, legible and contestable without measuring human worth.
+The [older text on potentials and conditions](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/puissance%20pouvoir%20et%20resolution.txt) and the [economic model](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) suggest using **skill rarity, training time, task urgency, hardship, danger and social usefulness** as remuneration signals. These criteria may conflict: higher compensation for danger must not replace risk prevention; collective usefulness rankings can marginalize minority activities. The notes distinguish **equity from identical treatment**, including different support needs. Study whether an adaptive system can be fair, legible and contestable without measuring human worth.
 
 ## References
 

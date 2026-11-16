@@ -8,7 +8,7 @@
 - Manifesto: `manifesto/en.md`, `manifesto/fr.md`, then `manifesto/<tag>.md`.
 - Proposals: `proposals/0001-aims/en.md`, `proposals/0001-aims/fr.md`, then `proposals/0001-aims/<tag>.md`; keep the **same numbered English-slug directory** across languages.
 - Governance, workflow and contribution guidance: English root files with `.fr.md` and later language-suffixed variants.
-- The historical `txt/` folder is not a translation target.
+- Historical working notes previously stored in `txt/` have been removed from the active tree and are not translation targets.
 
 Use standard BCP 47 codes such as `es`, `de`, `pt-BR`. Partial translations are allowed: label missing or outdated translations, rather than producing apparently finished placeholders. Link translated landing pages.
 

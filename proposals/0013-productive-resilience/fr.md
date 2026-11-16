@@ -48,7 +48,7 @@ Distinguer les trois secteurs dans des études détaillées ; cartographier les 
 
 ### Notes historiques à examiner — non adoptées
 
-L'[introduction historique](../../txt/intro.txt) envisage pressions économiques et risques sécuritaires pendant une transition ainsi que des **réseaux internationaux** d'organisations alternatives ; ce sont des scénarios à examiner géopolitiquement, non des prédictions. Les [notes éco-politiques](../../txt/ecopolitique.txt) proposent d'agréger des données localisées d'offres et de besoins à différentes échelles communautaires. Étudier diversification plutôt qu'isolement, confidentialité et coopération transfrontalière. Comparer avec la nouvelle proposition de réseau d'information distribué.
+L'[introduction historique](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/intro.txt) envisage pressions économiques et risques sécuritaires pendant une transition ainsi que des **réseaux internationaux** d'organisations alternatives ; ce sont des scénarios à examiner géopolitiquement, non des prédictions. Les [notes éco-politiques](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) proposent d'agréger des données localisées d'offres et de besoins à différentes échelles communautaires. Étudier diversification plutôt qu'isolement, confidentialité et coopération transfrontalière. Comparer avec la nouvelle proposition de réseau d'information distribué.
 
 ## Références
 

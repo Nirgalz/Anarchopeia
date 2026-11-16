@@ -16,7 +16,7 @@
 
 ## Problème
 
-Un choix démocratique d'investissement exige des informations sur le travail, les équipements et les ressources consommés par un projet. Le [modèle historique](../../txt/ecopolitique.txt) esquisse plusieurs marchés ou domaines de comptabilité, sans préciser comment éviter doubles comptes, raretés, manipulations spéculatives ou demandes contradictoires.
+Un choix démocratique d'investissement exige des informations sur le travail, les équipements et les ressources consommés par un projet. Le [modèle historique](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) esquisse plusieurs marchés ou domaines de comptabilité, sans préciser comment éviter doubles comptes, raretés, manipulations spéculatives ou demandes contradictoires.
 
 ## Objectifs
 
@@ -44,11 +44,11 @@ Anarchopoeia étudie la coordination transparente des projets d'investissement, 
 
 ## Recherche
 
-Le [brouillon historique](../../txt/ecopolitique.txt) distingue investissement, travail, ressources et moyens de production, et esquisse prix de ressources localisés, engagements d'investissement, devises non convertibles et données de demande agrégées. Ce sont des *esquisses*, non une architecture économique testée. Préciser unités cohérentes, comptabilité financière ou physique, contraintes, cycles des projets, ordonnancement et droit de contrôle. Examiner la compatibilité avec les [externalités](../0017-social-environmental-externalities/fr.md) et les [moyens de production collectifs](../0012-collective-production-assets/fr.md).
+Le [brouillon historique](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) distingue investissement, travail, ressources et moyens de production, et esquisse prix de ressources localisés, engagements d'investissement, devises non convertibles et données de demande agrégées. Ce sont des *esquisses*, non une architecture économique testée. Préciser unités cohérentes, comptabilité financière ou physique, contraintes, cycles des projets, ordonnancement et droit de contrôle. Examiner la compatibilité avec les [externalités](../0017-social-environmental-externalities/fr.md) et les [moyens de production collectifs](../0012-collective-production-assets/fr.md).
 
 ## Références
 
-**Source historique :** [ecopolitique.txt](../../txt/ecopolitique.txt). **Recherches externes :** modèles entrées-sorties, planification participative, comptabilité multi-registres, ordonnancement des ressources, gouvernance des communs et performances réelles.
+**Source historique :** [ecopolitique.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt). **Recherches externes :** modèles entrées-sorties, planification participative, comptabilité multi-registres, ordonnancement des ressources, gouvernance des communs et performances réelles.
 
 ## Historique des révisions
 

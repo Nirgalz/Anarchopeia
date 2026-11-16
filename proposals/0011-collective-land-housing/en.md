@@ -48,7 +48,7 @@ Compare legal and practical models; investigate tenure, compensation, allocation
 
 ### Historical notes to investigate — not adopted
 
-The [founding principles](../../txt/principes%20fondateurs.txt) mention a **one-home-per-person** limit, collectively managed housing for mobility or low occupancy, public oversight and restricted inheritance. These are **strong additional policy hypotheses**, not agreed rules. Assess housing rights, compensation, residents' governance, family situations, mobility, inheritance law, vacancy and possible harms. Do not conflate residence, ownership and occupancy.
+The [founding principles](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/principes%20fondateurs.txt) mention a **one-home-per-person** limit, collectively managed housing for mobility or low occupancy, public oversight and restricted inheritance. These are **strong additional policy hypotheses**, not agreed rules. Assess housing rights, compensation, residents' governance, family situations, mobility, inheritance law, vacancy and possible harms. Do not conflate residence, ownership and occupancy.
 
 ## References
 

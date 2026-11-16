@@ -48,7 +48,7 @@ Establish a precise glossary for money, bank deposits, credit and debt; document
 
 ### Historical notes to investigate — not adopted
 
-The [economic-political notes](../../txt/ecopolitique.txt) distinguish credit-based money creation from a possible **advance against future voluntary allocations**, through project subscriptions or commitments. This might still create enforceable obligations and financial risk; it should **not** be presented as eliminating every form of debt. Clarify unit of account, liability, default, right to revoke pledges, and consistency with the proposal on investment rights.
+The [economic-political notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) distinguish credit-based money creation from a possible **advance against future voluntary allocations**, through project subscriptions or commitments. This might still create enforceable obligations and financial risk; it should **not** be presented as eliminating every form of debt. Clarify unit of account, liability, default, right to revoke pledges, and consistency with the proposal on investment rights.
 
 ## References
 

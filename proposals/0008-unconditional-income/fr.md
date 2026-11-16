@@ -48,7 +48,7 @@ Examiner les modèles comparés et les études empiriques sur le revenu de base 
 
 ### Notes historiques à examiner — non adoptées
 
-Les [notes éco-politiques](../../txt/ecopolitique.txt) associent monnaie de consommation distribuée périodiquement et revenu universel. Comparer ce financement avec la redistribution fiscale et les prestations en nature ; une allocation nominale identique ne répond pas nécessairement aux besoins différents. L'[ancienne discussion de l'équité](../../txt/puissance%20pouvoir%20et%20resolution.txt) souligne handicap, accessibilité et diversité des besoins matériels. Examiner l'articulation entre revenu et accès garanti aux biens essentiels (voir nouvelle proposition).
+Les [notes éco-politiques](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) associent monnaie de consommation distribuée périodiquement et revenu universel. Comparer ce financement avec la redistribution fiscale et les prestations en nature ; une allocation nominale identique ne répond pas nécessairement aux besoins différents. L'[ancienne discussion de l'équité](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/puissance%20pouvoir%20et%20resolution.txt) souligne handicap, accessibilité et diversité des besoins matériels. Examiner l'articulation entre revenu et accès garanti aux biens essentiels (voir nouvelle proposition).
 
 ## Références
 

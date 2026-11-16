@@ -48,7 +48,7 @@ Compare worker and multistakeholder cooperatives; study conversion barriers, inv
 
 ### Historical notes to investigate — not adopted
 
-The [historical founding principles](../../txt/principes%20fondateurs.txt) and [moral essay](../../txt/morale.txt) imagine a **cooperative-only legal regime** for enterprises. Treat this as an **unapproved, restrictive option** requiring comparison with voluntary adoption, worker codetermination, public provision and protection of freedom of association. The [economic-political draft](../../txt/ecopolitique.txt) suggests federating workers by project; examine flexible participation, internal democratic rights and how nonmembers are affected.
+The [historical founding principles](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/principes%20fondateurs.txt) and [moral essay](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/morale.txt) imagine a **cooperative-only legal regime** for enterprises. Treat this as an **unapproved, restrictive option** requiring comparison with voluntary adoption, worker codetermination, public provision and protection of freedom of association. The [economic-political draft](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) suggests federating workers by project; examine flexible participation, internal democratic rights and how nonmembers are affected.
 
 ## References
 

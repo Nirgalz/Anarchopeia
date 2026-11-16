@@ -16,7 +16,7 @@
 
 ## Problème
 
-Les décisions publiques peuvent être déformées par la communication manipulatrice, l'identification des idées à des personnalités, des catégories floues, des inégalités d'accès aux preuves et une certitude infondée. Plusieurs [notes sémantiques historiques](../../txt/outils%20sémantiques%20et%20cognitifs.txt) étudient ces risques mais contiennent aussi des généralisations polémiques qui ne doivent pas devenir une orthodoxie.
+Les décisions publiques peuvent être déformées par la communication manipulatrice, l'identification des idées à des personnalités, des catégories floues, des inégalités d'accès aux preuves et une certitude infondée. Plusieurs [notes sémantiques historiques](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/outils%20sémantiques%20et%20cognitifs.txt) étudient ces risques mais contiennent aussi des généralisations polémiques qui ne doivent pas devenir une orthodoxie.
 
 ## Objectifs
 
@@ -44,11 +44,11 @@ Anarchopoeia cherche à favoriser une délibération publique qui privilégie le
 
 ## Recherche
 
-La [critique de la représentation et de l'identification](../../txt/critiques.txt) met en garde contre l'assimilation des groupes politiques à des entités homogènes et des idées à leurs représentants. Les [notes cognitives](../../txt/outils%20sémantiques%20et%20cognitifs.txt) abordent abstraction, catégorisation, langage, incertitude et risques des exemples fortement émotionnels ; l'[essai moral](../../txt/morale.txt) comporte des généralisations **contradictoires** sur les croyances et religions. Les traiter comme pistes comparatives, non comme typologies psychologiques démontrées ou prétextes à contrôler les croyances. Définir examen loyal des sources, recours, accessibilité linguistique et distinction entre preuve empirique et désaccord normatif.
+La [critique de la représentation et de l'identification](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/critiques.txt) met en garde contre l'assimilation des groupes politiques à des entités homogènes et des idées à leurs représentants. Les [notes cognitives](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/outils%20sémantiques%20et%20cognitifs.txt) abordent abstraction, catégorisation, langage, incertitude et risques des exemples fortement émotionnels ; l'[essai moral](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/morale.txt) comporte des généralisations **contradictoires** sur les croyances et religions. Les traiter comme pistes comparatives, non comme typologies psychologiques démontrées ou prétextes à contrôler les croyances. Définir examen loyal des sources, recours, accessibilité linguistique et distinction entre preuve empirique et désaccord normatif.
 
 ## Références
 
-**Sources historiques :** [critiques.txt](../../txt/critiques.txt) ; [outils sémantiques et cognitifs.txt](../../txt/outils%20sémantiques%20et%20cognitifs.txt) ; [morale.txt](../../txt/morale.txt). **Recherches externes :** démocratie délibérative, injustices épistémiques, éducation aux médias, modération, raisonnement scientifique et communication d'intérêt public.
+**Sources historiques :** [critiques.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/critiques.txt) ; [outils sémantiques et cognitifs.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/outils%20sémantiques%20et%20cognitifs.txt) ; [morale.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/morale.txt). **Recherches externes :** démocratie délibérative, injustices épistémiques, éducation aux médias, modération, raisonnement scientifique et communication d'intérêt public.
 
 ## Historique des révisions
 

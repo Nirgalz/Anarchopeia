@@ -30,4 +30,4 @@ Utiliser les [Issues](https://github.com/Nirgalz/Anarchopeia/issues) pour les qu
 
 ## Matériaux antérieurs
 
-Le [dossier `txt/`](txt/) est conservé **intégralement inchangé** comme notes de réflexion à utiliser ultérieurement. Les anciens index de recherche et textes de fond ont été retirés de l'arborescence active durant la refonte ; ils restent accessibles dans l'historique Git du dépôt (ancien commit `main` : `1239be9`). Ils ne constituent pas des parties approuvées du manifeste.
+Le dossier historique `txt/` a été **supprimé de l'arborescence active**. Les citations dans les propositions renvoient à [sa version historique dans Git](https://github.com/Nirgalz/Anarchopeia/tree/0d8963af515be54957f767531017aff3d6881955/txt), et non à des fichiers encore maintenus. Les anciens index de recherche et textes de fond restent aussi accessibles dans l'historique Git. Aucun de ces anciens documents ne constitue une partie approuvée du manifeste.

@@ -8,7 +8,7 @@
 - Manifeste : `manifesto/en.md`, `manifesto/fr.md`, puis `manifesto/<code>.md`.
 - Propositions : `proposals/0001-aims/en.md`, `proposals/0001-aims/fr.md`, puis `proposals/0001-aims/<code>.md` ; conserver le **même dossier numéroté avec un nom anglais** dans chaque langue.
 - Gouvernance, workflow et contributions : fichiers anglais à la racine, avec variantes `.fr.md` et suffixes linguistiques ultérieurs.
-- Le dossier historique `txt/` n'est pas une cible de traduction.
+- Les anciennes notes de travail de `txt/` ont été supprimées de l'arborescence active et ne constituent pas une cible de traduction.
 
 Utiliser des codes BCP 47 comme `es`, `de`, `pt-BR`. Les traductions partielles sont possibles : signaler ce qui manque ou n'est plus à jour, plutôt que produire de faux documents achevés. Relier les accueils traduits.
 

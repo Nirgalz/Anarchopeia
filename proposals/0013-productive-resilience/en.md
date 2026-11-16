@@ -48,7 +48,7 @@ Separate the three sectors for detailed studies; map critical dependencies, supp
 
 ### Historical notes to investigate — not adopted
 
-The [historical introduction](../../txt/intro.txt) raises economic pressure and security concerns during transition and proposes **international networks** of alternative organizations; these are scenarios requiring geopolitical analysis, not predictions. The [economic-political notes](../../txt/ecopolitique.txt) propose federating localized supply-and-demand information through aggregation across community scales. Examine diversification versus isolation, privacy and cross-border cooperative arrangements. Compare with the new distributed information-network proposal.
+The [historical introduction](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/intro.txt) raises economic pressure and security concerns during transition and proposes **international networks** of alternative organizations; these are scenarios requiring geopolitical analysis, not predictions. The [economic-political notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) propose federating localized supply-and-demand information through aggregation across community scales. Examine diversification versus isolation, privacy and cross-border cooperative arrangements. Compare with the new distributed information-network proposal.
 
 ## References
 

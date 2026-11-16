@@ -100,7 +100,7 @@ Pistes de recherche à développer dans cette proposition :
 
 ### Notes historiques à examiner — non adoptées
 
-Le [texte ancien sur potentiel et action](../../txt/puissance%20pouvoir%20et%20resolution.txt) distingue aspirations, conditions d'action et contraintes collectives. Son vocabulaire précède la **Méthode trialectique** récente, projet distinct, et ne doit pas être importé comme théorie établie. Les [notes de philosophie pratique](../../txt/philosophie%20pratique.txt) explorent introspection et compréhension contextuelle comme possibilités de réflexion, **non comme entraînement psychologique obligatoire**. Étudier la découverte et la révision des finalités individuelles sans impératif de productivité.
+Le [texte ancien sur potentiel et action](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/puissance%20pouvoir%20et%20resolution.txt) distingue aspirations, conditions d'action et contraintes collectives. Son vocabulaire précède la **Méthode trialectique** récente, projet distinct, et ne doit pas être importé comme théorie établie. Les [notes de philosophie pratique](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/philosophie%20pratique.txt) explorent introspection et compréhension contextuelle comme possibilités de réflexion, **non comme entraînement psychologique obligatoire**. Étudier la découverte et la révision des finalités individuelles sans impératif de productivité.
 
 ## Références
 

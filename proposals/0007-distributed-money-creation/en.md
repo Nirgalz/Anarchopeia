@@ -48,7 +48,7 @@ Document how contemporary money is created; compare proposals for shared issuanc
 
 ### Historical notes to investigate — not adopted
 
-The [economic-political notes](../../txt/ecopolitique.txt) illustrate **periodic equal per-person money creation** for consumption; “100 units per month” is merely an example. Study issuance eligibility, inflation, unequal needs, existing currencies and the difference between equal issuance and equitable outcomes. The notes introduce a separate **investment allocation unit**; examine it in its own proposal, not as a synonym for consumption money.
+The [economic-political notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) illustrate **periodic equal per-person money creation** for consumption; “100 units per month” is merely an example. Study issuance eligibility, inflation, unequal needs, existing currencies and the difference between equal issuance and equitable outcomes. The notes introduce a separate **investment allocation unit**; examine it in its own proposal, not as a synonym for consumption money.
 
 ## References
 

@@ -48,7 +48,7 @@ Documenter la création monétaire contemporaine ; comparer les propositions de 
 
 ### Notes historiques à examiner — non adoptées
 
-Les [notes éco-politiques](../../txt/ecopolitique.txt) illustrent une **création périodique et égale de monnaie de consommation par personne** ; « 100 unités par mois » est un simple exemple. Étudier éligibilité, inflation, diversité des besoins, coexistence monétaire et distinction entre émission identique et résultats équitables. Les notes proposent une **unité distincte d'investissement collectif**, à examiner dans une proposition autonome.
+Les [notes éco-politiques](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) illustrent une **création périodique et égale de monnaie de consommation par personne** ; « 100 unités par mois » est un simple exemple. Étudier éligibilité, inflation, diversité des besoins, coexistence monétaire et distinction entre émission identique et résultats équitables. Les notes proposent une **unité distincte d'investissement collectif**, à examiner dans une proposition autonome.
 
 ## Références
 

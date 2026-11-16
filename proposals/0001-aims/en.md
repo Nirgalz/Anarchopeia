@@ -91,7 +91,7 @@ Separate normative commitments from empirical claims and cite evidence before dr
 
 ### Historical notes to investigate — not adopted
 
-The [historical introduction](../../txt/intro.txt) explores networks of alternative organizations and cross-border cooperation as possible responses to concentrated power and external pressure. Its stark contrast between hierarchical and cooperative societies is a rhetorical hypothesis, **not** a proven historical dichotomy. The [older moral notes](../../txt/morale.txt) seek common ethical norms, which must be confronted with the current refusal to impose a single worldview.
+The [historical introduction](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/intro.txt) explores networks of alternative organizations and cross-border cooperation as possible responses to concentrated power and external pressure. Its stark contrast between hierarchical and cooperative societies is a rhetorical hypothesis, **not** a proven historical dichotomy. The [older moral notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/morale.txt) seek common ethical norms, which must be confronted with the current refusal to impose a single worldview.
 
 ## References
 

@@ -16,7 +16,7 @@
 
 ## Problem
 
-A democratic investment choice requires knowledge of the labor, equipment and resources that a project consumes. The [historical economic model](../../txt/ecopolitique.txt) sketches several markets or accounting domains, yet does not establish how to prevent double-counting, scarcity, speculative manipulation or conflicting demand.
+A democratic investment choice requires knowledge of the labor, equipment and resources that a project consumes. The [historical economic model](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) sketches several markets or accounting domains, yet does not establish how to prevent double-counting, scarcity, speculative manipulation or conflicting demand.
 
 ## Objectives
 
@@ -44,11 +44,11 @@ Anarchopoeia studies transparent coordination of investment projects, work, reso
 
 ## Research
 
-The [historical draft](../../txt/ecopolitique.txt) distinguishes investment, labor, resources and productive facilities and sketches localized resource pricing, committed investment subscriptions, nonconvertible denominations and aggregated demand. These are *design sketches*, not a tested economic architecture. Specify coherent units, double-entry or physical accounting, constraints, project lifecycles, scheduling algorithms and review rights. Evaluate compatibility with [externality assessment](../0017-social-environmental-externalities/en.md) and [collective productive assets](../0012-collective-production-assets/en.md).
+The [historical draft](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) distinguishes investment, labor, resources and productive facilities and sketches localized resource pricing, committed investment subscriptions, nonconvertible denominations and aggregated demand. These are *design sketches*, not a tested economic architecture. Specify coherent units, double-entry or physical accounting, constraints, project lifecycles, scheduling algorithms and review rights. Evaluate compatibility with [externality assessment](../0017-social-environmental-externalities/en.md) and [collective productive assets](../0012-collective-production-assets/en.md).
 
 ## References
 
-**Historical lead:** [ecopolitique.txt](../../txt/ecopolitique.txt). **External research:** to establish on input-output models, participatory planning, multi-ledger accounting, resource scheduling, commons governance and empirical system performance.
+**Historical lead:** [ecopolitique.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt). **External research:** to establish on input-output models, participatory planning, multi-ledger accounting, resource scheduling, commons governance and empirical system performance.
 
 ## Revision history
 

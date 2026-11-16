@@ -48,7 +48,7 @@ Anarchopoeia poursuit la transformation des institutions par un processus perman
 
 ### Notes historiques à examiner — non adoptées
 
-L'[introduction historique](../../txt/intro.txt) propose de connecter des institutions alternatives et de développer une **économie parallèle** plutôt que d'instaurer un régime transitoire centralisé, éventuellement en réseaux internationaux. Les [notes éco-politiques](../../txt/ecopolitique.txt) suggèrent d'expérimenter plusieurs options en parallèle et de recourir à des décisions publiques périodiques. Il s'agit de pistes à évaluer, non de délais validés ni de garanties de succès. Comparer expérimentation fédérée, garanties pour les non-participants et coordination internationale ; rapprocher des nouvelles propositions sur la participation délégative, l'information distribuée et les allocations économiques.
+L'[introduction historique](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/intro.txt) propose de connecter des institutions alternatives et de développer une **économie parallèle** plutôt que d'instaurer un régime transitoire centralisé, éventuellement en réseaux internationaux. Les [notes éco-politiques](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) suggèrent d'expérimenter plusieurs options en parallèle et de recourir à des décisions publiques périodiques. Il s'agit de pistes à évaluer, non de délais validés ni de garanties de succès. Comparer expérimentation fédérée, garanties pour les non-participants et coordination internationale ; rapprocher des nouvelles propositions sur la participation délégative, l'information distribuée et les allocations économiques.
 
 ## Références
 

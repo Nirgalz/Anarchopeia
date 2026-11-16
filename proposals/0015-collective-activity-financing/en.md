@@ -48,7 +48,7 @@ Examine crowdfunding, mutual finance, participatory budgets and cooperative fund
 
 ### Historical notes to investigate — not adopted
 
-The [economic-political proposal notes](../../txt/ecopolitique.txt) detail **equal, periodically allocated investment credits** used to prioritize citizen-proposed projects, without a monetary return; projects may receive one-off allocations or recurring subscriptions. Distinguish these credits from consumption money and document whether transfer of allocation rights to a third party is allowed, how such delegation is audited and how minorities get funding. Consider large infrastructure funded by future commitments, but examine revocability, non-performance and obligations. Cross-reference the independent proposal for collective investment rights.
+The [economic-political proposal notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) detail **equal, periodically allocated investment credits** used to prioritize citizen-proposed projects, without a monetary return; projects may receive one-off allocations or recurring subscriptions. Distinguish these credits from consumption money and document whether transfer of allocation rights to a third party is allowed, how such delegation is audited and how minorities get funding. Consider large infrastructure funded by future commitments, but examine revocability, non-performance and obligations. Cross-reference the independent proposal for collective investment rights.
 
 ## References
 

@@ -48,7 +48,7 @@ Anarchopoeia explore des mécanismes de financement collectif permettant aux per
 
 ### Notes historiques à examiner — non adoptées
 
-Les [notes économiques](../../txt/ecopolitique.txt) détaillent des **crédits d'investissement égaux et périodiques** permettant de choisir des projets proposés par des citoyens, sans retour monétaire ; les projets recevraient des allocations ponctuelles ou des abonnements. Distinguer ces crédits de la monnaie de consommation ; préciser la délégation éventuelle à un tiers, son contrôle et le financement de projets minoritaires. Étudier les engagements futurs pour les infrastructures, leur révocabilité et les risques d'inexécution. Voir la nouvelle proposition sur les droits d'investissement collectif.
+Les [notes économiques](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) détaillent des **crédits d'investissement égaux et périodiques** permettant de choisir des projets proposés par des citoyens, sans retour monétaire ; les projets recevraient des allocations ponctuelles ou des abonnements. Distinguer ces crédits de la monnaie de consommation ; préciser la délégation éventuelle à un tiers, son contrôle et le financement de projets minoritaires. Étudier les engagements futurs pour les infrastructures, leur révocabilité et les risques d'inexécution. Voir la nouvelle proposition sur les droits d'investissement collectif.
 
 ## Références
 

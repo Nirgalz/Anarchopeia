@@ -14,7 +14,7 @@ For any substantive amendment to the manifesto, including its aims, principles, 
 
 Criticize arguments rather than people. Protect respectful participation and the ability to challenge project assumptions.
 
-Read the [workflow](WORKFLOW.md), [provisional governance](GOVERNANCE.md), and [translation guide](i18n/README.md). The [`txt/` notes](txt/) are preserved for later use, not adopted.
+Read the [workflow](WORKFLOW.md), [provisional governance](GOVERNANCE.md), and [translation guide](i18n/README.md). Earlier working notes have been removed from the active repository; citations in proposals can still point to historical commits, without implying their adoption.
 
 ## License
 

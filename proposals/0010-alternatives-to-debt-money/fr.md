@@ -48,7 +48,7 @@ Anarchopoeia étudie des alternatives à la création monétaire par le crédit 
 
 ### Notes historiques à examiner — non adoptées
 
-Les [notes éco-politiques](../../txt/ecopolitique.txt) distinguent la création monétaire par crédit d'une **avance sur des allocations volontaires futures**, par engagements ou abonnements à des projets. Celle-ci pourrait malgré tout créer des obligations exigibles et des risques financiers ; elle ne doit **pas** être présentée comme une suppression de toute dette. Préciser unité de compte, responsabilité, défaut, droit de révoquer les engagements et articulation avec la proposition sur les droits d'investissement.
+Les [notes éco-politiques](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) distinguent la création monétaire par crédit d'une **avance sur des allocations volontaires futures**, par engagements ou abonnements à des projets. Celle-ci pourrait malgré tout créer des obligations exigibles et des risques financiers ; elle ne doit **pas** être présentée comme une suppression de toute dette. Préciser unité de compte, responsabilité, défaut, droit de révoquer les engagements et articulation avec la proposition sur les droits d'investissement.
 
 ## Références
 

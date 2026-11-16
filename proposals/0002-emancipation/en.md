@@ -100,7 +100,7 @@ Research directions to develop within this proposal:
 
 ### Historical notes to investigate — not adopted
 
-The [older text on potential and action](../../txt/puissance%20pouvoir%20et%20resolution.txt) distinguishes aspirations, enabling conditions and the constraints of collective action. Its terminology precedes the more recent **Méthode trialectique**, a separate project, and must not be imported as an established theory. The [practical philosophy notes](../../txt/philosophie%20pratique.txt) explore introspection and contextual understanding as optional aids to self-reflection, **not compulsory psychological training**. Research how people discover and revise personal aims without a productivity imperative.
+The [older text on potential and action](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/puissance%20pouvoir%20et%20resolution.txt) distinguishes aspirations, enabling conditions and the constraints of collective action. Its terminology precedes the more recent **Méthode trialectique**, a separate project, and must not be imported as an established theory. The [practical philosophy notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/philosophie%20pratique.txt) explore introspection and contextual understanding as optional aids to self-reflection, **not compulsory psychological training**. Research how people discover and revise personal aims without a productivity imperative.
 
 ## References
 

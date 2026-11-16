@@ -48,7 +48,7 @@ Study ownership versus use and governance; compare experience in coops and commu
 
 ### Historical notes to investigate — not adopted
 
-The [economic-political notes](../../txt/ecopolitique.txt) suggest productive tools could be made **available to different projects**, with temporary reservation according to collective allocation rules. Separate title to an asset from rights to use it, scheduling priorities and maintenance obligations. Investigate whether project sponsors could monopolize shared equipment, and compare federated stewardship against central management. A historical demand to make cooperatives compulsory is a separate, contested policy hypothesis.
+The [economic-political notes](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) suggest productive tools could be made **available to different projects**, with temporary reservation according to collective allocation rules. Separate title to an asset from rights to use it, scheduling priorities and maintenance obligations. Investigate whether project sponsors could monopolize shared equipment, and compare federated stewardship against central management. A historical demand to make cooperatives compulsory is a separate, contested policy hypothesis.
 
 ## References
 

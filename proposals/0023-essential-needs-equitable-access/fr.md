@@ -16,7 +16,7 @@
 
 ## Problème
 
-Les [anciens principes fondateurs](../../txt/principes%20fondateurs.txt) présentent logement, alimentation et eau saines, éducation et liberté de développer ses activités comme des conditions de vie dignes. L'[ancienne réflexion sur l'équité](../../txt/puissance%20pouvoir%20et%20resolution.txt) distingue **allocation identique** et accompagnement adapté aux besoins, notamment en cas de handicap. Leur qualification en droits universellement garantis exige encore une définition juridique et institutionnelle.
+Les [anciens principes fondateurs](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/principes%20fondateurs.txt) présentent logement, alimentation et eau saines, éducation et liberté de développer ses activités comme des conditions de vie dignes. L'[ancienne réflexion sur l'équité](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/puissance%20pouvoir%20et%20resolution.txt) distingue **allocation identique** et accompagnement adapté aux besoins, notamment en cas de handicap. Leur qualification en droits universellement garantis exige encore une définition juridique et institutionnelle.
 
 ## Objectifs
 
@@ -44,11 +44,11 @@ Anarchopoeia étudie les moyens d'assurer à chacun un accès effectif aux condi
 
 ## Recherche
 
-Les [principes historiques](../../txt/principes%20fondateurs.txt) emploient la notion de droits inaliénables ; le [texte ancien sur les potentiels et l'équité](../../txt/puissance%20pouvoir%20et%20resolution.txt) souligne qu'assurer l'égalité effective peut demander des aides différentes. Distinguer droit juridique, aspiration éthique et garantie pratique. Étudier universalité, adaptation aux besoins, coûts des infrastructures et procédures équitables d'arbitrage entre besoins légitimes.
+Les [principes historiques](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/principes%20fondateurs.txt) emploient la notion de droits inaliénables ; le [texte ancien sur les potentiels et l'équité](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/puissance%20pouvoir%20et%20resolution.txt) souligne qu'assurer l'égalité effective peut demander des aides différentes. Distinguer droit juridique, aspiration éthique et garantie pratique. Étudier universalité, adaptation aux besoins, coûts des infrastructures et procédures équitables d'arbitrage entre besoins légitimes.
 
 ## Références
 
-**Sources historiques :** [principes fondateurs.txt](../../txt/principes%20fondateurs.txt) ; [puissance pouvoir et resolution.txt](../../txt/puissance%20pouvoir%20et%20resolution.txt). **Recherches externes :** garanties sociales, accessibilité, droits des personnes handicapées, services publics et justice distributive.
+**Sources historiques :** [principes fondateurs.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/principes%20fondateurs.txt) ; [puissance pouvoir et resolution.txt](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/puissance%20pouvoir%20et%20resolution.txt). **Recherches externes :** garanties sociales, accessibilité, droits des personnes handicapées, services publics et justice distributive.
 
 ## Historique des révisions
 

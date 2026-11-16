@@ -48,7 +48,7 @@ Anarchopoeia examine des systèmes de rémunération équitable prenant en compt
 
 ### Notes historiques à examiner — non adoptées
 
-L'[ancien texte sur potentiels et conditions](../../txt/puissance%20pouvoir%20et%20resolution.txt) et le [modèle économique](../../txt/ecopolitique.txt) proposent comme signaux **rareté des compétences, durée de formation, urgence, pénibilité, danger et utilité sociale**. Ces critères peuvent entrer en conflit : rémunérer le danger ne doit pas remplacer sa prévention ; une définition collective de l'utilité peut marginaliser des activités minoritaires. Les notes distinguent **équité et traitement identique**, notamment selon les besoins d'accompagnement. Étudier une rémunération adaptative, intelligible et contestable sans mesurer la valeur humaine.
+L'[ancien texte sur potentiels et conditions](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/puissance%20pouvoir%20et%20resolution.txt) et le [modèle économique](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af515be54957f767531017aff3d6881955/txt/ecopolitique.txt) proposent comme signaux **rareté des compétences, durée de formation, urgence, pénibilité, danger et utilité sociale**. Ces critères peuvent entrer en conflit : rémunérer le danger ne doit pas remplacer sa prévention ; une définition collective de l'utilité peut marginaliser des activités minoritaires. Les notes distinguent **équité et traitement identique**, notamment selon les besoins d'accompagnement. Étudier une rémunération adaptative, intelligible et contestable sans mesurer la valeur humaine.
 
 ## Références
 
