@@ -10,7 +10,7 @@
 | Statut | `approved` |
 | Version de travail | 0.4 |
 | Version approuvée | 0.4 |
-| Décision | Approbation explicite de l'initiateur, 16 novembre 2026 (lien vers la PR de décision à ajouter) |
+| Décision | Approbation explicite de l'initiateur, 16 novembre 2026 ([PR #13](https://github.com/Nirgalz/Anarchopeia/pull/13)) |
 | Version approuvée archivée | [v0.4 soumise à approbation](https://github.com/Nirgalz/Anarchopeia/blob/f89fc77244546047f83e01d71b05ea5bdbfc7b41/proposals/0001-aims/fr.md) |
 | Portée | Finalités fondamentales et démarche |
 | Origine | Échanges avec l'initiateur, 16 novembre 2026 ; ancien [document de discussion](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/fr/foundations/aims-emancipation-and-non-domination.md) |
@@ -127,4 +127,4 @@ L'[introduction historique](https://github.com/Nirgalz/Anarchopeia/blob/0d8963af
 - **Alternatives examinées :** donner priorité à une seule finalité ; fixer une architecture anarchique définitive ; concevoir la transition comme une étape achevée ; imposer le changement institutionnel comme fin en soi. Ces options restent discutables, sans être adoptées.
 - **Objections et limites non résolues :** absence de critère universel d'arbitrage ; risques de pouvoirs éditoriaux concentrés ; difficulté à évaluer des effets complexes ; dommages possibles de l'expérimentation. La décision n'établit pas que ces questions sont résolues.
 - **Révision :** toute modification substantielle de la version approuvée suit le workflow, sans remplacer tacitement le texte en vigueur.
-- **Traçabilité :** version candidate [AP-0001 v0.4 avant approbation](https://github.com/Nirgalz/Anarchopeia/blob/f89fc77244546047f83e01d71b05ea5bdbfc7b41/proposals/0001-aims/fr.md) ; décision GitHub liée dans les métadonnées une fois la PR créée.
+- **Traçabilité :** version candidate [AP-0001 v0.4 avant approbation](https://github.com/Nirgalz/Anarchopeia/blob/f89fc77244546047f83e01d71b05ea5bdbfc7b41/proposals/0001-aims/fr.md) ; décision consignée dans la [PR #13](https://github.com/Nirgalz/Anarchopeia/pull/13).

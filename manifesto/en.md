@@ -18,7 +18,7 @@ To pursue these aims, Anarchopoeia examines political, economic, social, and inf
 
 **No institution, method, or proposal is regarded as definitive.** Anarchopoeia's manifesto and governance remain open to criticism, challenge, and revision.
 
-**Source:** [Approved AP-0001 v0.4](../proposals/0001-aims/en.md) · **Decision:** 16 November 2026, project initiator (approval PR link to be added).
+**Source:** [Approved AP-0001 v0.4](../proposals/0001-aims/en.md) · **Decision:** 16 November 2026, project initiator ([PR #13](https://github.com/Nirgalz/Anarchopeia/pull/13)).
 
 ## Working proposals
 

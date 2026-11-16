@@ -20,7 +20,7 @@ Pour poursuivre ces finalités, Anarchopoeia examine les systèmes politiques, �
 
 **Aucune institution, méthode ou proposition n'est considérée comme définitive.** Le manifeste et la gouvernance d'Anarchopoeia restent ouverts à la critique, à la contestation et à la révision.
 
-**Source :** [AP-0001 — v0.4 approuvée](../proposals/0001-aims/fr.md) · **Décision :** 16 novembre 2026, initiateur du projet (PR d'approbation à lier).
+**Source :** [AP-0001 — v0.4 approuvée](../proposals/0001-aims/fr.md) · **Décision :** 16 novembre 2026, initiateur du projet ([PR #13](https://github.com/Nirgalz/Anarchopeia/pull/13)).
 
 ## Propositions en cours
 

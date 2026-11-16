@@ -10,7 +10,7 @@
 | Status | `approved` |
 | Working version | 0.4 |
 | Approved version | 0.4 |
-| Decision | Explicit approval by the initiator, 16 November 2026 (decision PR link to be added) |
+| Decision | Explicit approval by the initiator, 16 November 2026 ([PR #13](https://github.com/Nirgalz/Anarchopeia/pull/13)) |
 | Approved-version snapshot | [v0.4 submitted for approval](https://github.com/Nirgalz/Anarchopeia/blob/f89fc77244546047f83e01d71b05ea5bdbfc7b41/proposals/0001-aims/en.md) |
 | Scope | Foundational aims and method |
 | Origin | Initiator discussion, 16 November 2026; earlier combined [discussion paper](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/en/foundations/aims-emancipation-and-non-domination.md) |
@@ -127,4 +127,4 @@ The [historical introduction](https://github.com/Nirgalz/Anarchopeia/blob/0d8963
 - **Alternatives considered:** give one aim precedence; prescribe a definitive anarchic institutional blueprint; treat transition as a finite endpoint; regard institutional change as an end in itself. These remain discussable options, not adopted positions.
 - **Unresolved objections and limitations:** no universal rule for trade-offs; risks from concentrated editorial power; challenges of evaluating complex effects; potential harms of experimentation. Approval does not imply these concerns are solved.
 - **Revision:** substantive changes to the approved version must follow the workflow without silently replacing the operative manifesto entry.
-- **Traceability:** [AP-0001 v0.4 before approval](https://github.com/Nirgalz/Anarchopeia/blob/f89fc77244546047f83e01d71b05ea5bdbfc7b41/proposals/0001-aims/en.md); GitHub approval PR to be linked in metadata once created.
+- **Traceability:** [AP-0001 v0.4 before approval](https://github.com/Nirgalz/Anarchopeia/blob/f89fc77244546047f83e01d71b05ea5bdbfc7b41/proposals/0001-aims/en.md); approval recorded by [PR #13](https://github.com/Nirgalz/Anarchopeia/pull/13).
