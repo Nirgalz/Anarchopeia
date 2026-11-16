@@ -1,6 +1,6 @@
 # Proposal catalogue
 
-A **proposal** contains its claim or institutional design, its argumentation, evaluation, summary, research, source leads, and revision history **in one document per language**. No separate `research/` or `sources/` repositories are required.
+A **proposal** contains its claim or institutional design, its argumentation, evaluation, proposed manifesto entry, research, source leads, and revision history **in one document per language**. No separate `research/` or `sources/` repositories are required.
 
 | ID | Proposal | Status | Approved version |
 | --- | --- | --- | --- |

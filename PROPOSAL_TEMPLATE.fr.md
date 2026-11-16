@@ -36,9 +36,9 @@ Quelles sont les principales objections, incertitudes, conséquences nuisibles e
 
 Comment examiner les effets attendus ? Dans quelles conditions faudrait-il constater un échec ou réviser ?
 
-## Synthèse
+## Texte proposé pour le manifeste
 
-Présentation claire et courte **immédiatement après l'évaluation**, susceptible d'être adaptée au manifeste **seulement après approbation**.
+Rédiger **le texte exact et autonome proposé pour intégration au manifeste** si cette version est approuvée. Formuler directement la position ou la proposition institutionnelle, dans une rédaction publiable. Ne **pas** résumer la recherche, raconter le processus éditorial ni ajouter dans cette section d'avertissement sur le statut d'approbation. Il s'agit d'un texte candidat jusqu'à la décision explicite d'approbation. Le placer immédiatement après l'évaluation.
 
 ## Recherche
 

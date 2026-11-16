@@ -36,9 +36,9 @@ What are the main objections, uncertainty, possible harms, and difficult cases?
 
 How could the claimed effects be assessed? Which conditions would indicate failure or a need for revision?
 
-## Summary
+## Proposed Manifesto Entry
 
-A clear, short synthesis **immediately after Evaluation**, suitable for eventual adaptation into the manifesto **only if approved**.
+Write the **exact, self-contained text proposed for inclusion in the manifesto** if this version is approved. Present the position or institutional proposal directly, in publication-ready prose. Do **not** summarize the research, describe the editorial process, or include approval-status disclaimers in this section. It is a candidate entry until an explicit approval decision. Keep it immediately after Evaluation.
 
 ## Research
 

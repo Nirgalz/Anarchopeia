@@ -6,7 +6,7 @@
 |---|---|
 | ID | AP-0003 |
 | Status | `in_progress` |
-| Working version | 0.1 |
+| Working version | 0.2 |
 | Approved version | None |
 | Scope | Foundational concept — domination |
 | Origin | Initiator discussion, 16 November 2026; earlier combined [discussion paper](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/en/foundations/aims-emancipation-and-non-domination.md) |
@@ -72,9 +72,13 @@ Potential investigation questions:
 - What protections exist against retaliation and against informal concentrations of influence?
 - Are there institutional alternatives that reduce this exposure without obstructing necessary collective coordination?
 
-## Summary
+## Proposed Manifesto Entry
 
-**Working synthesis:** domination includes **potential as well as exercised arbitrary power**, including systemic forms. The key issue is actual exposure to arbitrary interference without effective control, contestation or transformation, not inequality or constraint as such. This definition is **not yet approved** and requires further conceptual testing.
+**Domination** exists where an individual or group is exposed, directly or indirectly, to **arbitrary power**, exercised or credibly exercisable, without effective means to control, contest, constrain or transform that power. Domination may be interpersonal, institutional or systemic; it does not require an actual abuse or a conscious intention to dominate.
+
+Not every asymmetry of authority, legitimate collective constraint or material limitation constitutes domination. The issue is real exposure to arbitrary power, not a merely abstract possibility of harm.
+
+Rights of challenge and review must be effective in practice: accessible, sufficiently independent, capable of meaningful remedies and exercisable without retaliation.
 
 ## Research
 
@@ -93,3 +97,4 @@ Research to develop within this proposal:
 ## Revision history
 
 - **2026-11-16 — v0.1, `in_progress`:** Extracted the working definition of interpersonal, institutional and systemic domination from the combined discussion paper. No approval recorded.
+- **2026-11-16 — v0.2, `in_progress`:** Replaced the research summary with a publication-ready **Proposed Manifesto Entry**. No approval recorded.

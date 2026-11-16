@@ -8,7 +8,7 @@ Anarchopoeia est un projet explorant l'émancipation des individus et des collec
 
 ## Le workflow éditorial
 
-La **proposition** est l'unité de recherche, de débat et de décision. Son document regroupe la proposition, ses limites, son évaluation, sa synthèse, ses recherches, ses références et son historique. Toute modification substantielle du manifeste — y compris de ses finalités, principes et définitions — doit passer par une proposition.
+La **proposition** est l'unité de recherche, de débat et de décision. Son document regroupe la proposition, ses limites, son évaluation, son texte proposé pour le manifeste, ses recherches, ses références et son historique. Toute modification substantielle du manifeste — y compris de ses finalités, principes et définitions — doit passer par une proposition.
 
 **[Lire le workflow éditorial](WORKFLOW.fr.md) · [Contribuer](CONTRIBUTING.fr.md) · [Gouvernance provisoire](GOVERNANCE.fr.md)**
 
