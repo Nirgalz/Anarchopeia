@@ -7,14 +7,14 @@
 | ID | AP-0002 |
 | Primary category | [Anarchopeia](../categories/anarchopeia/en.md) (`anarchopeia`) |
 | Secondary categories | [Governance](../categories/governance/en.md) (`governance`), [Information](../categories/information/en.md) (`information`) |
-| Status | `in_progress` |
+| Status | `awaiting_approval` |
 | Working version | 0.4 |
 | Approved version | None |
 | Scope | Foundational concept — emancipation |
 | Origin | Initiator discussion, 16 November 2026; earlier combined [discussion paper](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/en/foundations/aims-emancipation-and-non-domination.md) |
 | Translation | [Français](fr.md) |
 
-**Editorial status:** working version **0.4** integrates conceptual choices accepted by the initiator and a sourced comparative review. **It remains `in_progress`: neither formally approved nor incorporated into the manifesto.**
+**Editorial status:** working version **0.4**, whose definition and candidate entry were retained unchanged after final review, was **submitted for formal approval** (`awaiting_approval`) on 17 November 2026. The comparative research, objections and outstanding boundary questions remain available. **No approval has been recorded, and no AP-0002 text is published in the manifesto.**
 
 ## Problem
 
@@ -93,6 +93,14 @@ Possible questions to study, not pre-approved measurements:
 - Are new forms of dependence or pressure emerging during ostensibly emancipatory change?
 - Can shifts be identified across material, social and cognitive dimensions without assuming that progress is linear?
 
+### Boundary criterion: gaining means versus emancipation
+
+**An additional resource, skill, item of knowledge or option is not by itself sufficient to establish emancipation.** To characterize a change, look for evidence connecting it to a **genuine and relevant** change in opportunities to **define, pursue or revise one's own ends**. These three aspects are not a required performance checklist: a transformation may affect one without necessarily affecting all the others.
+
+Examine separately: **(a)** whether the new option is practically accessible rather than merely formal, **(b)** its relevance to the self-determination of the people or group concerned, **(c)** any pressures, prescriptions and dependencies restricting autonomous use, and **(d)** effects on other people and group members. An unused option can still be meaningful; a quantitative increase in options alone proves nothing; pursuing ends prescribed by an external authority does not, by itself, establish emancipation.
+
+**These are prompts for inquiry, not a universal test or a condition for recognizing anyone's rights.** The classification may remain indeterminate when facts are insufficient or accounts conflict. Assess any relation of domination separately under AP-0003.
+
 **Additional boundary tests:** formal rights without material means; improved resources accompanied by an inability to question a belief; the same custom retained after open, contestable deliberation or under heavy social pressure; a group becomes externally autonomous while excluding members; technical training leaves the relevant choices unchanged. In each case, assess material change, reflection, group agency, member opportunities and domination separately, and identify effects that may become new enabling conditions. These are **not validated empirical measures**; some conclusions may remain undetermined.
 
 ## Proposed Manifesto Entry
@@ -164,3 +172,4 @@ Sources consulted **16 November 2026**. Numbers correspond to the comparative ta
 - **2026-11-16 — v0.2, `in_progress`:** Replaced the research summary with a publication-ready **Proposed Manifesto Entry**. No approval recorded.
 - **2026-11-16 — v0.3, `in_progress`:** Added research leads from historical notes without adopting their claims; proposed manifesto entry unchanged.
 - **2026-11-16 — v0.4, `in_progress`:** positive self-determination, individual and collective reflective autonomy, possible retention of norms after scrutiny, recursion and separate group/member evaluation; sourced comparative research, objections, boundary cases and revised candidate text. **No approval or manifesto publication.**
+- **2026-11-17 — v0.4, `awaiting_approval`:** final review of the boundary between gaining resources or knowledge and emancipation; added contextual assessment prompts without thresholds or performance requirements. **Definition and candidate manifesto entry unchanged**; v0.4 submitted for a separate editorial decision. No approval or publication.

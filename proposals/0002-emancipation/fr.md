@@ -7,14 +7,14 @@
 | ID | AP-0002 |
 | Catégorie principale | [Anarchopeia](../categories/anarchopeia/fr.md) (`anarchopeia`) |
 | Catégories secondaires | [Gouvernance](../categories/governance/fr.md) (`governance`), [Information](../categories/information/fr.md) (`information`) |
-| Statut | `in_progress` |
+| Statut | `awaiting_approval` |
 | Version de travail | 0.4 |
 | Version approuvée | Aucune |
 | Portée | Concept fondamental — émancipation |
 | Origine | Échanges avec l'initiateur, 16 novembre 2026 ; ancien [document de discussion](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/fr/foundations/aims-emancipation-and-non-domination.md) |
 | Traduction | [English](en.md) |
 
-**Statut éditorial :** la version de travail **0.4** intègre les choix conceptuels validés par l'initiateur ainsi qu'une recherche comparative sourcée. **Elle reste `in_progress` : aucune approbation formelle ni intégration au manifeste.**
+**Statut éditorial :** la version de travail **0.4**, dont la définition et le texte candidat sont conservés sans modification après relecture finale, est **soumise à l'approbation formelle** (`awaiting_approval`) le 17 novembre 2026. La recherche comparative, les objections et les questions de délimitation restent consultables. **Aucune approbation n'est consignée et aucun texte d'AP-0002 n'est publié dans le manifeste.**
 
 ## Problème
 
@@ -92,6 +92,14 @@ Questions possibles à examiner, sans indicateurs déjà adoptés :
 - De nouvelles dépendances ou pressions apparaissent-elles durant une transformation présentée comme émancipatrice ?
 - Peut-on analyser les changements matériels, sociaux et cognitifs sans présupposer un progrès linéaire ?
 
+### Critère de délimitation : acquisition de moyens ou émancipation ?
+
+**Une nouvelle ressource, compétence, connaissance ou option ne suffit pas à elle seule à caractériser une émancipation.** Pour qualifier une transformation, rechercher des éléments permettant de relier celle-ci à un changement **effectif et pertinent** des possibilités de **définir, poursuivre ou réviser des finalités propres**. Ces trois modalités ne forment pas une liste de performances à atteindre : une transformation peut concerner l'une sans modifier également les autres.
+
+Vérifier séparément : **(a)** l'accessibilité réelle de la possibilité nouvellement ouverte (et non sa seule existence formelle), **(b)** sa pertinence pour l'autodétermination des personnes ou du collectif concernés, **(c)** les pressions, prescriptions et dépendances qui pourraient en empêcher l'exercice autonome, **(d)** les effets pour d'autres personnes ou membres du collectif. Une possibilité non utilisée peut néanmoins être importante ; un simple accroissement quantitatif des options ne démontre aucun progrès ; la poursuite d'une finalité choisie par un tiers ne suffit pas à établir une émancipation.
+
+**Ce critère est un guide d'examen, non un test universel ni une condition de reconnaissance des droits.** Lorsque les faits sont insuffisants ou les interprétations contestées, la qualification peut rester indéterminée. Évaluer séparément tout rapport de domination selon AP-0003.
+
 **Situations limites supplémentaires :** droits formels sans moyens matériels ; ressources accrues mais interdiction de questionner une croyance ; même coutume maintenue après délibération libre ou sous forte pression sociale ; groupe devenu autonome mais excluant certains membres ; formation technique ne changeant pas les choix disponibles. Pour chaque situation, distinguer changements matériels, réflexivité, autonomie du collectif, possibilités des membres et domination ; identifier les effets susceptibles de devenir de nouvelles conditions. Il ne s'agit pas d'indicateurs empiriquement validés, et certains jugements resteront indéterminés.
 
 ## Texte proposé pour le manifeste
@@ -163,3 +171,4 @@ Sources consultées le **16 novembre 2026**. Numéros du tableau comparatif ; in
 - **2026-11-16 — v0.2, `in_progress` :** remplacement de la synthèse de recherche par un **texte proposé pour le manifeste**, directement publiable après approbation. Aucune approbation consignée.
 - **2026-11-16 — v0.3, `in_progress` :** Ajout de pistes de recherche issues des notes historiques sans adopter leurs affirmations ; texte proposé pour le manifeste inchangé.
 - **2026-11-16 — v0.4, `in_progress` :** nouvelle définition d'autodétermination positive, autonomies réflexives individuelles et collectives, conservation possible des normes après examen, récursivité et distinction collectif/membres ; comparaisons académiques sourcées, objections, cas limites et texte candidat révisé. **Aucune approbation ni publication au manifeste.**
+- **2026-11-17 — v0.4, `awaiting_approval` :** relecture finale de la délimitation entre acquisition de ressources ou de connaissances et émancipation ; ajout de critères d'évaluation contextuels, sans seuil ni obligation de performance. **Définition et texte candidat inchangés** ; soumission de la v0.4 à une décision éditoriale distincte. Aucune approbation ni publication.
