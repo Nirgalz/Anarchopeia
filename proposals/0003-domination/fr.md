@@ -5,7 +5,7 @@
 | Champ | Valeur |
 |---|---|
 | ID | AP-0003 |
-| Catégorie principale | [Anarchopeia](../categories/anarchopeia/fr.md) (`anarchopeia`) |
+| Catégorie principale | [Glossaire](../categories/glossary/fr.md) (`glossary`) |
 | Catégories secondaires | [Gouvernance](../categories/governance/fr.md) (`governance`) |
 | Statut | `approved` |
 | Version de travail | 0.5 |

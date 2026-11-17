@@ -5,7 +5,7 @@
 | Field | Value |
 |---|---|
 | ID | AP-0003 |
-| Primary category | [Anarchopeia](../categories/anarchopeia/en.md) (`anarchopeia`) |
+| Primary category | [Glossary](../categories/glossary/en.md) (`glossary`) |
 | Secondary categories | [Governance](../categories/governance/en.md) (`governance`) |
 | Status | `approved` |
 | Working version | 0.5 |

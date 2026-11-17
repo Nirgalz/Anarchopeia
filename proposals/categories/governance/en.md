@@ -18,8 +18,8 @@ Every proposal has **one primary category** and may have several secondary categ
 
 | Proposal | Primary category | Status |
 | --- | --- | --- |
-| [AP-0002 — Emancipation](../../0002-emancipation/en.md) | [Anarchopeia](../anarchopeia/en.md) | `approved` |
-| [AP-0003 — Domination](../../0003-domination/en.md) | [Anarchopeia](../anarchopeia/en.md) | `approved` |
+| [AP-0002 — Emancipation](../../0002-emancipation/en.md) | [Glossary](../glossary/en.md) | `approved` |
+| [AP-0003 — Domination](../../0003-domination/en.md) | [Glossary](../glossary/en.md) | `approved` |
 | [AP-0005 — Transition beyond capitalism](../../0005-capitalism-transition/en.md) | [Economy](../economy/en.md) | `in_progress` |
 | [AP-0007 — Distributed monetary creation](../../0007-distributed-money-creation/en.md) | [Economy](../economy/en.md) | `in_progress` |
 | [AP-0009 — Limits on monetary accumulation](../../0009-monetary-accumulation-limits/en.md) | [Economy](../economy/en.md) | `in_progress` |

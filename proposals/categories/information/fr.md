@@ -18,7 +18,7 @@ Chaque proposition possède **une seule catégorie principale** et peut avoir pl
 
 | Proposition | Catégorie principale | Statut |
 | --- | --- | --- |
-| [AP-0002 — Émancipation](../../0002-emancipation/fr.md) | [Anarchopeia](../anarchopeia/fr.md) | `approved` |
+| [AP-0002 — Émancipation](../../0002-emancipation/fr.md) | [Glossaire](../glossary/fr.md) | `approved` |
 | [AP-0017 — Prise en compte des externalités sociales et environnementales](../../0017-social-environmental-externalities/fr.md) | [Économie](../economy/fr.md) | `in_progress` |
 | [AP-0019 — Transition proto-anarchique expérimentale](../../0019-proto-anarchic-experimentation/fr.md) | [Gouvernance](../governance/fr.md) | `in_progress` |
 | [AP-0020 — Initiative citoyenne et vote à délégation révocable](../../0020-revocable-delegated-democracy/fr.md) | [Gouvernance](../governance/fr.md) | `in_progress` |

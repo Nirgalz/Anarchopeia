@@ -8,24 +8,34 @@ Every proposal has **one primary category** and, where relevant, **secondary cat
 
 | Category | Primary proposals | Detailed list |
 | --- | ---: | --- |
-| Anarchopeia | 5 | [Anarchopeia](categories/anarchopeia/en.md) |
+| Anarchopeia | 3 | [Anarchopeia](categories/anarchopeia/en.md) |
+| Glossary | 2 | [Glossary](categories/glossary/en.md) |
 | Governance | 3 | [Governance](categories/governance/en.md) |
 | Economy | 15 | [Economy](categories/economy/en.md) |
 | Information | 3 | [Information](categories/information/en.md) |
 
-## Anarchopeia (5)
+## Anarchopeia (3)
 
 Aims, foundational principles, concepts, methods, operations and organization of the project itself.
 
 | ID | Proposal | Status | Approved version | Secondary categories |
 | --- | --- | --- | --- | --- |
 | AP-0001 | [Aims](0001-aims/en.md) | `approved` | 0.4 | None |
-| AP-0002 | [Emancipation](0002-emancipation/en.md) | `approved` | 0.4 | [Governance](categories/governance/en.md), [Information](categories/information/en.md) |
-| AP-0003 | [Domination](0003-domination/en.md) | `approved` | 0.5 | [Governance](categories/governance/en.md) |
 | AP-0004 | [Licensing and contributors' rights](0004-licensing/en.md) | `in_progress` | None | None |
 | AP-0026 | [Manifesto introduction](0026-manifesto-introduction/en.md) | `in_progress` | None | None |
 
 [Also see related proposals in this category](categories/anarchopeia/en.md)
+
+## Glossary (2)
+
+Definitions and conceptual distinctions used in the manifesto; their scope, interpretation and implications remain open to discussion and revision.
+
+| ID | Proposal | Status | Approved version | Secondary categories |
+| --- | --- | --- | --- | --- |
+| AP-0002 | [Emancipation](0002-emancipation/en.md) | `approved` | 0.4 | [Governance](categories/governance/en.md), [Information](categories/information/en.md) |
+| AP-0003 | [Domination](0003-domination/en.md) | `approved` | 0.5 | [Governance](categories/governance/en.md) |
+
+[Also see related proposals in this category](categories/glossary/en.md)
 
 ## Governance (3)
 
@@ -83,4 +93,4 @@ The three status values are `in_progress`, `awaiting_approval`, and `approved`. 
 
 For a new proposal, copy the [proposal template](../PROPOSAL_TEMPLATE.md) into `proposals/<four-digit-id>-<english-slug>/en.md` and add translations such as `fr.md`. Consult the [workflow](../WORKFLOW.md).
 
-**For new proposals:** choose one primary category from `anarchopeia`, `governance`, `economy`, `information`, and optional secondary categories other than the primary. See the [template](../PROPOSAL_TEMPLATE.md).
+**For new proposals:** choose one primary category from `anarchopeia`, `glossary`, `governance`, `economy`, `information`, and optional secondary categories other than the primary. See the [template](../PROPOSAL_TEMPLATE.md).

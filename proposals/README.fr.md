@@ -8,24 +8,34 @@ Chaque proposition a **une catégorie principale** et, lorsque c'est pertinent, 
 
 | Catégorie | Propositions principales | Liste détaillée |
 | --- | ---: | --- |
-| Anarchopeia | 5 | [Anarchopeia](categories/anarchopeia/fr.md) |
+| Anarchopeia | 3 | [Anarchopeia](categories/anarchopeia/fr.md) |
+| Glossaire | 2 | [Glossaire](categories/glossary/fr.md) |
 | Gouvernance | 3 | [Gouvernance](categories/governance/fr.md) |
 | Économie | 15 | [Économie](categories/economy/fr.md) |
 | Information | 3 | [Information](categories/information/fr.md) |
 
-## Anarchopeia (5)
+## Anarchopeia (3)
 
 Finalités, principes fondamentaux, concepts, méthodes, fonctionnement et organisation du projet lui-même.
 
 | ID | Proposition | Statut | Version approuvée | Catégories secondaires |
 | --- | --- | --- | --- | --- |
 | AP-0001 | [Finalités](0001-aims/fr.md) | `approved` | 0.4 | Aucune |
-| AP-0002 | [Émancipation](0002-emancipation/fr.md) | `approved` | 0.4 | [Gouvernance](categories/governance/fr.md), [Information](categories/information/fr.md) |
-| AP-0003 | [Domination](0003-domination/fr.md) | `approved` | 0.5 | [Gouvernance](categories/governance/fr.md) |
 | AP-0004 | [Licence et droits des contributeurs](0004-licensing/fr.md) | `in_progress` | Aucune | Aucune |
 | AP-0026 | [Introduction du manifeste](0026-manifesto-introduction/fr.md) | `in_progress` | Aucune | Aucune |
 
 [Voir aussi les propositions associées à cette catégorie](categories/anarchopeia/fr.md)
+
+## Glossaire (2)
+
+Définitions et distinctions conceptuelles utilisées dans le manifeste, dont la portée, l'interprétation et les implications restent ouvertes à la discussion et à la révision.
+
+| ID | Proposition | Statut | Version approuvée | Catégories secondaires |
+| --- | --- | --- | --- | --- |
+| AP-0002 | [Émancipation](0002-emancipation/fr.md) | `approved` | 0.4 | [Gouvernance](categories/governance/fr.md), [Information](categories/information/fr.md) |
+| AP-0003 | [Domination](0003-domination/fr.md) | `approved` | 0.5 | [Gouvernance](categories/governance/fr.md) |
+
+[Voir aussi les propositions associées à cette catégorie](categories/glossary/fr.md)
 
 ## Gouvernance (3)
 
@@ -83,4 +93,4 @@ Les trois statuts sont `in_progress`, `awaiting_approval` et `approved`. Une ré
 
 Pour créer une proposition, copier le [modèle](../PROPOSAL_TEMPLATE.fr.md) dans `proposals/<identifiant-quatre-chiffres>-<nom-anglais>/en.md` et ajouter des traductions comme `fr.md`. Consulter le [workflow](../WORKFLOW.fr.md).
 
-**Pour les nouvelles propositions :** choisir une catégorie principale parmi `anarchopeia`, `governance`, `economy`, `information`, puis éventuellement des catégories secondaires distinctes de la principale. Consulter le [modèle](../PROPOSAL_TEMPLATE.fr.md).
+**Pour les nouvelles propositions :** choisir une catégorie principale parmi `anarchopeia`, `glossary`, `governance`, `economy`, `information`, puis éventuellement des catégories secondaires distinctes de la principale. Consulter le [modèle](../PROPOSAL_TEMPLATE.fr.md).

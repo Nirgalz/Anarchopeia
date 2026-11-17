@@ -20,14 +20,15 @@ One **proposal** is the unit of research, debate and decision. Its own document 
 
 ## Proposals by category
 
-- **[Anarchopeia](proposals/categories/anarchopeia/en.md)** — Aims, foundational principles, concepts, methods, operations and organization of the project itself. (4 primary proposals.)
+- **[Anarchopeia](proposals/categories/anarchopeia/en.md)** — Aims, foundational principles, concepts, methods, operations and organization of the project itself. (3 primary proposals.)
+- **[Glossary](proposals/categories/glossary/en.md)** — Definitions and conceptual distinctions used throughout the manifesto; their scope and implications are open to discussion and revision. (2 primary proposals.)
 - **[Governance](proposals/categories/governance/en.md)** — Organization of collective decision-making, distribution of powers, institutions, participation, delegation, oversight and transformation of governance systems. (3 primary proposals.)
 - **[Economy](proposals/categories/economy/en.md)** — Organization of production, labor, exchanges, money, ownership, resources and the satisfaction of material needs. Ecological issues and the material conditions of life are given primary consideration. (15 primary proposals.)
 - **[Information](proposals/categories/information/en.md)** — Creation, acquisition, transmission, processing, sharing and use of information and knowledge. This includes education, sciences, media, communication, the quality of public debate, critical thinking, information systems and digital tools. (3 primary proposals.)
 
 Each proposal appears under one primary category; category pages also list proposals associated through secondary categories. The [full catalogue](proposals/README.md) also shows statuses.
 
-Of the 25 proposals, **AP-0001 v0.4, AP-0002 v0.4 and AP-0003 v0.5 are `approved`** and published in the manifesto; the remaining 22 are `in_progress`. All approvals are explicit editorial decisions by the project initiator, not collective ratifications.
+Of the 26 proposals, **AP-0001 v0.4, AP-0002 v0.4 and AP-0003 v0.5 are `approved`** and published in the manifesto; the remaining 23 are `in_progress`. All approvals are explicit editorial decisions by the project initiator, not collective ratifications.
 
 Use [Issues](https://github.com/Nirgalz/Anarchopeia/issues) for questions, criticisms and alternatives and pull requests for substantive text changes.
 

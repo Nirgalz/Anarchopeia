@@ -4,7 +4,7 @@ All contributions—including objections to foundational concepts—are welcome.
 
 ## Proposals are the unit of work
 
-For any substantive amendment to the manifesto, including its aims, principles, definitions or governance, create or revise a numbered [proposal](proposals/README.md) using the [template](PROPOSAL_TEMPLATE.md). Each proposal contains its problem, objectives, proposed change, alternatives, criticism, evaluation, proposed manifesto entry, research, references and revision history **in the same document**. Assign **exactly one primary category** and, where relevant, **secondary categories**, using the stable slugs `anarchopeia`, `governance`, `economy`, `information` (see the [category index](proposals/README.md)). Categories do not determine approval status or file paths.
+For any substantive amendment to the manifesto, including its aims, principles, definitions or governance, create or revise a numbered [proposal](proposals/README.md) using the [template](PROPOSAL_TEMPLATE.md). Each proposal contains its problem, objectives, proposed change, alternatives, criticism, evaluation, proposed manifesto entry, research, references and revision history **in the same document**. Assign **exactly one primary category** and, where relevant, **secondary categories**, using the stable slugs `anarchopeia`, `glossary`, `governance`, `economy`, `information` (see the [category index](proposals/README.md)). Categories do not determine approval status or file paths.
 
 1. Search [Issues](https://github.com/Nirgalz/Anarchopeia/issues) before opening a question, objection, alternative or evidence-based concern.
 2. Distinguish factual claims from values and hypotheses, cite sources, represent opposing evidence fairly and make uncertainties visible.

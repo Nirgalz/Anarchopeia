@@ -20,14 +20,15 @@ La **proposition** est l'unité de recherche, de débat et de décision. Son doc
 
 ## Propositions par catégorie
 
-- **[Anarchopeia](proposals/categories/anarchopeia/fr.md)** — Finalités, principes fondamentaux, concepts, méthodes, fonctionnement et organisation du projet lui-même. (4 propositions principales.)
+- **[Anarchopeia](proposals/categories/anarchopeia/fr.md)** — Finalités, principes fondamentaux, concepts, méthodes, fonctionnement et organisation du projet lui-même. (3 propositions principales.)
+- **[Glossaire](proposals/categories/glossary/fr.md)** — Définitions et distinctions conceptuelles utilisées dans le manifeste, dont la portée et les implications restent discutables et révisables. (2 propositions principales.)
 - **[Gouvernance](proposals/categories/governance/fr.md)** — Organisation des décisions collectives, distribution des pouvoirs, institutions, participation, délégation, contrôle et transformation des systèmes de gouvernance. (3 propositions principales.)
 - **[Économie](proposals/categories/economy/fr.md)** — Organisation de la production, du travail, des échanges, de la monnaie, de la propriété, des ressources et de la satisfaction des besoins matériels. Sont pris en considération première les enjeux écologiques et les conditions matérielles de vie. (15 propositions principales.)
 - **[Information](proposals/categories/information/fr.md)** — Création, acquisition, transmission, traitement, partage et utilisation de l'information et des connaissances. Cela inclut l'éducation, les sciences, les médias, la communication, la qualité du débat public, la réflexion critique, les systèmes d'information et les outils numériques. (3 propositions principales.)
 
 Chaque proposition figure dans une seule catégorie principale ; les pages thématiques listent également les propositions associées par catégorie secondaire. Le [catalogue complet](proposals/README.fr.md) présente aussi les statuts.
 
-Parmi les 25 propositions, **AP-0001 v0.4, AP-0002 v0.4 et AP-0003 v0.5 sont `approved`** et publiées dans le manifeste ; les 22 autres restent `in_progress`. Ces approbations sont des décisions éditoriales explicites de l'initiateur, et non des ratifications collectives.
+Parmi les 26 propositions, **AP-0001 v0.4, AP-0002 v0.4 et AP-0003 v0.5 sont `approved`** et publiées dans le manifeste ; les 23 autres restent `in_progress`. Ces approbations sont des décisions éditoriales explicites de l'initiateur, et non des ratifications collectives.
 
 Utiliser les [Issues](https://github.com/Nirgalz/Anarchopeia/issues) pour les questions, critiques et alternatives, et les pull requests pour modifier les textes.
 
