@@ -8,12 +8,12 @@ Chaque proposition a **une catégorie principale** et, lorsque c'est pertinent, 
 
 | Catégorie | Propositions principales | Liste détaillée |
 | --- | ---: | --- |
-| Anarchopeia | 4 | [Anarchopeia](categories/anarchopeia/fr.md) |
+| Anarchopeia | 5 | [Anarchopeia](categories/anarchopeia/fr.md) |
 | Gouvernance | 3 | [Gouvernance](categories/governance/fr.md) |
 | Économie | 15 | [Économie](categories/economy/fr.md) |
 | Information | 3 | [Information](categories/information/fr.md) |
 
-## Anarchopeia (4)
+## Anarchopeia (5)
 
 Finalités, principes fondamentaux, concepts, méthodes, fonctionnement et organisation du projet lui-même.
 
@@ -23,6 +23,7 @@ Finalités, principes fondamentaux, concepts, méthodes, fonctionnement et organ
 | AP-0002 | [Émancipation](0002-emancipation/fr.md) | `awaiting_approval` | Aucune | [Gouvernance](categories/governance/fr.md), [Information](categories/information/fr.md) |
 | AP-0003 | [Domination](0003-domination/fr.md) | `approved` | 0.5 | [Gouvernance](categories/governance/fr.md) |
 | AP-0004 | [Licence et droits des contributeurs](0004-licensing/fr.md) | `in_progress` | Aucune | Aucune |
+| AP-0026 | [Introduction du manifeste](0026-manifesto-introduction/fr.md) | `in_progress` | Aucune | Aucune |
 
 [Voir aussi les propositions associées à cette catégorie](categories/anarchopeia/fr.md)
 

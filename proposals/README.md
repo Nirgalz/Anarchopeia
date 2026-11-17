@@ -8,12 +8,12 @@ Every proposal has **one primary category** and, where relevant, **secondary cat
 
 | Category | Primary proposals | Detailed list |
 | --- | ---: | --- |
-| Anarchopeia | 4 | [Anarchopeia](categories/anarchopeia/en.md) |
+| Anarchopeia | 5 | [Anarchopeia](categories/anarchopeia/en.md) |
 | Governance | 3 | [Governance](categories/governance/en.md) |
 | Economy | 15 | [Economy](categories/economy/en.md) |
 | Information | 3 | [Information](categories/information/en.md) |
 
-## Anarchopeia (4)
+## Anarchopeia (5)
 
 Aims, foundational principles, concepts, methods, operations and organization of the project itself.
 
@@ -23,6 +23,7 @@ Aims, foundational principles, concepts, methods, operations and organization of
 | AP-0002 | [Emancipation](0002-emancipation/en.md) | `awaiting_approval` | None | [Governance](categories/governance/en.md), [Information](categories/information/en.md) |
 | AP-0003 | [Domination](0003-domination/en.md) | `approved` | 0.5 | [Governance](categories/governance/en.md) |
 | AP-0004 | [Licensing and contributors' rights](0004-licensing/en.md) | `in_progress` | None | None |
+| AP-0026 | [Manifesto introduction](0026-manifesto-introduction/en.md) | `in_progress` | None | None |
 
 [Also see related proposals in this category](categories/anarchopeia/en.md)
 

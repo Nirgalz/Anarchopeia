@@ -6,7 +6,7 @@ Finalités, principes fondamentaux, concepts, méthodes, fonctionnement et organ
 
 Chaque proposition possède **une seule catégorie principale** et peut avoir plusieurs catégories secondaires. Le classement est thématique : il ne constitue **pas une approbation**.
 
-## Propositions principales (4)
+## Propositions principales (5)
 
 | Proposition | Statut | Catégories secondaires |
 | --- | --- | --- |
@@ -14,6 +14,7 @@ Chaque proposition possède **une seule catégorie principale** et peut avoir pl
 | [AP-0002 — Émancipation](../../0002-emancipation/fr.md) | `awaiting_approval` | [Gouvernance](../governance/fr.md), [Information](../information/fr.md) |
 | [AP-0003 — Domination](../../0003-domination/fr.md) | `approved` | [Gouvernance](../governance/fr.md) |
 | [AP-0004 — Licence et droits des contributeurs](../../0004-licensing/fr.md) | `in_progress` | Aucune |
+| [AP-0026 — Introduction du manifeste](../../0026-manifesto-introduction/fr.md) | `in_progress` | Aucune |
 
 ## Propositions associées (catégorie secondaire) (0)
 
