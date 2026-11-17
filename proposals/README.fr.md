@@ -20,7 +20,7 @@ Finalités, principes fondamentaux, concepts, méthodes, fonctionnement et organ
 | ID | Proposition | Statut | Version approuvée | Catégories secondaires |
 | --- | --- | --- | --- | --- |
 | AP-0001 | [Finalités](0001-aims/fr.md) | `approved` | 0.4 | Aucune |
-| AP-0002 | [Émancipation](0002-emancipation/fr.md) | `in_progress` | Aucune | [Gouvernance](categories/governance/fr.md), [Information](categories/information/fr.md) |
+| AP-0002 | [Émancipation](0002-emancipation/fr.md) | `awaiting_approval` | Aucune | [Gouvernance](categories/governance/fr.md), [Information](categories/information/fr.md) |
 | AP-0003 | [Domination](0003-domination/fr.md) | `approved` | 0.5 | [Gouvernance](categories/governance/fr.md) |
 | AP-0004 | [Licence et droits des contributeurs](0004-licensing/fr.md) | `in_progress` | Aucune | Aucune |
 

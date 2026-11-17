@@ -27,7 +27,7 @@ One **proposal** is the unit of research, debate and decision. Its own document 
 
 Each proposal appears under one primary category; category pages also list proposals associated through secondary categories. The [full catalogue](proposals/README.md) also shows statuses.
 
-Of the 25 proposals, **AP-0001 v0.4 and AP-0003 v0.5 are `approved`** and published in the manifesto; the other 23 remain `in_progress`. These explicit editorial decisions were made by the initiator, not collectively ratified.
+Of the 25 proposals, **AP-0001 v0.4 and AP-0003 v0.5 are `approved`** and published in the manifesto; **AP-0002 v0.4 is `awaiting_approval`**, and the other 22 remain `in_progress`. These explicit editorial decisions were made by the initiator, not collectively ratified.
 
 Use [Issues](https://github.com/Nirgalz/Anarchopeia/issues) for questions, criticisms and alternatives and pull requests for substantive text changes.
 
