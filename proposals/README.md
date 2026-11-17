@@ -9,7 +9,7 @@ Every proposal has **one primary category** and, where relevant, **secondary cat
 | Category | Primary proposals | Detailed list |
 | --- | ---: | --- |
 | Anarchopeia | 3 | [Anarchopeia](categories/anarchopeia/en.md) |
-| Glossary | 2 | [Glossary](categories/glossary/en.md) |
+| Glossary | 3 | [Glossary](categories/glossary/en.md) |
 | Governance | 3 | [Governance](categories/governance/en.md) |
 | Economy | 15 | [Economy](categories/economy/en.md) |
 | Information | 3 | [Information](categories/information/en.md) |
@@ -26,7 +26,7 @@ Aims, foundational principles, concepts, methods, operations and organization of
 
 [Also see related proposals in this category](categories/anarchopeia/en.md)
 
-## Glossary (2)
+## Glossary (3)
 
 Definitions and conceptual distinctions used in the manifesto; their scope, interpretation and implications remain open to discussion and revision.
 
@@ -34,6 +34,7 @@ Definitions and conceptual distinctions used in the manifesto; their scope, inte
 | --- | --- | --- | --- | --- |
 | AP-0002 | [Emancipation](0002-emancipation/en.md) | `approved` | 0.4 | [Governance](categories/governance/en.md), [Information](categories/information/en.md) |
 | AP-0003 | [Domination](0003-domination/en.md) | `approved` | 0.5 | [Governance](categories/governance/en.md) |
+| AP-0027 | [Superiorism](0027-superiorism/en.md) | `in_progress` | None | None |
 
 [Also see related proposals in this category](categories/glossary/en.md)
 

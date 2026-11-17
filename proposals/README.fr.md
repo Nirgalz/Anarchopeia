@@ -9,7 +9,7 @@ Chaque proposition a **une catégorie principale** et, lorsque c'est pertinent, 
 | Catégorie | Propositions principales | Liste détaillée |
 | --- | ---: | --- |
 | Anarchopeia | 3 | [Anarchopeia](categories/anarchopeia/fr.md) |
-| Glossaire | 2 | [Glossaire](categories/glossary/fr.md) |
+| Glossaire | 3 | [Glossaire](categories/glossary/fr.md) |
 | Gouvernance | 3 | [Gouvernance](categories/governance/fr.md) |
 | Économie | 15 | [Économie](categories/economy/fr.md) |
 | Information | 3 | [Information](categories/information/fr.md) |
@@ -26,7 +26,7 @@ Finalités, principes fondamentaux, concepts, méthodes, fonctionnement et organ
 
 [Voir aussi les propositions associées à cette catégorie](categories/anarchopeia/fr.md)
 
-## Glossaire (2)
+## Glossaire (3)
 
 Définitions et distinctions conceptuelles utilisées dans le manifeste, dont la portée, l'interprétation et les implications restent ouvertes à la discussion et à la révision.
 
@@ -34,6 +34,7 @@ Définitions et distinctions conceptuelles utilisées dans le manifeste, dont la
 | --- | --- | --- | --- | --- |
 | AP-0002 | [Émancipation](0002-emancipation/fr.md) | `approved` | 0.4 | [Gouvernance](categories/governance/fr.md), [Information](categories/information/fr.md) |
 | AP-0003 | [Domination](0003-domination/fr.md) | `approved` | 0.5 | [Gouvernance](categories/governance/fr.md) |
+| AP-0027 | [Le supériorisme](0027-superiorism/fr.md) | `in_progress` | Aucune | Aucune |
 
 [Voir aussi les propositions associées à cette catégorie](categories/glossary/fr.md)
 

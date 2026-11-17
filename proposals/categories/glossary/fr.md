@@ -6,12 +6,13 @@ Définitions et distinctions conceptuelles utilisées dans le manifeste. Leur se
 
 Chaque proposition possède **une seule catégorie principale** et peut avoir plusieurs catégories secondaires. Le classement est thématique : il ne constitue **pas une approbation**.
 
-## Propositions principales (2)
+## Propositions principales (3)
 
 | Proposition | Statut | Catégories secondaires |
 | --- | --- | --- |
 | [AP-0002 — Émancipation](../../0002-emancipation/fr.md) | `approved` | [Gouvernance](../governance/fr.md), [Information](../information/fr.md) |
 | [AP-0003 — Domination](../../0003-domination/fr.md) | `approved` | [Gouvernance](../governance/fr.md) |
+| [AP-0027 — Le supériorisme](../../0027-superiorism/fr.md) | `in_progress` | Aucune |
 
 ## Propositions associées (catégorie secondaire) (0)
 
