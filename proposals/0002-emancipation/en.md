@@ -10,7 +10,7 @@
 | Status | `approved` |
 | Working version | 0.4 |
 | Approved version | 0.4 |
-| Decision | Explicit approval by initiator, 17 November 2026 ([PR to link]) |
+| Decision | Explicit approval by initiator, 17 November 2026 ([PR #21](https://github.com/Nirgalz/Anarchopeia/pull/21)) |
 | Archived candidate | [AP-0002 v0.4 before approval](https://github.com/Nirgalz/Anarchopeia/blob/8fa15ac443ea023118753b831dc97aefe69ccdd1/proposals/0002-emancipation/en.md) |
 | Submission | 17 November 2026 ([PR #20](https://github.com/Nirgalz/Anarchopeia/pull/20)) |
 | Scope | Foundational concept — emancipation |

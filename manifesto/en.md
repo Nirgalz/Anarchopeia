@@ -28,7 +28,7 @@ It includes a **reflective dimension**: opportunities to acquire and use tools f
 
 Emancipation prescribes no belief, lifestyle or level of intellectual development to attain. Material, social and institutional conditions interact with opportunities for reflection: **the effects of one emancipatory process may enable further emancipation**. The emancipation of a group does not guarantee that of each member; their opportunities and relations of domination must be examined separately.
 
-**Source:** [Approved AP-0002 v0.4](../proposals/0002-emancipation/en.md) · **Decision:** 17 November 2026, project initiator ([PR to link]).
+**Source:** [Approved AP-0002 v0.4](../proposals/0002-emancipation/en.md) · **Decision:** 17 November 2026, project initiator ([PR #21](https://github.com/Nirgalz/Anarchopeia/pull/21)).
 
 ### AP-0003 — Domination
 

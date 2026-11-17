@@ -30,7 +30,7 @@ Elle comporte une **dimension réflexive** : la possibilité d'acquérir et de m
 
 L'émancipation ne prescrit aucune croyance, aucun mode de vie ni aucun niveau intellectuel à atteindre. Les conditions matérielles, sociales et institutionnelles et les possibilités de réflexion interagissent : **les effets d'une émancipation peuvent devenir les conditions de nouvelles émancipations**. L'émancipation d'un collectif ne garantit pas celle de ses membres ; leurs possibilités et les rapports de domination doivent être examinés séparément.
 
-**Source :** [AP-0002 v0.4 approuvée](../proposals/0002-emancipation/fr.md) · **Décision :** 17 novembre 2026, initiateur du projet ([PR à lier]).
+**Source :** [AP-0002 v0.4 approuvée](../proposals/0002-emancipation/fr.md) · **Décision :** 17 novembre 2026, initiateur du projet ([PR #21](https://github.com/Nirgalz/Anarchopeia/pull/21)).
 
 ### AP-0003 — Domination
 
