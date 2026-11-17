@@ -10,6 +10,7 @@
 | Status | `awaiting_approval` |
 | Working version | 0.4 |
 | Approved version | None |
+| Submission | 17 November 2026 ([PR #20](https://github.com/Nirgalz/Anarchopeia/pull/20)) |
 | Scope | Foundational concept — emancipation |
 | Origin | Initiator discussion, 16 November 2026; earlier combined [discussion paper](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/en/foundations/aims-emancipation-and-non-domination.md) |
 | Translation | [Français](fr.md) |
