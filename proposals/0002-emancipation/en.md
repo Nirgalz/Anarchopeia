@@ -7,15 +7,17 @@
 | ID | AP-0002 |
 | Primary category | [Anarchopeia](../categories/anarchopeia/en.md) (`anarchopeia`) |
 | Secondary categories | [Governance](../categories/governance/en.md) (`governance`), [Information](../categories/information/en.md) (`information`) |
-| Status | `awaiting_approval` |
+| Status | `approved` |
 | Working version | 0.4 |
-| Approved version | None |
+| Approved version | 0.4 |
+| Decision | Explicit approval by initiator, 17 November 2026 ([PR to link]) |
+| Archived candidate | [AP-0002 v0.4 before approval](https://github.com/Nirgalz/Anarchopeia/blob/8fa15ac443ea023118753b831dc97aefe69ccdd1/proposals/0002-emancipation/en.md) |
 | Submission | 17 November 2026 ([PR #20](https://github.com/Nirgalz/Anarchopeia/pull/20)) |
 | Scope | Foundational concept — emancipation |
 | Origin | Initiator discussion, 16 November 2026; earlier combined [discussion paper](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/en/foundations/aims-emancipation-and-non-domination.md) |
 | Translation | [Français](fr.md) |
 
-**Editorial status:** working version **0.4**, whose definition and candidate entry were retained unchanged after final review, was **submitted for formal approval** (`awaiting_approval`) on 17 November 2026. The comparative research, objections and outstanding boundary questions remain available. **No approval has been recorded, and no AP-0002 text is published in the manifesto.**
+**Editorial status:** **AP-0002 v0.4 was explicitly approved by the initiator on 17 November 2026**. Its unmodified candidate entry was incorporated into the [manifesto](../../manifesto/en.md). This editorial decision is neither collective ratification nor empirical validation; criticism and future revision remain possible.
 
 ## Problem
 
@@ -174,3 +176,15 @@ Sources consulted **16 November 2026**. Numbers correspond to the comparative ta
 - **2026-11-16 — v0.3, `in_progress`:** Added research leads from historical notes without adopting their claims; proposed manifesto entry unchanged.
 - **2026-11-16 — v0.4, `in_progress`:** positive self-determination, individual and collective reflective autonomy, possible retention of norms after scrutiny, recursion and separate group/member evaluation; sourced comparative research, objections, boundary cases and revised candidate text. **No approval or manifesto publication.**
 - **2026-11-17 — v0.4, `awaiting_approval`:** final review of the boundary between gaining resources or knowledge and emancipation; added contextual assessment prompts without thresholds or performance requirements. **Definition and candidate manifesto entry unchanged**; v0.4 submitted for a separate editorial decision. No approval or publication.
+ 
+- **2026-11-17 — v0.4, `approved`:** explicit formal approval by the initiator and **verbatim** publication of the candidate entry in both manifestos; objections remain documented.
+
+### Approval decision — 17 November 2026
+
+- **Decision and authority:** the initiator, sole editorial approver under provisional governance, expressly approves **AP-0002 v0.4**, previously `awaiting_approval`. This is **not collective ratification** and does not approve any other proposal.
+- **Rationale:** emancipation as growing effective opportunities for self-determination beyond liberation alone; constitutive individual and collective reflective autonomy; ability to retain, change or abandon norms after examination; distinction between groups and members; recursive enabling conditions, processes and effects; no prescribed intellectual proficiency or conclusions.
+- **Alternatives considered:** purely legal or negative definitions; assuming collective freedom entails each member's emancipation; prescribing an ideal emancipated identity; equating every new resource or item of knowledge with emancipation. Comparative research covering Marx, Freire, Rancière, Castoriadis, Sen and Nussbaum and relational autonomy is retained.
+- **Unresolved objections:** the boundary between more options and emancipation, internalized preferences, intellectual paternalism, constraints on participation and dissent, uneven member effects, assessment difficulties and negative feedback.
+- **Scope:** normative editorial decision, not empirical proof or scientific consensus; distinct from the non-domination concept in AP-0003, preserving the equal aims in AP-0001.
+- **Revisions:** substantive replacement of the approved version requires another explicit decision under the workflow; criticisms remain open.
+- **Traceability:** [submitted v0.4](https://github.com/Nirgalz/Anarchopeia/blob/8fa15ac443ea023118753b831dc97aefe69ccdd1/proposals/0002-emancipation/en.md); decision PR recorded in metadata.

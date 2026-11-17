@@ -20,7 +20,7 @@ Aims, foundational principles, concepts, methods, operations and organization of
 | ID | Proposal | Status | Approved version | Secondary categories |
 | --- | --- | --- | --- | --- |
 | AP-0001 | [Aims](0001-aims/en.md) | `approved` | 0.4 | None |
-| AP-0002 | [Emancipation](0002-emancipation/en.md) | `awaiting_approval` | None | [Governance](categories/governance/en.md), [Information](categories/information/en.md) |
+| AP-0002 | [Emancipation](0002-emancipation/en.md) | `approved` | 0.4 | [Governance](categories/governance/en.md), [Information](categories/information/en.md) |
 | AP-0003 | [Domination](0003-domination/en.md) | `approved` | 0.5 | [Governance](categories/governance/en.md) |
 | AP-0004 | [Licensing and contributors' rights](0004-licensing/en.md) | `in_progress` | None | None |
 | AP-0026 | [Manifesto introduction](0026-manifesto-introduction/en.md) | `in_progress` | None | None |

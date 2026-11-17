@@ -1,6 +1,6 @@
 # Anarchopoeia — Living Manifesto
 
-**Publication status:** AP-0001 v0.4 and AP-0003 v0.5 were approved by the project initiator on 16 November 2026 under provisional editorial governance.
+**Publication status:** AP-0001 v0.4 and AP-0003 v0.5 were approved on 16 November 2026, followed by AP-0002 v0.4 on 17 November 2026, by the project initiator under provisional editorial governance.
 
 This manifesto contains **only entries from approved proposals**, with links to their research, criticism, references and decisions. Unapproved proposals are not incorporated.
 
@@ -19,6 +19,16 @@ To pursue these aims, Anarchopoeia examines political, economic, social, and inf
 **No institution, method, or proposal is regarded as definitive.** Anarchopoeia's manifesto and governance remain open to criticism, challenge, and revision.
 
 **Source:** [Approved AP-0001 v0.4](../proposals/0001-aims/en.md) · **Decision:** 16 November 2026, project initiator ([PR #13](https://github.com/Nirgalz/Anarchopeia/pull/13)).
+
+### AP-0002 — Emancipation
+
+**Emancipation** is an evolving, not necessarily linear individual or collective process through which people and groups develop or regain effective opportunities to define, pursue and revise their own ends, direct their choices and act on their conditions of existence. It is not limited to overcoming constraints or ending relations of domination.
+
+It includes a **reflective dimension**: opportunities to acquire and use tools for examining one's beliefs, representations, interpretations and their influence on choices. For a group, this also includes examining its shared norms, customs, habits and the social pressures it exerts or experiences. This may lead to retaining, changing or abandoning practices after reflection.
+
+Emancipation prescribes no belief, lifestyle or level of intellectual development to attain. Material, social and institutional conditions interact with opportunities for reflection: **the effects of one emancipatory process may enable further emancipation**. The emancipation of a group does not guarantee that of each member; their opportunities and relations of domination must be examined separately.
+
+**Source:** [Approved AP-0002 v0.4](../proposals/0002-emancipation/en.md) · **Decision:** 17 November 2026, project initiator ([PR to link]).
 
 ### AP-0003 — Domination
 

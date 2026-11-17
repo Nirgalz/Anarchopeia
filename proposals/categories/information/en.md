@@ -18,7 +18,7 @@ Every proposal has **one primary category** and may have several secondary categ
 
 | Proposal | Primary category | Status |
 | --- | --- | --- |
-| [AP-0002 — Emancipation](../../0002-emancipation/en.md) | [Anarchopeia](../anarchopeia/en.md) | `awaiting_approval` |
+| [AP-0002 — Emancipation](../../0002-emancipation/en.md) | [Anarchopeia](../anarchopeia/en.md) | `approved` |
 | [AP-0017 — Accounting for social and environmental externalities](../../0017-social-environmental-externalities/en.md) | [Economy](../economy/en.md) | `in_progress` |
 | [AP-0019 — Experimental proto-anarchic transition](../../0019-proto-anarchic-experimentation/en.md) | [Governance](../governance/en.md) | `in_progress` |
 | [AP-0020 — Citizen initiative and revocable delegated voting](../../0020-revocable-delegated-democracy/en.md) | [Governance](../governance/en.md) | `in_progress` |
