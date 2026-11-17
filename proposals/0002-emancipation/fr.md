@@ -7,15 +7,17 @@
 | ID | AP-0002 |
 | Catégorie principale | [Anarchopeia](../categories/anarchopeia/fr.md) (`anarchopeia`) |
 | Catégories secondaires | [Gouvernance](../categories/governance/fr.md) (`governance`), [Information](../categories/information/fr.md) (`information`) |
-| Statut | `awaiting_approval` |
+| Statut | `approved` |
 | Version de travail | 0.4 |
-| Version approuvée | Aucune |
+| Version approuvée | 0.4 |
+| Décision | Approbation explicite de l'initiateur, 17 novembre 2026 ([PR #21](https://github.com/Nirgalz/Anarchopeia/pull/21)) |
+| Version candidate archivée | [AP-0002 v0.4 avant approbation](https://github.com/Nirgalz/Anarchopeia/blob/8fa15ac443ea023118753b831dc97aefe69ccdd1/proposals/0002-emancipation/fr.md) |
 | Soumission | 17 novembre 2026 ([PR #20](https://github.com/Nirgalz/Anarchopeia/pull/20)) |
 | Portée | Concept fondamental — émancipation |
 | Origine | Échanges avec l'initiateur, 16 novembre 2026 ; ancien [document de discussion](https://github.com/Nirgalz/Anarchopeia/blob/1239be91a393f5666fa268bc27289b2af44f94f7/content/fr/foundations/aims-emancipation-and-non-domination.md) |
 | Traduction | [English](en.md) |
 
-**Statut éditorial :** la version de travail **0.4**, dont la définition et le texte candidat sont conservés sans modification après relecture finale, est **soumise à l'approbation formelle** (`awaiting_approval`) le 17 novembre 2026. La recherche comparative, les objections et les questions de délimitation restent consultables. **Aucune approbation n'est consignée et aucun texte d'AP-0002 n'est publié dans le manifeste.**
+**Statut éditorial :** **AP-0002 v0.4 a été explicitement approuvée par l'initiateur le 17 novembre 2026**. Son texte candidat inchangé a été intégré au [manifeste](../../manifesto/fr.md). Cette décision éditoriale n'est ni une ratification collective ni une validation empirique ; les critiques et les révisions restent possibles.
 
 ## Problème
 
@@ -173,3 +175,15 @@ Sources consultées le **16 novembre 2026**. Numéros du tableau comparatif ; in
 - **2026-11-16 — v0.3, `in_progress` :** Ajout de pistes de recherche issues des notes historiques sans adopter leurs affirmations ; texte proposé pour le manifeste inchangé.
 - **2026-11-16 — v0.4, `in_progress` :** nouvelle définition d'autodétermination positive, autonomies réflexives individuelles et collectives, conservation possible des normes après examen, récursivité et distinction collectif/membres ; comparaisons académiques sourcées, objections, cas limites et texte candidat révisé. **Aucune approbation ni publication au manifeste.**
 - **2026-11-17 — v0.4, `awaiting_approval` :** relecture finale de la délimitation entre acquisition de ressources ou de connaissances et émancipation ; ajout de critères d'évaluation contextuels, sans seuil ni obligation de performance. **Définition et texte candidat inchangés** ; soumission de la v0.4 à une décision éditoriale distincte. Aucune approbation ni publication.
+
+- **2026-11-17 — v0.4, `approved` :** approbation formelle explicite par l'initiateur et publication **inchangée** du texte candidat dans le manifeste français et anglais. Les objections restent documentées.
+
+### Décision d'approbation — 17 novembre 2026
+
+- **Décision et autorité :** l'initiateur, seul responsable éditorial selon la gouvernance provisoire, approuve explicitement **AP-0002 v0.4**, précédemment `awaiting_approval`. Il ne s'agit **pas d'une ratification collective** ; aucune autre proposition n'est approuvée par cette décision.
+- **Motifs :** émancipation comme développement de possibilités effectives d'autodétermination, au-delà du seul affranchissement ; dimension constitutive d'autonomie réflexive individuelle et collective ; possibilité de maintenir, modifier ou abandonner des normes après examen ; distinction entre collectifs et membres ; conditions, processus et effets récursifs ; absence d'exigence de niveau intellectuel ou de conclusions imposées.
+- **Alternatives examinées :** définitions exclusivement juridique ou négative ; assimilation de la seule libération collective à l'émancipation de chacun ; conception prescriptive de l'individu émancipé ; assimilation de toute nouvelle ressource ou connaissance à une émancipation. Comparaisons avec Marx, Freire, Rancière, Castoriadis, Sen et Nussbaum et l'autonomie relationnelle conservées dans la Recherche.
+- **Objections non résolues :** frontière entre l'accroissement d'options et l'émancipation, reconnaissance des préférences intériorisées, risques de paternalisme, contraintes à la participation et au désaccord, effets divergents sur les membres, difficultés d'évaluation et rétroactions négatives.
+- **Portée :** décision normative et éditoriale, non preuve empirique ni consensus scientifique ; distinction avec la non-domination définie dans AP-0003 et égalité des deux finalités d'AP-0001 conservées.
+- **Révisions :** tout remplacement substantiel de la version approuvée exige une nouvelle décision explicite selon le workflow. Les critiques demeurent ouvertes.
+- **Traçabilité :** [version soumise v0.4](https://github.com/Nirgalz/Anarchopeia/blob/8fa15ac443ea023118753b831dc97aefe69ccdd1/proposals/0002-emancipation/fr.md) ; PR de décision indiquée dans les métadonnées.

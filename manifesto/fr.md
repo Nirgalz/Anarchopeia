@@ -2,7 +2,7 @@
 
 # Anarchopoeia — Manifeste vivant
 
-**État de publication :** AP-0001 v0.4 et AP-0003 v0.5 ont été approuvées le 16 novembre 2026 par l'initiateur du projet selon la gouvernance éditoriale provisoire.
+**État de publication :** AP-0001 v0.4 et AP-0003 v0.5 ont été approuvées le 16 novembre 2026, puis AP-0002 v0.4 le 17 novembre 2026, par l'initiateur du projet selon la gouvernance éditoriale provisoire.
 
 Ce manifeste présente **uniquement les textes des propositions approuvées**, accompagnés de liens vers leurs recherches, critiques, références et décisions. Les propositions non approuvées n'y figurent pas.
 
@@ -21,6 +21,16 @@ Pour poursuivre ces finalités, Anarchopoeia examine les systèmes politiques, �
 **Aucune institution, méthode ou proposition n'est considérée comme définitive.** Le manifeste et la gouvernance d'Anarchopoeia restent ouverts à la critique, à la contestation et à la révision.
 
 **Source :** [AP-0001 — v0.4 approuvée](../proposals/0001-aims/fr.md) · **Décision :** 16 novembre 2026, initiateur du projet ([PR #13](https://github.com/Nirgalz/Anarchopeia/pull/13)).
+
+### AP-0002 — Émancipation
+
+**L'émancipation** est un processus individuel ou collectif, évolutif et non nécessairement linéaire, par lequel les personnes et les collectifs développent ou retrouvent leurs possibilités effectives de définir, poursuivre et réviser leurs propres finalités, d'orienter leurs choix et d'agir sur leurs conditions d'existence. Elle ne se réduit ni à l'affranchissement des contraintes ni à la disparition des rapports de domination.
+
+Elle comporte une **dimension réflexive** : la possibilité d'acquérir et de mobiliser des outils pour examiner ses croyances, représentations, interprétations et leurs influences sur ses choix. Pour un collectif, elle comprend aussi l'examen de ses normes, coutumes, habitudes et des pressions sociales qu'il exerce ou subit. Cette démarche peut conduire à maintenir, modifier ou abandonner des pratiques après réflexion.
+
+L'émancipation ne prescrit aucune croyance, aucun mode de vie ni aucun niveau intellectuel à atteindre. Les conditions matérielles, sociales et institutionnelles et les possibilités de réflexion interagissent : **les effets d'une émancipation peuvent devenir les conditions de nouvelles émancipations**. L'émancipation d'un collectif ne garantit pas celle de ses membres ; leurs possibilités et les rapports de domination doivent être examinés séparément.
+
+**Source :** [AP-0002 v0.4 approuvée](../proposals/0002-emancipation/fr.md) · **Décision :** 17 novembre 2026, initiateur du projet ([PR #21](https://github.com/Nirgalz/Anarchopeia/pull/21)).
 
 ### AP-0003 — Domination
 
