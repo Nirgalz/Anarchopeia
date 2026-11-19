@@ -1,8 +1,6 @@
-# Anarchopeia
+**Anarchopœia** is a neologism that combines *anarchy*, from the Greek *an-* (“without”) and *arkhê* (“rule”), with *poíēsis* (ποίησις), meaning “creation” or “making”. The word evokes the idea of **bringing anarchy into being**.
 
-**A living, revisable manifesto developed through collective research and discussion.**
-
-Anarchopeia is a project exploring emancipation of individuals and collectives and the disappearance of relations of domination. Its working ideas, including its foundational concepts and methods, are open to criticism and revision. Its initiator understands anarchy as a theoretical horizon whose definitive stabilization cannot be guaranteed, not as a final institution.
+**Anarchopœia** refers to a collective effort with two aims, the emancipation of individuals and collectives and the disappearance of relations of domination. It involves studying how people organize together and what effects those arrangements have, imagining new ways to organize and experimenting with them. Anarchy gives direction to this effort, whose forms are still to be developed.
 
 **Languages:** English (canonical editorial language) · [Français](README.fr.md). Translations in other languages are welcome.
 

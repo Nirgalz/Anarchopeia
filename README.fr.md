@@ -1,8 +1,6 @@
-# Anarchopeia
+**Anarchopœia** est un néologisme qui associe *anarchie*, du grec *an-* (« sans ») et *arkhê* (« commandement »), à *poíēsis* (ποίησις), « création » ou « fabrication ». Le mot évoque ainsi l’idée de **faire advenir l’anarchie**.
 
-**Un manifeste vivant et révisable, élaboré par la recherche et la discussion collectives.**
-
-Anarchopoeia est un projet explorant l'émancipation des individus et des collectifs ainsi que la disparition des rapports de domination. Ses idées de travail, y compris ses concepts et méthodes fondamentaux, restent critiquables et révisables. Son initiateur considère l'anarchie comme un horizon théorique dont la stabilisation définitive ne peut être garantie, et non comme une institution finale.
+Anarchopœia désigne une démarche collective qui poursuit deux finalités, l’émancipation des individus et des collectifs et la disparition des rapports de domination. Elle consiste à étudier les manières de s’organiser ensemble et leurs effets, à en imaginer de nouvelles et à les expérimenter. L’anarchie donne une direction à cette démarche, dont les formes restent à construire.
 
 **Langues :** [English (langue éditoriale de référence)](README.md) · Français. D'autres traductions sont bienvenues.
 
