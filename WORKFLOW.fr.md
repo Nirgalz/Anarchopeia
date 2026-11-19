@@ -58,7 +58,8 @@ Voir le [modèle](PROPOSAL_TEMPLATE.fr.md) et le [catalogue des propositions](pr
 - Une version approuvée doit être documentée par son numéro **et** un lien vers le commit ou la PR permettant de la retrouver.
 - L'anglais fait référence pour la rédaction ; le français est maintenu en parallèle. D'autres langues utilisent le même dossier numéroté et un nom de fichier correspondant à leur code BCP 47.
 - Après une approbation, actualiser `manifesto/en.md` et les traductions correspondantes ou signaler explicitement qu'une traduction doit être révisée. Ne pas inventer de traduction ni laisser des divergences silencieuses.
-- Les **premiers brouillons non approuvés** peuvent être présents sur `main` pour être accessibles, avec un statut `in_progress` explicite. Les **révisions de versions déjà approuvées** restent sur des branches jusqu'à leur approbation.
+- `main` est la branche de travail par défaut. Créer chaque nouvelle proposition directement sur `main` au statut `in_progress`, sans créer de branche dédiée.
+- Les **révisions de versions déjà approuvées** restent sur des branches jusqu'à leur approbation.
 - Modifier le workflow ou l'autorité d'approbation exige aussi une proposition.
 
 ## Vérifications avant approbation

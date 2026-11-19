@@ -30,7 +30,7 @@ Chaque proposition figure dans une seule catégorie principale ; les pages thém
 
 Parmi les 27 propositions, **AP-0001 v0.4, AP-0002 v0.4 et AP-0003 v0.5 sont `approved`** et publiées dans le manifeste ; les 24 autres restent `in_progress`. Ces approbations sont des décisions éditoriales explicites de l'initiateur, et non des ratifications collectives.
 
-Utiliser les [Issues](https://github.com/Nirgalz/Anarchopeia/issues) pour les questions, critiques et alternatives, et les pull requests pour modifier les textes.
+Utiliser les [Issues](https://github.com/Nirgalz/Anarchopeia/issues) pour les questions, critiques et alternatives. Créer les nouvelles propositions directement sur `main`, la branche de travail par défaut, et utiliser les pull requests pour les autres modifications de fond.
 
 ## Matériaux antérieurs
 

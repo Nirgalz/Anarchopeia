@@ -8,7 +8,7 @@ Pour toute modification substantielle du manifeste, y compris de ses finalités,
 
 1. Consulter les [Issues](https://github.com/Nirgalz/Anarchopeia/issues) avant de soulever une question, une objection, une alternative ou un problème documenté.
 2. Distinguer faits, valeurs et hypothèses ; citer les sources, exposer loyalement les éléments contraires et signaler les incertitudes.
-3. Ouvrir une pull request pour modifier les textes, en expliquer les motifs, lier les Issues et signaler les traductions à revoir.
+3. Créer les nouvelles propositions directement sur `main` au statut `in_progress`, sans branche dédiée. Ouvrir une pull request pour les autres modifications des textes. Expliquer les motifs, lier les Issues pertinentes et signaler les traductions à revoir dans la proposition ou la pull request.
 4. Passer une version candidate à `awaiting_approval` pour solliciter une décision. L'initiateur est actuellement le seul responsable éditorial ; il ne s'agit pas d'une ratification collective.
 5. Après **approbation explicite**, actualiser la version, la décision et le texte approuvé dans le [manifeste](manifesto/fr.md). La fusion d'un brouillon **ne vaut pas approbation**.
 

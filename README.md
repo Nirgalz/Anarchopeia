@@ -30,7 +30,7 @@ Each proposal appears under one primary category; category pages also list propo
 
 Of the 27 proposals, **AP-0001 v0.4, AP-0002 v0.4 and AP-0003 v0.5 are `approved`** and published in the manifesto; the remaining 24 are `in_progress`. All approvals are explicit editorial decisions by the project initiator, not collective ratifications.
 
-Use [Issues](https://github.com/Nirgalz/Anarchopeia/issues) for questions, criticisms and alternatives and pull requests for substantive text changes.
+Use [Issues](https://github.com/Nirgalz/Anarchopeia/issues) for questions, criticisms and alternatives. Create new proposal drafts directly on `main`, the default working branch, and use pull requests for other substantive text changes.
 
 ## Earlier materials
 

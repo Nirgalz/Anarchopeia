@@ -8,7 +8,7 @@ For any substantive amendment to the manifesto, including its aims, principles, 
 
 1. Search [Issues](https://github.com/Nirgalz/Anarchopeia/issues) before opening a question, objection, alternative or evidence-based concern.
 2. Distinguish factual claims from values and hypotheses, cite sources, represent opposing evidence fairly and make uncertainties visible.
-3. Open a pull request for changes. Explain why, link relevant issues and mark translations needing review.
+3. Create new proposals directly on `main` as `in_progress` drafts, without a dedicated branch. Open a pull request for other text changes. Explain the rationale, link relevant issues and flag translations needing review in the proposal or pull request.
 4. Mark a candidate `awaiting_approval` when seeking a decision. The initiator currently acts as sole editorial approver; no collective ratification is implied.
 5. After **explicit approval**, update the proposal version, approval record and [manifesto](manifesto/en.md) entry. Merging a draft does **not** constitute approval.
 

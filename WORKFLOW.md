@@ -58,7 +58,8 @@ See the [template](PROPOSAL_TEMPLATE.md) and [proposal catalogue](proposals/READ
 - The approved version should be recorded by version identifier **and** Git commit/PR link so it can be reconstructed.
 - English is the canonical editorial wording; French is maintained in parallel. New languages use the same numbered directory and a BCP 47 language-tagged file.
 - An approved change is integrated into `manifesto/en.md`, with matching translations updated or marked for review. Do not invent a translation or let it silently diverge.
-- Keeping unapproved **initial draft files** on `main` is permitted for discoverability, as long as their `in_progress` status is explicit. Draft **revisions of already approved** files should be isolated in branches until approved.
+- `main` is the default working branch. Create each new proposal directly on `main` with status `in_progress`, without creating a dedicated branch.
+- Draft **revisions of already approved** files should be isolated in branches until approved.
 - Changes to this workflow or approval authority must themselves follow the proposal process.
 
 ## Quality checks before approval
